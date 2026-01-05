@@ -473,7 +473,9 @@ Skills can be used to give more mechanical weight to important pieces of your ch
 
 # Tokens
 
-Tokens are used to represent simple, temporary changes to a character. Whenever a Scene ends, all tokens you have are removed. After being used once, a Token is removed from the character carrying it. You can have a maximum of 2 Tokens per type at time. Following is the list of the current tokens
+Tokens are used to represent simple, temporary changes to a character. Most Tokens' effects trigger automatically, such as "the next instance of Damage you take". Others allow you to choose when to use them, such as "after you make a Roll you may". Both types are removed after being used once
+
+Tokens are also removed from all characters at the end of each Scene. Additionally, you may only carry 2 Tokens per type at time
 
 - **Lucky:** after you make a Roll you may spend this Token and Roll again. You must ignore the first Roll. The first Roll counts as never having happened for other rules' purpose
 - **Armor:** ignore the next instance of Damage you take is halved
