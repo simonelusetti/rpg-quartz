@@ -391,7 +391,7 @@ Note that it’s entirely based on the circumstances if the characters involved 
 >**Important Note:** Your playing character is a character in the story and is just as vulnerable to Finales as the others. If you lose a Clash and end with a Finale that indicates how your character was tricked, the Director can and might force you to act like it, making decisions that you the player fully know are dangerous or even dumb. It must be said the Director is always encourage to never take away player's agency too much or for too long, so these situations will be rare. However, there is certainly space for drama in seeing your dear character be lured into a trap with you unable to "warn" them of the incoming danger
 
 A hero's spirit is not so easily broken though, and so any character can still try to resist the effects of a Finale. However, doing so will always result in a Death Roll
-### Death Rolls and Reprisals 
+## Death Rolls and Reprisals 
 
 Death Rolls represent extremely dangerous situations in which failure means the death of a character. They can be called at the Director's will, even when at full WP, if the narrative circumstances dictates it. These are called Narrative Death Rolls. However, most of the times, they will be called during a Clash
 
