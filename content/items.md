@@ -392,7 +392,7 @@ _In the sunless realm, the sun was forged at last_
 - _Forge the Day -_ When you Activate this Item, you and each other allied character may Activate an Item for no Cost ignoring the once per turn Item Activation, or use an Item's Ability as a Rapid Action
 - _Sperantia Invictas -_ When an allied character Rolls a Critical, if every other allied character already Rolled a Critical, you may Activate this item at no Cost and as a Reaction
 
-# Bard
+## Bard
 
 **Tapestry of Words (Mythic)** (2)
 _The old masters used to say that there is only one Story that's just being retold_
@@ -435,7 +435,7 @@ _Here's how I would have let that play out ..._
 
 - _Redraft Fate -_ If this Item is Active when you inflict a Finale on a character, ATTD you may choose to change to something else. Then, if the Clash is still ongoing, Deactivate this Item
 
-# Druid
+## Druid
 
 **Of Many Faces** (2)
 _We are no more than a mechanisms of flesh, and no less_
