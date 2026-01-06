@@ -66,7 +66,7 @@ If your result is lower, you Fail the Roll
 This number is called the Difficulty. Many rules add Bonus or Malus Dice to a Roll. If you have any Bonus Dice you roll that many more 1d20 and keep the highest one. If you instead have any Malus Dice you roll that many additional 1d20 and keep the lowest. If you have a combination of both they cancel out. A few examples:
 
 - With 3 BD and 3 MD you roll just the Base Die
-- With 3 BD and 2 MD you roll 2d20 (the bBase and a single Bonus) and keep the highest
+- With 3 BD and 2 MD you roll 2d20 (the Base and a single Bonus) and keep the highest
 - With 5 MD and 3 BD you roll 3d20 and keep the lowest
 
 Rolling multiple 1s in a roll is a Disaster, rolling multiple 20s is a Breakthrough, together they are called Criticals. Disasters are always failures and Breakthroughs are always successes. The Director is encouraged to narrate especially outstanding, surprising or simply funny narrative results when a Critical occurs. On top of that they can often trigger additional effects
