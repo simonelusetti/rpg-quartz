@@ -316,7 +316,7 @@ You can specify what you're trying to learn giving clues and hints you have gath
 
 Most Secrets are Minor Secrets and can be Learnt using the normal Study Action. Major Secrets are crucial to the plot of the story or to the flow of a Clash, and so require Investigating to be Learn. Using the generic Study will result in you (wrongly) learning the target has no Secrets left. However, if you Investigate a target and they have no Secrets that match the Investigation you won't Learn anything. You will know the Investigation failed because of this
 
-Note: the first time you Clash with a character or class of them (like your first time fighting a Zombie), you may not know all their Inactive Traits and Items. These are considered Secrets, which can be Learnt using the Study Action
+Note: the first time you Clash with a character or class of them (like your first time fighting a Zombie), your character is not guaranteed to know all rules relevant to them, like what inActive Traits or Items they are holding onto, their Personality, special rules and so on. These are all Secrets (by default Minor Ones) that can be Learnt with Study
 
 **Impairing:** _Tying a mage's fingers together, screaming loudly to make a diversion, Impairing is the act of not dealing directly with a threat but trying to make their job harder somehow_
 
