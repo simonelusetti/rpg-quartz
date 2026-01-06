@@ -180,6 +180,7 @@ Good use of narrative elements should be rewarded, and Improvisation is how it's
 >   To avoid this problem, the _same exact_ Prop can't be used more than once, ever. Note that it's ATDD what counts as being "the same Prop". Meaning that if the player changed from a simple cut on the tongue, to something more elaborate like eating a rat's head, cutting off one of their fingers, or such, they could very reasonably earn the BD
 
 **Appropriate Item:** for an Item to be Appropriate for Improvisation means that it's Name or Narrative Form is Appropriate. Abilities don't count
+
 Sub-Note: by "Abilities don't count" we mean you can't justify your Improvisation with "I use my Item's abilities, **which deals damage** to help with killing this sleeping bandit". You can still use the actual Ability if its effect is applicable, but you cannot use "what it does" for Improvisation
 
 Scene Elements can similarly give you MDs in the same amount they would give you BD, if their presence would hinder your action. The Director can only propose them and they apply only if you accept. However, when you Fail with MDs earned this way you gain 1 Persistent Lucky Token. Up to 2 per Session
