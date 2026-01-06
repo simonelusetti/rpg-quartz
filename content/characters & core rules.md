@@ -490,10 +490,9 @@ Tokens are also removed from all characters at the end of each Scene. Additional
 - **Power:** your next instance of Damage you deal is doubled
 - **Dodge:** the next time you are Targeted, the Roll made against you automatically fails
 - **Taunt:** when Attacking, a character must choose characters with Taunt Tokens if possible
-- **Stealth:** You are unTargetable, but making a Roll removes this Token
+- **Stealth:** you are unTargetable, but making a Roll removes this Token
 - **Poise:** the next time you would gain a temporary Trait or suffer an Alternation, you don't
-- **Fear of X:** you cannot gain BD if a character with X (the source of your fear) is in the Scene
-- **Trauma:** your next Roll gains 1 MD
+- **Fear of X:** if you Target a character with X, you cannot gain BD
 - **Sleep:** you cannot make Rolls. This Token is removed at the end of your turn or if take Damage or if a character spends their Action waking you up
 - **Aim:** on your next Roll, the Foil can only Block with up to 3 BD
 - **Precision:** on your next Target ignore Dodge, Stealth and Taunt Tokens and the Foil cannot Block

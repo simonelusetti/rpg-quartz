@@ -526,15 +526,15 @@ _Every statue chips away at the sculptor as well_
 | Illuminate the Rhyme       |   1   | Lantern 🕯 |
 | Ash-Pressed Meter          |   1   | Clock ⏱    |
 | Enflaming Scandal          |   1   | Lips 💋    |
-| Lyric of the Heated Quill  |   1   | Edge 🔪    |
+| Lyric of Heated Quill      |   1   | Edge 🔪    |
 | Ember Lament               |   1   | Thorn 🌹   |
-| Last Ember Aria            |   1   | Star 🌟    |
+| Last Spark Aria            |   1   | Star 🌟    |
 | Unflickering Words         |   2   | Heart ❤️   |
 | Engulfing Verset           |   2   | Thunder ⚡ |
 | Melt the Ink               |   2   | Chaos 🌪️   |
 | Unfinished Fire-Proof Poem |   2   | Key 🗝     |
 | An Ode to Summer Heat      |   3   | Lips 💋    |
-| A Verset from Inferno      |   3   | Edge 🔪    |
+| Versets from the Inferno   |   3   | Edge 🔪    |
 
 **Baker Street Paradigm** (3)
 _The world hides what matters to it_
@@ -543,17 +543,17 @@ _The world hides what matters to it_
 - _Arcane Deduction -_ {Cast a Spell}: The Target of the Spell takes no Damage. Instead, for each Success you may ask the Director a Yes or No question, Appropriately relating to the use of the Spell. The Cast Spell cannot be a Persistent Spell
 - Spell Slots: 3 Level 1, 2 Level 2, 1 Level 3
 
-| Spell Name                | Level | Symbol     |
-| ------------------------- | :---: | ---------- |
-| Streetlight Interrogation |   1   | Lantern 🕯 |
-| Time Sensitive            |   1   | Clock ⏱    |
-| Slipped Words             |   1   | Lips 💋    |
-| Cut the Chase             |   1   | Edge 🔪    |
-| Hole in the Story         |   1   | Thorn 🌹   |
-| Uneasy Alibi              |   1   | Star 🌟    |
-| Unpaid Debts              |   2   | Heart ❤️   |
-| Crack the Mystery         |   2   | Thunder ⚡ |
-| Scramble the Record       |   2   | Chaos 🌪️   |
-| Out the Back Door         |   2   | Key 🗝     |
-| Perfect Lie               |   3   | Lips 💋    |
-| Fold the File             |   3   | Lantern 🕯 |
+| Spell Name                  | Level | Symbol     |
+| --------------------------- | :---: | ---------- |
+| Streetlight Interrogation   |   1   | Lantern 🕯 |
+| Time Sensitive              |   1   | Clock ⏱    |
+| Slipped Words               |   1   | Lips 💋    |
+| Cut the Chase               |   1   | Edge 🔪    |
+| Hole in the Story           |   1   | Thorn 🌹   |
+| Uneasy Alibi                |   1   | Star 🌟    |
+| Unpaid Debts                |   2   | Heart ❤️   |
+| Crack the Mystery           |   2   | Thunder ⚡ |
+| Scramble the Record         |   2   | Chaos 🌪️   |
+| Out the Back Door           |   2   | Key 🗝     |
+| Perfect Lie                 |   3   | Lips 💋    |
+| See Through the Glass Onion |   3   | Lantern 🕯 |
