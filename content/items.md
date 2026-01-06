@@ -497,8 +497,8 @@ _The first churches were the shades of snow covered tree_
 **Malleus Imperative** (7)
 _Every statue chips away at the sculptor as well_
 
-- _The Great Work -_ (1 Use per Level): choose a Target willing character and a Target willing dead character of the same Level. The alive one is permanently changed into a new one. The player playing that character creates this new character as if it was a complexly new of the same Level as the Targets. However, their Traits must be chosen only from those of the Targets, in equal measure from both
-- _Manipulation of the Ink -_ You may use _The Great Work_ at Rapid Speed and on any Target character, if that character is currently being inflicted a Major Finale
+- _Reshape -_ (1 Use per Level): choose a Target willing character and a Target willing dead character of the same Level. The alive one is permanently changed into a new one. The player playing that character creates this new character as if it was a complexly new of the same Level as the Targets. However, their Traits must be chosen only from those of the Targets, in equal measure from both
+- _My Greatest Work -_ You may use _The Great Work_ at Rapid Speed and on any Target character, if that character is currently being inflicted a Major Finale
 
 ## Generics
 
