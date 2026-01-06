@@ -146,11 +146,11 @@ When being Tempted, you simply need to make a Conflict Roll with the Symbol of t
 
 **Levelling:** as you will see, most of your character's power comes from two things: Traits and Items, of which you will gain more and more as you continue your adventure. There's no concept of experience points in this game, instead characters gain new Levels when completing narrative milestones, important moments in the story
 
-The way you gain new Items is described in their section. You also gain a new Minor Traits every Level. Additionally, once you have at least 4 Minor Traits you may also choose to gain a single Major Trait instead of a Minor one when Levelling. However, you can only ever have 2 Major Traits gained from Levels. When Levelling you can also decide to swap out a Minor Trait for a new (Minor) one. Normally, once you gain a Major Trait it can never be removed
+The way you gain new Items is described in their section. You also gain a new Minor Traits every Level. Additionally, once you have at least 4 Minor Traits you may also choose to gain a single Major Trait instead of a Minor one when Levelling. You can only ever have 2 Major Traits gained from Levels. When Levelling you can also decide to swap out a Minor Trait for a new (Minor) one. Normally, once you gain a Major Trait it can never be removed
 
 You should work with the Director to decide which new Traits you gain, reflecting your characters new skills, resources, ambitions and goals
 
-Each new level you may also Sharpen your Personalities: choose two Personalities, remove 1 point from them and add them to one or two other Personalities. Note that you can go below -3 and above 6 when Sharpening your Personalities (you still can't go below -10 or above 10)
+Each new level you may also Sharpen your Personalities: choose up to 2 Personalities, remove 1 point from them and add the removed scores to one or two other Personalities. This can make you go below -3 and above 6, but still within -10 and 10
 
 # Scene Elements & Improvisation
 
