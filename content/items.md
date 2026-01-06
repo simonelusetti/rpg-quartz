@@ -508,14 +508,14 @@ _The first churches were the shades of snow covered tree_
 - _Personified Ground -_ {Exs, 3}: Target the Scene itself, it gains a Trait equal to any Trait of an allied character, until end of Scene. Whenever a character makes a Roll that Appropriately aligns with that Trait, they gain + 2 BD. Whenever a character makes a Roll that Appropriately misaligns with that Trait, they gain + 2 M
 
 **Malleus Imperative** (7)
-_Every statue chips away at the sculptor as well_
+\*Every statue chips away at the sculptor
 
 - _Reshape -_ (1 Use per Level): choose a Target willing character and a Target willing dead character of the same Level. The alive one is permanently changed into a new one. The player playing that character creates this new character as if it was a complexly new of the same Level as the Targets. However, their Traits must be chosen only from those of the Targets, in equal measure from both
 - _My Greatest Work -_ You may use _The Great Work_ at Rapid Speed and on any Target character, if that character is currently being inflicted a Major Finale
 
 ## Generics
 
-**The Ember-bound Anthology (2)**
+**The Ember-bound Anthology** (2)
 \*Disrespect most books and its author will get angry, disrespect this one and the page will burn between your fingers
 
 - _Ignite the page!_ - (R, when you cast a Spell) {X}: the Spell's Level for this cast becomes X, you cannot cast that same Spell until your next Rest\*
