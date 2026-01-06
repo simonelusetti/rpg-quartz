@@ -345,7 +345,7 @@ _Exceptional for investigating murders or the sudden disappearance of your walle
 **Paper Ministry's Badge** (5)
 _If there's a single constant in the world my dear, is that what you say can never be unsaid_
 
-- _Information Soup -_ Start Channelling on analyzing Target Prop, Trait or character. On Completion, Record the Target in this Item. It stays Recorded until next Rest
+- _Information Soup -_ Start Channelling for a Scene on analyzing Target Prop, Trait or character. On Completion, Record the Target in this Item. It stays Recorded until next Rest
 - _Weapon, Motive and Opportunity -_ State a coherent timeline and description of events regarding the recorded Traits, Props and characters. If it's Appropriately accurate you gain 1 Persistent Lucky Token. Regardless, you learn if it was considered Appropriately accurate
 - _Just One More Thing -_ If you used _Weapon, Motive and Opportunity_ to create an Appropriately accurate timeline, every time a character deliberately lies to you about said timeline, they take 1 Damage. This may start a Clash
 
