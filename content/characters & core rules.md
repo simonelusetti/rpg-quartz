@@ -277,7 +277,9 @@ Do you simply swing your hammer at the troll or try more subterfuge strategies l
 ### Targeting
 
 Actions and Abilities are almost always done against an hostile character, who will usually try to resist their effects. Targeting is short-hand for:
+
 $$\text{Make an Appropriate Roll against a character in the Scene, if you Pass then ...}$$
+
 For example, Attacking is defined as "When Attacking you deal 1 Damage to Target character", which expands to "choose a character in the Scene then make an Appropriate Roll based on the circumstances of the Scene. On Pass you deal 1 Damage to that character"
 
 If you Pass the Roll for the Target, the rest of the Ability resolves as normal, otherwise it Fails. More complex Abilities might spell out exactly what happens on a Fail but by default it simply has no effect
