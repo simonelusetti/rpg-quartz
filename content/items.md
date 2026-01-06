@@ -177,7 +177,7 @@ _Courage is unpredictable. It's total insanity you can rely on!_
 **Shattering Hammer** (5)
 _There's no lie in bones, and no deception in blood_
 
-- _Mutilate -_ (R, when you Hit) {Exs}: Place X Shatter Charge son Target Active SE the Hit character has, where X is the Damage you just dealt. Then if the SE has 10 or more Shatter Charges, Destroy it
+- _Mutilate -_ (R, when you Hit) {Exs}: Place X Shatter Charge on Target Active SE the Hit character has, where X is the Damage you just dealt. Then if the SE has 10 or more Shatter Charges, Destroy it
 
 **Hearth of Perseverance** (5)
 _Fear the warriors with no armor for they have nothing to loose_
@@ -187,7 +187,8 @@ _Fear the warriors with no armor for they have nothing to loose_
 **Flintblade Handaxe** (7)
 _There was a time where the defeated themselves were the spoils of war_
 
-- _Primordial Warfare_ - {Exs}: All your other Active Items and all Items you Activate this Clash loose all abilities, if they don't have any Focus Value they gain Focus Value 1
+- _Primordial Warfare_ - {Exs}: For the rest of the Scene, all your other Active Items loose all abilities, if they don't have any Focus Value they gain Focus Value 2
+- _All You Can Give -_ If _Primordial Warfare_ was used this Scene, and you have no Inactive Item or Trait, this Item gains Focus Value 3
 
 ## Paladin
 
