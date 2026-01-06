@@ -44,13 +44,26 @@ _The Wizard is a character that focuses on spells: learning, casting and buildin
 **Tome of the Eternal Student (Mythic)** (2)
 _I swear the extra arm was completely intentional. Goes with my third eye_
 
-- Spell slots: 4 3 2
-- Inherent spells: [TODO]
-- Narrative Form: [TODO]
+- Spell slots: 4 level 1, 3 level 2, 2 level 3
 - _Watch and Learn_
   - Whenever you witness first hand the use of a Spell you can try to learn it for yourself. To do so spend 1 Hour during a Rest or 2 Hours if this isn't the first Rest you are taking after witnessing it
   - You can also transcribe a spell you only have second hand experience with, like reading it from a book, being in a place with visible effects of its cast, hearing witnesses talk about and so on. Doing so takes meaningful time, 2 Hours during a Rest, and it's not guaranteed to work: make a Roll against the original caster of the Spell, on a fail the attempt to learn it is fruitless. If the second hand experience is particularly high quality (such as an intact lore book or hearing about it from a powerful caster), you can use them as Props for Improvisation
   - Note: learning a spell this won’t necessarily tell everything about the Spell. You may only learn it's Name, Level or Symbol instead of all of them. However, whenever you cast it during a Clash you learn all of the information regarding it
+
+| Spell Name              | Level | Symbol     |
+| ----------------------- | :---: | ---------- |
+| Peer Review             |   1   | Lantern 🕯 |
+| Arcane Appendix         |   1   | Clock ⏱    |
+| Indecent Hypothesis     |   1   | Lips 💋    |
+| Faulty Assumption       |   1   | Edge 🔪    |
+| Intellectual Dishonesty |   1   | Thorn 🌹   |
+| Cerebral Spark          |   1   | Star 🌟    |
+| Impenetrable Proof      |   2   | Heart ❤️   |
+| Disrupt Argument        |   2   | Thunder ⚡ |
+| Stream of Consciousness |   2   | Chaos 🌪️   |
+| Missed Contradiction    |   2   | Key 🗝     |
+| Eureka Moment           |   3   | Star 🌟    |
+| Quod Erat Demonstrandum |   3   | Lantern 🕯 |
 
 **Misspelling Hat** (3)
 _Fire Bolt seemed to have no effect, until the wizard realized he now had to find another job_
