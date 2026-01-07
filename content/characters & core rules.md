@@ -134,7 +134,7 @@ Effects can cause your character to have parts of their personality or physical 
 
 You are encouraged to roleplay your character Alterations. If an enfeebling effect Eclipses your Heart, narrate how your character’s movements are fatigued and slow. If your Lantern gets Exalted your character might be of seeing hidden patterns, hearing strange revelations in the wind and so on
 
-**Traits:** traits are codified marks of your identity. ATDD they can truly be anything, but common ones include your race, your background, ties to a person or faction, knowledge in a field or expertise with a set of tools and so on. They are divided into Major and Minor, with the difference being how core to your character's identity they are. Additionally, Major Traits also have Symbol associated with it. When you make your character you start with 1 Major Trait and 2 Minor Traits. The character whom a Trait belongs to is called its Holder, this weird term will make more sense in the context of Items
+**Traits:** traits are codified marks of your identity. ATDD they can truly be anything, but common ones include your race, your background, ties to a person or faction, knowledge in a field or expertise with a set of tools and so on. They are divided into Major and Minor, with the difference being how core to your character's identity they are. Additionally, Major Traits also have Symbol associated with it. When you make your character you start with 1 Major Trait and 2 Minor Traits. The character whom a Trait belongs to is called its Carrier, this weird term will make more sense in the context of Items
 
 **Temporary Traits:** Some rules, like Spells, can apply Temporary Traits on you. These specify a condition for ending them, and don't count toward your maximum number of Traits
 
@@ -392,11 +392,11 @@ Making an Interruptions spends your Reaction (the resource), meaning that normal
 
 **Triggers Priority:** Triggered Abilities also follow this rule and are added to the Stack in turn order of their controller, if a player controls multiple of them they choose their order. Triggered abilities are added to the Stack before any Reactions can be stated
 
-# WP & Damage
+# Damage and Finales
 
 In this game there are no Health/Hit Points, instead there are Will Points, which function similarly but instead of representing just your physical health encompass your general willpower. Cues with actual ruling always specify how much Damage they inflict and when they do
 
-Narrative Cues can also deal Damage when they causes Reasonably significant stress to a character: a particularly offensive insult, the reveal of their secrets, and so on. Narrative Cues always deal 1 Damage. Doing anything severe enough to cause a character to loose even 1 WP is usually enough to instigate a Clash
+Narrative Cues can also deal Damage when they causes Reasonably significant stress to a character: a particularly offensive insult, the reveal of their secrets, and so on. Narrative Cues always deal 1 Damage
 
 Player characters start with 5 WP each
 
@@ -404,29 +404,35 @@ Every character has two types of WP, Major and Minor, representing how much of t
 
 **Example:** Let’s say you want to convince a guard that you are a traveling doctor here to cure the sick king (who you actually want to kill). The guard is obviously suspicious so you need to convince him. He has 4 Major WP, of which 2 are Minor WP. Since this is, in the eyes of the guard, not a life or death situation, the resulting Clash is a Minor Clash. Eventually, you manage to Win the Minor Clash. If however you end up wanting to actually kill him, you initiate a Major Clash, which the guard will start at 2 WP (note how the last damage that won the Minor Clash doesn’t get carried over to Major ones)
 
-**Preparation WP**: Some particularly powerful enemies such as dragons, vampires, crime lords and so on will have some of their WP listed as Preparation WP
+As a player, your interest in winning a Clash might change. If you think a Minor Clash is very important to win, when you receive damage while at 0 Minor WP, you can decide to lose one Major WP instead of Losing the Clash
 
-Normally, to Damage a character they need to be in the same Scene and will be aware of the Damage taken. However, let's say that during a ball hosted by a shady noble some of the party sneaks around her mansion to discover some hidden artifacts, mapping out the place, or discovering letters from a secret lover. All these Cues give a narrative edge against her, doing so immediately damages some or all of her Preparation WP. It’s ATDD how much your preparation has dealt damage this way, and even if you can reasonably know that value
+Some effects (Spells for example) will increase your Potential Damage for one or more Rolls. Having Potential Damage X for means that you will deal 1 Damage for each Success Die in the Roll, up to X, instead of the normal total of 1
 
-This adds a way to incorporate prep time, detective work, manipulation and surprise effects into actual, mechanical damage. By default, each Preparation Damage is healed at the rate of 1 per Rest, however this highly dependent on the circumstances of the Damage. A crucial one being if the Damaged character even knows they were sabotaged this way
+Doing anything severe enough to cause a character to take Damage is usually enough to instigate a Clash. If this happens the side that took Damage is Surprised and doesn't gain their Action during their first turn of the Clash
 
-As a player, your interest in winning a Clash might change. If you think a Minor Clash is very important to win, when you receive damage while at 0 Minor WP, you can decide to lose one Major WP instead
+Note: 1 Damage is a lot in this game, so most NPCs will consider any Cue with even that low amount of Damage to be an actual aggression, on their person, their house, their status or whatever it may be
 
-Some effects (Spells for example) will increase your Potential Damage for a single Action or more. Having Potential Damage X for an Attack means that you will deal 1 Damage for each Success Die in the Attack, up to X, instead of the normal total of 1 
+## Margin WP
 
-While most Damage is dealt inside a Clash, any Narrative Action may deal Damage. When attempted, these NA usually start a Clash. If their Roll was a Pass and you actually dealt Damage, the enemy characters are Surprised and skip their first turn
+Some particularly powerful enemies such as dragons, vampires, crime lords and so on will have some of their WP listed as Margin WP
 
-Note: 1 Damage is a lot in this game, so most NPCs will consider a NA dealing even that low amount of Damage an actual aggression, on their person, their house, their status or whatever it may be
+Normally, to Damage a character they need to be in the same Scene and will be aware of the Damage taken. Margin WP can be Damaged even when not interacting directly with their character
+
+**Example:** A shady noblewoman is hosting a ball. Some Party members sneaks around her mansion to discover forbidden artifacts, mapping out the place, letters from a secret lover. Each of these Cues can Damage her Margin WP
+
+Note that having Margin WP means the character can be Damaged indirectly, but doesn't specify any actual way of doing so. The Players will still have to use their wit to make Cues that will Reasonably sabotage the character
+
+By default Margin WPs are healed at the rate of 1 per Rest, however this highly dependent on the circumstances of the story. A crucial one being if the Damaged character even knows they were hindered this way
 
 ## Resting
 
-Whenever the Scene changes, all characters recover all their Minor WP, to Recover all their WP and most other resources characters need to Rest. It’s ATDD how much narrative time is required for a Rest, as the specifics depend heavily on the story. It could be just a few minutes for an adventure that lasts a few days or even months for decades spanning adventures
+Outside of a Clash, when the Scene changes all characters recover all their Minor WP. To Recover all their WP (and most other resources) characters need to Rest. There's not set Narrative time needed for a Rest, it could be a just a few hours in an Adventure that fully concludes in a few in narrative days. It may take weeks to Rest for characters playing a decades spanning Adventure
 
-The players are encouraged to still narrate what they are doing during their Rests, usually involving Scenes that can be quickly narrated without any stakes. Shopping, mending stuff, general errands are great Scenes to leave for Rests to save actual play time
+The players are encouraged to narrate what they are doing during their Rests, usually involving low-stakes Scenes that can be quickly narrated without any Cue. Shopping, mending stuff, general errands are great Scenes to leave for Rests to save actual play time
 
-There are two Hours in a Rest, which absolutely don't need to reflect actual in game hours, these are just the abstract time resources you can spend during Rests. Some abilities will requires you to spend 1 or 2 of them doing something to get a result, or they may increase or decrease the Hours you have in a Rest, and so on
+There are two Hours in a Rest, which absolutely don't need to reflect actual in game hours, these are just the abstract time resources you can spend during Rests. Some abilities will requires you to spend some of them doing something to get a result, or they may increase or decrease the Hours you have in a Rest, and so on
 
-# Finales
+## Finales
 
 _With the bandits at their last breath, they surrender to you and agree to betray their employers, a resolution that cannot be undone_
 
@@ -477,21 +483,23 @@ While Narrative Death Rolls are decided by the nature of the action, like in the
 
 # Spells
 
-Classes do not exist in this game, so you gain your Spells from Items. Items like fantasy grimoires, futuristic dataslates and other collections usually contain a multitude of Spells to choose from. Some will have special rules to determine how many and which Spells you can cast, but most of them use Spell Slots, which are a finite resource stored in the Item. When you cast a Spells with Spell Slots, you must expend a Spell Slot of Level equal or higher than the Spell’s own Level
+Classes do not exist in this game, so you gain your Spells from Items. Items like fantasy grimoires, futuristic dataslates and other usually contain a multitude of Spells to choose from. Some will have special rules to determine how many and which Spells you can cast, but most of them use Spell Slots, which are a finite resource stored in the Item. When you cast a Spells with Spell Slots, you must expend a Spell Slot of Level equal or higher than the Spell’s own Level
 
-A Spell (usually) has only 3 elements: the Name, the Level and the Symbol. Some Spells have special rules about their casting, but all of them do not have a specific effect on the narrative. Instead the Narrative Form of a Spell must be chosen by you during the casting
+Note: the Spell Slot doesn't need to come from the same Item. This is also true if an Item's Ability has spending a Spell Slot as part of its Cost
 
-To be Appropriate, the Narrative Form must have a narrative connection with the Name of the spell. For example, the evergreen spell Fireball can be used with effects such as _I want to melt this metal door down_ or the simple _I want this enemy fried_. However, it can’t be used with the effect “I want to resurrect this character” as the effect has no bearing with the Name
+A Spell (usually) has only 3 elements: the Name, the Level and the Symbol. Some Spells have special rules about their casting, but all of them do not have a specific effect on the narrative, a set Narrative Form. Instead the Narrative Form of a Spell must be chosen by you during the casting, and must be Reasonable
+
+To be Reasonable, the Narrative Form must have a narrative connection with the Name of the spell. For example, the evergreen spell Fireball can be used with effects such as _I want to melt this metal door down_ or the simple _I want this enemy fried_. However, it can’t be used with the effect “I want to resurrect this character” as the effect has no bearing with the Name
 
 When you Cast a Spell, you always Target a character. Be it an impulse of arcane energy to kill a creature, an hypnotic enchantment and so on. You gain a number of BD equal to the Spell’s Level, plus an additional one if the Symbol you are using is the same as Spell’s Symbol. If this Roll would cause Damage (such as when Casting during Clashes) the Potential Damage is increased by the Spell's Level
 
 **Example:** If you cast the spell Neversound, a Level 2 Key Spell, with the effect of _I emit no sound to sneakily get past that enemy_, you gain 2 BD, +1 for being a Key Roll (plus or minus BD or MD gained from other rules). You would Roll your Key over the guard’s Lantern. Let’s say the resulting Difficulty is 16 and you Roll 4, 18, 15, 16, so you succeed and easily get past. If the guard is particularly skillful, the Director may decide that a simple Roll isn’t enough and to get past him you would require a Minor Clash. In this case you carry over your Roll as an Attack, gaining a Potential Power of 3 and (with your 18 and 16 Success Dice) you deal 2 Damage. 
 
-**Persistent Spells:** If the Effect you choose has continuous repercussions, instead of activating and going away, the Spell gives the Target a special Minor Trait, called a Spell Traits. Like any other Temporary Trait this doesn't count towards your maximum number of Traits. The target then stores a number of Dice equal to twice Spell’s Level in the Spell Dice Pool. As with normal Spells, the Trait and Effect must be Appropriate with its Name
+**Persistent Spells:** If the Effect you choose has continuous repercussions, instead of activating and going away, the Spell gives the Target a special Temporary Trait, called a Spell Trait. Like any other Temporary Trait this doesn't count towards your maximum number of Traits. The target then stores a number of Dice equal to twice Spell’s Level in the Spell Dice Pool. As with normal Spells, the Trait and Effect must be Appropriate with its Name
 
 When the Target makes a Roll using the Spell Trait, instead of gaining just 1 BD or MD you can expend a number of Dice from the Spell Dice Pool up to half the Spell's Level (rounded down), to give them the same amount of MD or BD. If the Roll has the same Symbol as the Spell they Roll 1 additional BD or MD, but this additional die can only be gained twice per Spell cast. When the pool is empty, the Spell ends. When the Spell ends, the target loses the Spell Trait and empties the Spell Dice Pool. A character can have any amount Spell Traits at time but the caster can have only a single Persistent Spell active at time
 
-While you have a Persistent Spell active, taking Damage will reduce the amount of Dice stored in the affected character's Pool by the same amount
+While you have a Persistent Spell active, taking Damage will reduce the amount of Dice stored in the affected character's Pool by the same amount. Note: the caster of the Spell must be Damaged to reduce the amount of Dice in the Pool, the Target can take any beating but this won't affect the number of Dice stored
 
 Note: If used as BD in an Attack during a Clash, the Dice gained from a Persistent Spell do not increase Potential Damage. Additionally, Persistent Spells still Target, so unwilling characters can resist it, making you Roll to see if Spell Fails
 
@@ -507,29 +515,29 @@ Skills can be used to give more mechanical weight to important pieces of your ch
 
 # Tokens
 
-Tokens are used to represent simple, temporary changes to a character. Most Tokens' effects trigger automatically, such as "the next instance of Damage you take". Others allow you to choose when to use them, such as "after you make a Roll you may". Both types are removed after being used once
+Tokens are used to represent simple, temporary changes to a character. Most Tokens' rules trigger automatically, such as "the next instance of Damage you take". Others allow you to choose when to use them, such as "after you make a Roll you may". Both types are removed after being used once
 
-Tokens are also removed from all characters at the end of each Scene. Additionally, you may only carry 2 Tokens per type at time
+Tokens are also removed from all characters at the end of each Scene. You may only carry 2 Tokens per type at time
 
-- **Lucky:** after you make a Roll you may spend this Token and Roll again. You must ignore the first Roll. The first Roll counts as never having happened for other rules' purpose
-- **Armor:** ignore the next instance of Damage you take is halved
+- **Lucky:** after you make a Roll you may Roll again. You must ignore the first Roll. The first Roll counts as never having happened for other rules' purpose
+- **Armor:** ignore the next instance of Damage you take
 - **Weak:** the next instance of Damage you deal is halved
 - **Vulnerable:** the next instance of Damage you take is doubled
-- **Power:** your next instance of Damage you deal is doubled
-- **Dodge:** the next time you are Targeted, the Roll made against you automatically fails
-- **Taunt:** when Attacking, a character must choose characters with Taunt Tokens if possible
+- **Power:** the next instance of Damage you deal is doubled
+- **Dodge:** the next time you are Targeted, the Roll made against you automatically Fails
+- **Taunt:** when Attacking, a character must Target a character with Taunt Tokens if possible
 - **Stealth:** you are unTargetable, but making a Roll removes this Token
-- **Poise:** the next time you would gain a temporary Trait or suffer an Alternation, you don't
-- **Fear of X:** if you Target a character with X, you cannot gain BD
+- **Poise:** the next you are the Target of a Cue that would give you a Temporary Trait or make you suffer an Alteration to a Symbol, you may choose to make the Targeting automatically fail
+- **Fear of X:** if you Target a character with X, you cannot gain BD on Rolls
 - **Sleep:** you cannot make Rolls. This Token is removed at the end of your turn or if take Damage or if a character spends their Action waking you up
 - **Aim:** on your next Roll, the Foil can only Block with up to 3 BD
-- **Precision:** on your next Target ignore Dodge, Stealth and Taunt Tokens and the Foil cannot Block
+- **Precision:** your next Targeting ignores Dodge, Stealth and Taunt Tokens and the Foil cannot Block
 - **Certainty**: your next Roll automatically Succeed
 
 Modifiers:
 
 - **Persistent:** a Persistent Token is not lost when the Scene changes, but only on Rest. It's still lost on use
-- **Permanent:** a Permanent Token isn't removed and can only be removed by rule that specifically remove it. It's not lost on use
+- **Permanent:** a Permanent Token isn't removed when used and can only be removed by rule that specifically remove it. It still expires when the Scene changes
 - **Ephemeral:** an Ephemeral Token only last until the start of the next turn of the character controlling the effect that created it. Used only in Clashes
 - **Countless:** a character can have any amount of Countless Token (instead of up to 2)
 
@@ -545,7 +553,7 @@ Note: as separate characters, they Control Props on their own
 
 **Mobs:** Some Extras aren't a single being but a multitude, a swarm of stinging insects, an army of zombies, and so on. These are called Mobs. Their Power is always equal to their WP, so as they get Damaged or Healed they shrink and grow in strength
 
-They count as being as many characters as their WP, so they can be Targeted by Abilities that affect multiple characters, count as being that many characters for the purpose of Space in Controlling Props and so on. Effects that deal Damage to all characters in the Scene, if Passed, halve their WP. Similarly, if all characters in the Scene would regain WP, their WP is doubled. However this can't bring them over their original WP
+They count as being as many characters as their WP, so they can be Targeted by Abilities that affect multiple characters, count as being that many characters for the purpose of Space in Controlling Props and so on. Effects that would deal Damage to all characters in the Mob, if Passed, halve their WP. Similarly, if all characters in the Mob would regain WP, their WP is doubled. However this can't bring them over their original WP
 
 # Send-off note: on role vs playing and how to marry this bickering lot
 

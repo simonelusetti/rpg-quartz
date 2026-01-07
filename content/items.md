@@ -2,34 +2,34 @@ In this document and explanation of Items, how to use them, and the list of the 
 
 # Items
 
-There is no real concept of classes in this game, instead Items are used to represent mechanically unique effects. A character can carry as many items as they wish regardless of reasonability. Especially since, while called Items, they must not be physical objects but maybe skills, abilities or certain properties
+There is no real concept of classes in this game, instead Items are used to represent mechanically unique effects. A character can carry as many items as they wish regardless of reasonability. Especially since, while called Items, their Narrative Form is fully up to you and the Director, meaning that they could be represented as anything between swords, shields, cybernetics augmentation, mental skills and such
 
-There are however Mythical Items: particularly powerful ones that define how your character playstyle. You can think of these as your "class". When you create a new character you start with a Mythical Item. While you can, ATDD, get a new one Mythical Item, you can only ever Hold one
+The closest thing to a class system are Mythic Items. These are powerful Items that can define your playstyle like a class would. You can Own any number of them but may only Carry one at time
 
-There are three states Items can be in relation to you:
+Items can be in various states:
 
-- Owned: this means you own the Item. You may not have it with you, such as keeping it in your base
+- Owned: this means you own the Item. You may not have it with you, such as keeping it in your base. Note that Owner always refers to their **original** owner, stolen Items still belong to their Owner regardless of who currently has it
 - Carried: you physically have the Item with you at the moment
-- Active: their Abilities can be used and are active. Outside of Clashes every Carried Item is Active
-- Inactive: applies during Clashes and is the state all Items are when it starts. Their Abilities do not apply and can't be used
-- Disabled: this Item counts as having no Abilities, even if Active
+- Active: their Abilities are Active and may be used
+- Inactive: their Abilities aren't Active and can't be used, this is the state Items are at the begging of a Clash
+- Disabled: this Item has no having no Abilities and can't be used, even if Active
 - Rusted: a Rusted Item is Disabled. This condition can be removed if you spend 2 Hours during a Rest repairing it. In the right places NPCs may do this for you
 
-The Director can decide when to let players gain additional Items, and whether to give them specific ones or let them choose for themselves. It is advised to give a character a new Item every time they Level
+When you create your character you start with a single Mythic Item. You can gain new Items during the course of the Adventure, at any time the Director feels like it. Additionally, you gain an extra Item when you Level. Depending on the type of Adventure you're playing, the Director may give you specific Items or let you choose between a set of Items. However, they are encouraged to let you choose any Item in this document
 
 **Abilities and Cost:** as described in the Clash section, Items can have an Activation Cost. This is indicated by the number next to their name.
 
 They may also have Abilities that require you to pay a cost to activate them. These are called Activated Abilities and have three components:
 
-- (word in parenthesis) indicate a Rapid Ability which you can use at Rapid speed but also expends your Reaction, and when you can use it. As a reminder: you regain your Reaction each turn (not just yours!). Sometimes, parenthesis are also used to indicate the number of uses
+- (word in parenthesis) indicate an Interruption that expend your Reaction, and when you can use it. As a reminder: you regain your Reaction each turn (not just yours!). Sometimes, parenthesis are also used to indicate the number of uses
 - {words in brackets} are the Cost, which is usually just a Number, the amount of Focus you need to pay. Exs, which stands for Exhaust, is also common, representing that you need to Exhaust the Item to activate it. Some have more specific costs that are fully described in the item
 - The effect: that comes after the column. This is simply the actual rules of the Ability
 
-When you Activate an Item you need to wait until your next turn to be able to Exs it, meaning if one of its Activated Abilities has {Exs} in the Cost you can't use until then
+The two other kind of Abilities Items have are Passive Abilities, which are Active when the Item is, and Triggered Abilities, which automatically Activate when a condition is met. These are the ones that use "if, when, whenever" and so on
 
-The two other kind of Abilities Items have are Passive Abilities, which are always Active when the Item is, and Triggered Abilities, which automatically Activate when a condition is met. These are the ones that use "if, when, whenever" and so on
+When you Activate a non-Rapid Item you cannot Exhaust it until your next turn
 
-**Items outside of Clashes:** outside of Clashes you gain all of the Triggered and Passive Abilities. Unless specifically written you cannot use their Activated Abilities, and even when you can this may only be done once per Scene unless otherwise stated
+**Items in the Narrative:** outside of Clashes Items are Active, so you automatically earn all their Triggered and Passive Abilities
 
 **Channeling:** Some Items will refer to Channelling, for example with "Channel for a Scene, on Completion ..., on Break ...". When you Channel you may not take Narrative Actions until the Channel ends. Note this means that you cannot make Rolls. If you take Damage while Channeling, the Channel is Broken, which may result in some effects, usually negative. All Channels indicate how long they last, if by that time the Channel is unBroken, the Channel Completes. This usually result in positive effects. Both Breaking and Completing a Channel ends it
 
