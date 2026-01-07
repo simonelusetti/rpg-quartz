@@ -1,24 +1,24 @@
 In this document the main rules of the game, which we advice to be read by every player at least once
 
-# Core Mechanics
+# Core Rules
 
-**ATDD and Appropriate:** ATTD stands for At The Director's Discretion. You will see this acronym used a lot
+**Terminology:** _a bit of history_. Director is our word for game master while party refers to the rest of the players or their characters. TTRPG stands for Table-Top Role-Playing Game. PC: Playing Characters, the characters used by the players. NPC: Non Playing Character, any character not used by a player
 
-A pillar of this game is the decoupling of the Narrative and the Mechanics (the rules). We believe this makes for a lean design that allows the players to focus on these two aspects independently and without needing to track too much information. This said, when these two need to mix to create interesting rules and interactions we think it's important to point it out
+**Reasonable/Reasonably:** _As intended not as written_. A pillar of this game is the decoupling of the narrative and the rules. We believe this makes for a lean design that gives individual freedom while keeping interesting gameplay. This said, when these two need to mix to create interesting rules and interactions we think it's important to point it out
 
-To make an example: the Item's _Virulent Ideals_ mentions how its Abilities can only be used on characters that "have no Major Traits that go Appropriately against any of your Major Traits". Leaving aside that we have not mentioned Items or Traits yet, wether or not a Trait goes against another isn't a rigorous thing to define. The most common solutions for TTRPGs is to make your alignment fall into pre-built blocks that have clear support-against relationships, at the cost of narrative freedom
+To make an example: the Item's _Branches of Inner Peace_ mentions how its Abilities can only be used on characters that "have two Major Traits that go Appropriately against each other". Leaving aside that we haven't mentioned Items or Traits yet, wether or not a Trait goes against another can't be rigorously defined. The most common solutions is to make your alignment fall into pre-built blocks that have clear support-against relationships, limiting your freedom in making your character
 
 To give players the full creative liberty, while keeping interesting effects that relate to their character's vision and personality, we opted to clearly mark when we lay the burden and pleasure of making the final call to the Director. Obviously, while the Director has the last word, any player is encouraged to give their opinions, while keeping a friendly and accepting play environment
 
-Whenever you read ATTD or Appropriately/Appropriate (capital A) read it as a cue that interpreting the spirit of the rules is not only possible, but necessary
+Whenever you read Reasonable/Reasonably (capital R) read it as a cue that interpreting the spirit of the rules is not only possible, but intended
 
-**Narrative Form:** _Flavor is free_. The idea of flavor vs mechanic is a core concept in a lot of TTRPGs, despite usually not being mentioned directly in the rules. In this game this dichotomy is a central idea. The rules and the flavor of everything are detached by design, going as far as spells not having any specific effect, allowing the player to craft them as they wish
+**Narrative Form (NF):** _Flavor is free_. Flavor refers to the in narrative way a rule presents. A sword is two things: a weapon that deals 1d6 slashing damage on hit, and an actual iron sharpened sword. The latter is its flavor, while the former are its mechanics. Narrative Form this game's word for flavor
 
-Narrative Form is this game's name for "flavor", referring to how the player wishes to materialize their Spells, Items, Traits and so on. We still give a default Narrative Form (NF for short) to all our Items, a standard set of Traits and Spells, and so on, for the players who'd rather jump directly into playing the game
+While most TTRPGs implicitly allow you to change the flavor of weapons, skills, spells and so no, in this game Narrative Form is explicitly free. No rule has a specific NF, existing only as adaptable mechanics that you can present in any context. The weapon dealing 1d6 slashing damage could be a sword, a laser cutter or a chainsaw. Every NF you choose, like your Traits or Items, must be Reasonable. That is to say: the Director must agree with your choice
 
-While Narrative Form is made to be plastic and flexible, changes and proposition on it made by the players must always be Appropriate. Which, as a reminder, means that Director must agree on them
+**Example:** Take the classic fireball spell. It's flavor is you producing a blazing sphere of fire and it's mechanics it dealing a lot of damage
 
-**Example:** Take the classic fireball spell. Its flavor is you producing a blazing sphere of fire and its mechanic being dealing a lot of damage. If you wanted to change the flavor of the spell in being a blast of arcane energy, tossing a molotov cocktail, or similar, most game masters would allow you to. However, this possibility is usually not explicitly stated. The central idea of Narrative Form is our way of giving you an explicit free pass at going wild with the way a mechanic is presented in the story
+Narrative Form is mentioned in some rules where having a particular NF could change an effect
 
 **Scene:** _The fundamental unit of role-playing time and space_. A Scene is an excellent example of something that is extremely hard to define axiomatically, but is easy to spot "when you see it". Scenes are how this game tells time and space: most effects last a Scene, or can be used only once per Scene, and so on
 
@@ -30,32 +30,32 @@ While Narrative Form is made to be plastic and flexible, changes and proposition
 
 > **Designer's Note:** we advise everyone to read our Designer's Notes, however these are mostly geared towards Directors (or aspiring ones) and people interested in our thoughts on how to use a rule. If you are just skimming this document to get a hang of the game feel free to skip them
 
-**Narrative Actions:** _The atoms of any story_. A Narrative Action is any kind of action taken by a character that Appropriately influences the story. Narrative Actions aren't (just) the killing of an important character, a sudden crucial betrayal, or the sealing of a pact. A NA is anything that _tells_ the story: cheating at a card game, shouting a joke, shoving a character into the ground are all actions which write the narrative, and as such are Narrative Actions
+**Cues and Narrative Cues (NC):** _The atoms of any story_. A Cue is any kind of action taken by a character that influences the story. They aren't (just) the killing of an important character, a sudden crucial betrayal, or the sealing of a pact. A Cue is anything that **tells** the story: cheating at a card game, shouting a joke, spotting the a character. Every actions writing the narrative is a Cue
 
-Narrative Actions exist to exclude simple, sbrigative and otherwise mundane actions that do not require rules to be managed. Buying a basic sword from the local smith may be a drama driven scene, but most times it's not. We make this distinction to emphasize how the rules should only be invoked when a quick, agreeable conversation between players and Director isn't enough to decide the outcome of a Scene. Non Narrative Actions may be narrated in third person, if not outright implied, to resolve them quickly and to move onto more interesting dynamics
+Not everything a character does is a Cue however. Buying a basic sword from the local smith may be a drama driven scene, but most times it's not. When a quick, agreeable conversation between players and Director is enough to decide the outcome of a Scene we don't have a Cue. These may be narrated in third person, if not outright skipped, to resolve them quickly and to move onto more interesting dynamics
 
-The vast majority of the times Narrative Actions will result in Rolls. Also note that anything that interacts with the rules directly, such as using an Item, is always a Narrative Action
+Using a rule, like an Item's Ability, is always a Cue. Alongside them there are Narrative Cues, which are made entirely with narrative elements with no real ruling. Generally, everything that isn't an Action in a Clash or the use of an Item's Ability is a Narrative Cue
 
 **Rolls**: _The chief mechanic of this game, to be used whenever a character does anything that could change the story_
 
-Every Roll is a confrontation between two characters:
+Whenever a Narrative Cue's outcome is undecided, catching an arrow or distracting a guard, a Roll is made to determine it. Every Roll is a confrontation between two characters:
 
-- Lead: the character currently in the spotlight, attempting to assert change, meaning, or pressure onto the Scene
-- Foil: the character whose role is to oppose, complicate, or contrast the Lead’s intent
+- The Lead is the character currently in the spotlight, attempting to assert change, meaning, or pressure onto the Scene
+- The Foil is the character whose role is to oppose, complicate, or contrast the Lead’s intent
 
-Even when acting against objects, locations, or abstract obstacles, the Foil is the character who governs or embodies that resistance. For example, when picking a lock, the lock will use the Personalities of its owner
+Even when acting against objects, locations, or abstract obstacles, the Foil is the character who governs or embodies that resistance. When picking a lock, you will Roll against the character who put it there
 
-Note: it’s not uncommon for important (inanimate) objects or even locations to have a character sheet, to represent how their importance personifies them. A Vampire's castle could very well have its own character sheet separate from its master's
+It’s not uncommon for important but inanimate objects, or even locations, to have a character sheet since their importance personifies them. A Vampire's castle could very well have its own character sheet, fully separated from its master's
 
-Rolls are always made with and against a Symbol. Since each Symbol is associated with a Personality, you always use a Personality against one of the Foil's. This is often shortened to rolling a Symbol over another Symbol, for example: _Make a Sword over Thunder Roll_ or _Roll Lantern over Thorn_ and the like. (All these terms are defined in the following section)
+Rolls are always made with and against a Symbol. Since each Symbol is associated with a Personality, you always use a Personality against one of the Foil's. This is often shortened to rolling a Symbol over another Symbol, for example: _Make a Sword over Thunder Roll_ or _Roll Lantern over Thorn_ and the like. (these rules are explained in the rest of the document)
 
-> **Designer's Note:** Rolls are reserved for situations of uncertainty. Tense, unpredictable and which lead to interesting situations both on success and on failure. Non-NA should never require Rolls, there's no need to so when unsheathing a sword for example. At the same time, completely illogical and impossible attempts are equally predictable. Rolling to seduce a dragon shouldn't be a thing. Both of these are obviously ATDD: if they believe that Rolling to see if a character can correctly unsheats their sword without cutting a finger would lead to an interesting gameplay moment, they have all the right to do so. Similarly, if they feel like having a shot of seducing an ancient and tyranical dragon could be fun, they can. Although both of these extremes become boring quickly, don't abuse them
+> **Designer's Note:** Rolls are reserved for situations of uncertainty. Tense, unpredictable and which lead to interesting situations both on success and on failure. The outcome of removing your shoes is pretty much known. At the same time, completely illogical and impossible attempts are equally predictable. Rolling to seduce a dragon shouldn't be a thing. However, if the Director believe that checking to see if your character can correctly unsheats their sword without cutting a finger would lead to an interesting moments, they have all the rights to do so. Similarly, if they feel like having a shot of seducing an ancient and tyranical dragon could be fun, you may actually try and check. Although both of these extremes become boring quickly, don't abuse them
 
-If you makes Roll you can NEVER make the same Roll again, regardless of the outcome. Rolls aren't momentaneous. They aren't asking "does my character manages to climb this wall?", they are asking "is my character able to climb this wall?". Once a Roll is resolved it permanently changes the narrative: from now in perpetuity, your character will be able or unable to climb that wall
+As stated, every Roll is caused by a Narrative Cue. Once the Roll is resolved, it's outcome decided for the Scene. If you make two Cue that are Reasonably the same you don't Roll again
 
-> **Designer's Note:** It's ATDD what "the same Roll" means exactly. If you fail and your character is unable to climb that wall, it's perfectly fine to try again when you have trained or prepared, or whenever the context changes Appropriately enough
+> **Designer's Note:** Remember how "make an Appropriately same Cue" calls for the Director to decide if two NC are "close enough". Following the wall example. If you try again literally immediately, that is Reasonably the same Cue, meaning you still can't climb it. If something changes, like you training to climb it or simply a change of Scene, the Director can Reasonably see it as a different Cue
 
-To do a Roll you roll 1d20, the Base Die. The required number to Pass the Roll is defined by:
+To make a Roll you roll 1d20, the Base Die. The required number to Pass the Roll, called its Difficulty, is defined by:
 
 $$
 11 - \text{the Personality you're using} + \text{the Foil’s Personality}
@@ -63,17 +63,17 @@ $$
 
 If your result is lower, you Fail the Roll
 
-This number is called the Difficulty. Many rules add Bonus or Malus Dice to a Roll. If you have any Bonus Dice you roll that many more 1d20 and keep the highest one. If you instead have any Malus Dice you roll that many additional 1d20 and keep the lowest. If you have a combination of both they cancel out. A few examples:
+Many rules add Bonus or Malus Dice to a Roll. If you have any Bonus Dice you roll that many more 1d20 and keep the highest one. If you instead have any Malus Dice you roll that many additional 1d20 and keep the lowest. If you have a combination of both they cancel out. A few examples:
 
 - With 3 BD and 3 MD you roll just the Base Die
 - With 3 BD and 2 MD you roll 2d20 (the Base and a single Bonus) and keep the highest
 - With 5 MD and 3 BD you roll 3d20 and keep the lowest
 
-Rolling multiple 1s in a roll is a Disaster, rolling multiple 20s is a Breakthrough, together they are called Criticals. Disasters are always failures and Breakthroughs are always successes. The Director is encouraged to narrate especially outstanding, surprising or simply funny narrative results when a Critical occurs. On top of that they can often trigger additional effects
+Rolling multiple 1s in a roll is a Disaster, rolling multiple 20s is a Revelation, together they are called Criticals. Disasters are always failures and Revelation successes. The Director is encouraged to narrate especially outstanding, surprising or simply funny narrative results when a Critical occurs. On top of that they can often trigger additional effects
 
-> **Note:** For Rolls where you roll a very high number of dice, it’s not uncommon to have both multiple 1s and multiple 20s, in which case the Roll is considered a Breakthrough if you had more BD than MD, or a Disaster otherwise. If you had neither, by default is a Breakthrough
+> **Note:** For Rolls where you roll a very high number of dice, it’s not uncommon to have both multiple 1s and multiple 20s, in which case the Roll is considered a Revelation if you had more BD than MD, or a Disaster otherwise. If you had neither, by default is a Revelation
 
-When you roll multiple dice for a Roll, every Die that is at or above the Difficulty is a Success. Rolls normally just care about if you have at least one Success, but some rules give you beneficial effects for each Success. Note we didn't mention Bonus or Malus Dice: when you Roll multiple Dice you can get multiple Successes even if you have more MDs than BDs. However, if that's the case you still need all of them to be Successes to Pass the Roll
+When you Roll with any BD (after being canceled by MD), every Die that is at or above the Difficulty is a Success. Rolls are normally a binary Pass/Fail, however some rules might also care about "how much" you Passed by referencing the number of Successes
 
 > **Designer's Notes (Roll Consequences):** Since Rolls represent only tense and unpredictable actions, the world (and so the Director) always react to you failing one:
 >
@@ -134,7 +134,7 @@ Effects can cause your character to have parts of their personality or physical 
 
 You are encouraged to roleplay your character Alterations. If an enfeebling effect Eclipses your Heart, narrate how your character’s movements are fatigued and slow. If your Lantern gets Exalted your character might be of seeing hidden patterns, hearing strange revelations in the wind and so on
 
-**Traits:** traits are codified marks of your identity. ATDD they can truly be anything, but common ones include your race, your background, ties to a person or faction, knowledge in a field or expertise with a set of tools and so on. They are divided into Major and Minor, with the difference being how core to your character's identity they are. Additionally, Major Traits also have Symbol associated with it. When you make your character you start with 1 Major Trait and 2 Minor Traits
+**Traits:** traits are codified marks of your identity. ATDD they can truly be anything, but common ones include your race, your background, ties to a person or faction, knowledge in a field or expertise with a set of tools and so on. They are divided into Major and Minor, with the difference being how core to your character's identity they are. Additionally, Major Traits also have Symbol associated with it. When you make your character you start with 1 Major Trait and 2 Minor Traits. The character whom a Trait belongs to is called its Holder, this weird term will make more sense in the context of Items
 
 **Temporary Traits:** Some rules, like Spells, can apply Temporary Traits on you. These specify a condition for ending them, and don't count toward your maximum number of Traits
 
@@ -158,42 +158,44 @@ Each new level you may also Sharpen your Personalities: choose up to 2 Personali
 
 Traits allow the players to codify the free form narrative of their character's identity into something the rules can interact with. Props do the same for pieces of the Scene. When the Director describes a festival as having a large whicker man, that may be Prop used later in a fight. A grumpy, drunk, old man shouting? That is a possible Prop, a possible distraction. A Prop need not be a physical object, or even a single thing, just an "element" conceptually or according to the narrative. Bad weather, someone's mood and your dress are all great Props. Obviously, being a Prop or not is ATDD. Props can't, however, be things which already have rules to represent them, such as a Trait or an Item
 
-**Scene Elements:** A Scene Element is a catchall term for everything involved in a Scene: Traits, Props and Items. Sometimes shortened to SE (SEs plural)
+**Scene Elements (SE):** A Scene Element is a catchall term for everything you can use in a Scene: Traits, Props and Items
 
 **Improvisation:**
 _The cultist realizes you're following him in the market and bolts towards you, what do you do?_
 First, **I yell fire to get the bazaar crowd\*** \[Prop\] \*running as a diversion. I bash my **Colossus Hammer\*** \[Item\] \*onto a post to simulate the roar of an explosion . Then, considering I'm a **Avid Gambler\*** \[Trait\] _I probably run from creditors a lot in my life. I should be good at running_
 
-Good use of narrative elements should be rewarded, and Improvisation is how it's done in this game. Whenever you make a Narrative Roll, you can describe up to one Prop, one Trait and one Item that you intend to exploit to help you, and how you plan to do so. If your use of these SE is Appropriately interesting, evocative, or simply funny enough, the Director can give you a number of BD:
+Good use of narrative elements should be rewarded, and Improvisation is how it's achieved in this game. Whenever you make a Roll, you can describe up to one Prop, one Trait and one Item that could Reasonably help you, and how you plan to do so. This grants you a number of BD:
 
 - Items always give 1 BD
 - Traits give 1 BD for Minor Traits, 2 for Major ones if the Roll is made with the their Symbol
 - Props can give either 1 or 2 BD, depending on how interesting the Director believes you used these narrative elements
-  Outside of Clashes, if you use a Trait or an Item like this, you cannot use them again the same Scene. Props however can be used for Improvisation _only once_
+  Outside of Clashes, if you use a Trait or an Item like this, you cannot use them again the same Scene. Props however can be used for Improvisation a Roll **only once**
 
-> **Designer's Note:** The one time use of Props meant to avoid uninteresting and excessive _repeated_ use of them. It's perfectly fine if a player realizes they can use an element of the narrative to their own advantage, what's unreasonable is to also ask the Director to either make up a way for it eventually run out, or even to understand if this could be a problem in the future
+> **Designer's Note:** The one time use of Props meant to avoid uninteresting and excessive _repeated_ use of them. It's perfectly fine if a player realizes they can use an element of the narrative to their own advantage. But they end up always doing this same trick it can get boring
 >
 > **Example:** A player likes to gamble in the taverns they visit in their adventures. One time they say _I bluff this hand, but to show how serious I am make a small cut on my tongue with my knife._ This is an interesting (if cliche-ey) idea and the Director gives 1 BD for the use of this Prop. The next day, at the next tavern, the player does the same. And again in the next, and so on. In this situation the Director has two options:
 >
-> - Make up a reason for why would't work again, on the spot, for every future situation
-> - Realize their mistake, and whenever a player proposes for a similar Improvisation, deny it on the ground that it could be used everywhere
->   To avoid this problem, the _same exact_ Prop can't be used more than once, ever. Note that it's ATDD what counts as being "the same Prop". Meaning that if the player changed from a simple cut on the tongue, to something more elaborate like eating a rat's head, cutting off one of their fingers, or such, they could very reasonably earn the BD
+> - Make up a reason for why would't work again, on the spot, in every future situation
+> - Realize their mistake, and whenever a player next proposes an interesting use of the narrative, shut them down if you fear it's too generally applyable
+>   To avoid this problem, the _same exact_ Prop can't be used more than once, ever. Note that it's up to the Director what counts as being "the same Prop". Meaning that if the player changed from a simple cut on the tongue, to something more elaborate like eating a rat's head, cutting off one of their fingers, or such, they could very Reasonably earn the BD
 
-**Appropriate Item:** for an Item to be Appropriate for Improvisation means that it's Name or Narrative Form is Appropriate. Abilities don't count
+**Reasonability of Item:** It's a bit ambiguous what it means for an Item to Reasonably help you in the narrative to be able to Improvise with them. Whenever you gain an Item you choose a Narrative Form for it. It's its NF that determines if an Item can Reasonably help you. It's Abilities don't count
 
-Sub-Note: by "Abilities don't count" we mean you can't justify your Improvisation with "I use my Item's abilities, **which deals damage** to help with killing this sleeping bandit". You can still use the actual Ability if its effect is applicable, but you cannot use "what it does" for Improvisation
+Scene Elements can similarly give you MDs, with the same amounts they would give you BD, if their presence would Reasonably resist your Narrative Cue. The Director can only propose them and they apply only if you accept. However, when you Fail with MDs earned this way you gain 1 Persistent Lucky Token. Up to 2 per Session
 
-Scene Elements can similarly give you MDs in the same amount they would give you BD, if their presence would hinder your action. The Director can only propose them and they apply only if you accept. However, when you Fail with MDs earned this way you gain 1 Persistent Lucky Token. Up to 2 per Session
-
-**Help & Group Rolls:** It’s not uncommon for certain actions to be taken as a group: _The whole party tries to interpret some writings in an ancient ruin or deducing another character’s intentions_. To do so only one character does the Roll, but they earn 1 BD for each character that is could Appropriately help them and 1 MD for each that would Appropriately hinder the attempt. As with any Rolls, the actions that caused them cannot be taken again in the same Scene, meaning that if 3 people try to break a door, they cannot try 3 different Rolls, just a single big one
+**Help & Group Rolls:** It’s not uncommon for certain actions to be taken as a group: _The whole party tries to interpret some writings in an ancient ruin or deducing another character’s intentions_. To do so only one character does the Roll, but they earn 1 BD for each character that could Reasonably help them and 1 MD for each that would Reasonably hinder the attempt. As with any Rolls, the actions that caused them cannot be taken again in the same Scene, meaning that if 3 people try to break a door, they cannot try 3 different Rolls, just a single big one
 
 > **Designer's Note:** While this might sound harsh, only allowing one character to Roll for the entire party has its advantages. First, this avoids penalizing smaller parties who would have less overall attempts. Secondly, it removes the ever present dilemma of "my character is ultra sneaky, but unless I go alone someone in the party gets us spotted", allowing every player to carry the rest of the party on their back if necessaries. But also, this gives every character the chance to shine. If only one person can make the Roll for everyone, then everyone (assuming a well rounded series of obstacles) will get a chance to be in the spotlight
+>
+> The Director can narrate how an extremely stealthy character managed to make the entire clumsy party pass by unnoticed by catching everything they dropped. Or how a single talented character carried the party's performance
 
 **Dodging:**
 _As the arrow hits you, you feel an exotic poison fill your veins, the archer makes a Thorn over Heart Roll to see if you suffer its effects_
 _No! I slash open the wound and try to exsanguinate myself until the toxin is gone!_
 
-When your character is the Foil of a Roll (AKA someone else is Rolling against you), you can narrate how your character tries to react in a risky but unexpected way, taking control and swapping the Foil and Lead’s role and changing the Symbols. For example, receiving a blow to the head would normally not even cause you to Roll, the assailant just Rolls their Thunder over your Heart. However, you can narrate how your character would try to masterfully dodge the strike instead of tanking it. It's always ATDD if to allow a Dodge, and even if allowed they are risky maneuvers that carry a price: if you fail a Dodge you take extra 2 Damage
+When your character is the Foil of a Roll (AKA someone else is Rolling against you), you can narrate how your character tries to react in a risky but unexpected way, taking control and swapping the Foil and Lead’s role and changing the Symbols. For example, receiving a blow to the head would normally not even cause you to Roll, the assailant just Rolls their Thunder over your Heart. However, you can narrate how your character would try to masterfully dodge the strike instead of tanking it. If your use is Reasonable, you make this new Roll and the oldest one is Failed if you Pass and Vice Versa
+
+When you Fail a Dodge you take 1 extra Damage
 
 You can attempt up to 1 Dodge per Scene
 
@@ -201,44 +203,39 @@ You can attempt up to 1 Dodge per Scene
 
 Clashes are an abstraction and generalization of combat and every other drawn-out conflict. Physical fights where some characters are trying to outright kill other characters are Clashes, but so are debates, stealth infiltration, manipulations, chase sequences and the like
 
-Clashes are fought in turn orders. To determine it there's no initiative roll, instead the Director decides which side starts based on the narrative situation: the side that exploded the conflict into action always starts. From then on the Director (interpreting NPCs) and the party alternates, choosing at will which members go in which order until one side has fully played, at which point the rest of the other side plays with their remaining members. For the rest of the Clash the turns repeat the same way
+Clashes are fought in turn orders, which is not determined by initiative rolls, instead the Director decides which side starts based on the narrative situation: the side that exploded the conflict into action always starts. From then on the Director (interpreting NPCs) and the party alternates, choosing at will which members go in which order until one side has fully played, at which point the rest of the other side plays with their remaining members. For the rest of the Clash the turns repeat the same way
 
-**Example:** If a party of 5 PCs gets attacked by 3 bandits, the Director will go first as they were the ones initiating the Clash. Then a player, chosen by the party, will have their turn. Then another bandit, then another player, then the last bandit, and lastly it will be the turn of the renaming 2 players. If party order isn’t particularly important, it’s common practice to start with the player directly to the right of the Director and go in counterclockwise order. Note that both bandits and players get to decide their own order
+**Example:** If a party of 5 gets attacked by 3 bandits, the Director will go first as they were the ones initiating the Clash. Then a player, chosen by the party, will have their turn. Then another bandit, then another player, then the last bandit, and lastly it will be the turn of the renaming 2 players. If party order isn’t particularly important, it’s common practice to start with the player directly to the right of the Director and go in counterclockwise order
 
-Note: some powerful enemies will have more than 1 turn, for example if a dragon has 3 turns, and the party starts, the order will be player -> dragon -> player -> dragon -> player -> dragon -> remaining players. All this despite the dragon being a single character
+Note that both bandits and players get to decide their own order. Also note that going first doesn't automatically mean one of the sides is surprised. Surprise is determined in other ways
 
-There are two types of Clashes, Major and Minor ones, representing low stakes conflicts and full on struggles. Generally, Minor Clashes are simple back and forth interactions, usually not involving physical attacks. Deceiving an unsuspicious guard, sneaking around a not so attentive thug, searching for an item with a small time pressure, these are common examples of Minor Clashes. Major Clashes usually involve fighting for your or another character’s life, but even a simple arguments with significant narrative stakes can be a Major Clash
+Note: some powerful enemies will have more than 1 turn. A giant has 2 turns. If the party starts, the order will be:
 
-> **Designers' Note:** This game is many things, but a simulation of reality isn’t one of them. There’s no real concept of space in Clashes, no weapon ranges, ammunition or cover. However, there are rules that abstract away these concept: the Flying effect (for example) means you can only be attacked by characters that has Flying or Range. But having Flying won’t give you a flying speed, tell you how you move in space, rules for takeoff and landing. In general, in this game the rules never touch the narrative world directly, interacting only with other rules
+$$\text{player} \to \text{giant} \to \text{player} \to \text{giant} \to\text{player} \to \ ...\ \to \text{player}$$
+
+All this despite the dragon being a single character
+
+Important struggles are Major Clashes, while simple back and fourth are Minor Clashes. Minor usually don't involving physical violence. Deceiving an bored guard, sneaking around a not so attentive thug, searching for an item with a small time pressure, these are common examples of Minor Clashes. Major Clashes usually involve fighting for your or another character’s life, but even a simple arguments with significant narrative stakes can be a Major Clash
+
+> **Designers' Note:** This game is many things, but a simulation of reality isn’t one of them. There’s no real concept of space in Clashes, no weapon ranges, ammunition or cover. However, there are rules that abstract away these concept: the Flying effect (for example) means you can only be attacked by characters that has Flying themselves or an Item with Range. But having Flying won’t give you a flying speed, tell you how you move in space, rules for takeoff and landing
 
 Let's start with a general outline of a turn in a Clash:
 
 - Breath Step: the moment when your character gather their strength, the following happen in this order
-  - unExhaust all your Traits, Items and Props you Control
+  - unExhaust all your Traits and Items, and Props you have Total Control of
   - Every character regains their Reaction
-  - You can Activate up to 1 Item and 1 Prop or Trait
+  - You can Activate up to 1 Item and 1 Trait
   - You regain your Action
+- Pause Step: used by some rules
 - Main Step: the main part of the turn where you can do the following in any order
   - Free Narration
   - Actions
   - Speaking
 - End Step: the end of the turn
 
-## The Breath Step
-
-The Breath Step, as the name implies, is the first step in your turn and it is when your character regains their resources
-
-First you unExhaust all your Scene Elements. Every character gains back their Reaction, You Activate up to 1 Item and 1 Prop or Trait, then you gain your Action. In most cases the order of these steps is irrelevant, but it's important to know actual timing. The only real decision is which SEs to Activate
-
-While outside of a Clash, your character has all their knowledge, skills, tools and creativity ready to solve a situation. A Clash is a tense and quick succession of events where your focus priorities are crucial. You start with all your Traits and Items Inactive, which you can picture as you keeping them in your hand. Then, once during each of your Breath Step you can Activate a Trait and an Item, representing how your character's gets more involved
-
-You can Exhaust SEs to generate an amount Focus equal to their Focus Value, which you can use to pay Abilities' Focus Cost or for Improvisation with Actions. Their default Focus Value is 1
-
-Items have a Focus Cost (which can be 0), this also gets paid with Focus but in a different way. You simply need your Active Traits and Props have a Focus Value equal or greater than the Item's Focus Cost. Note that you do not Exhaust them to Activate an Item
-
 ## Free Narration
 
-During your turn in a Clash you are free to do as many Non-Narrative Actions as you want:
+During your turn in a Clash you are free to do as many Non-Cues as you want:
 
 - moving a small distance in the game world
 - dropping or picking up an object that isn't a Prop or Item
@@ -246,7 +243,17 @@ During your turn in a Clash you are free to do as many Non-Narrative Actions as 
 
 You can use Free narration to "dress up" how your character spends the turn for dramatic, comedic or other narrative purposes. You can do so as many times as you want each turn, just be mindful of everyone's time and try to keep the Clash tense and dynamic
 
-However, being composed of Non Narrative Actions, Free Narration cannot be used to interact with the rules, specifically you cannot gain any advantage. You can't use it to Control a Prop Prop, this is a specific Action called Controlling (see below). Simply put: if it touches the rules or mechanics in any way, it cannot be Free Narration
+Free Narration cannot be a Narrative Cue. If you recall, this means that you can't do anything that Reasonably changes the story with it
+
+## The Breath Step
+
+The Breath Step, as the name implies, is the first step in your turn and it is when your character regains their resources
+
+First you unExhaust all your Scene Elements. Every character gains back their Reaction, You Activate up to 1 Item and 1 Prop or Trait, then you gain your Action. In most cases the order of these steps is irrelevant, but it's important to know actual timing. The only real decision is which SEs to Activate
+
+In a Clash your character's time and focus become precious resources. You start with all your Traits and Items Inactive. During the Breath Step you can Activate up to 1 each, which gives you access to their Abilities. This is more thoroughly explained in the [[items]] document. As the tension grows all characters in the Clash become stronger
+
+If the Scene changes, without the Clash ending, deActivate all your Traits and Items. This indicates a new "stage" of the Clash and is reserved only for extremely important moments in the story
 
 ## Speaking
 
@@ -270,21 +277,20 @@ These are the Main Actions that every character has access to:
 - Impairing
 - Controlling a Prop
 - Casting a Spell
+- Start to Flee
 - Making a generic Roll
-
-Do you simply swing your hammer at the troll or try more subterfuge strategies like trying to trip them? To get past the guards do you move slowly and carefully or blitz it and hope they don't notice you?
 
 ### Targeting
 
-Actions and Abilities are almost always done against an hostile character, who will usually try to resist their effects. Targeting is short-hand for:
+Actions and Abilities tend to influence characters, most hostile ones will try to resist such effects. Targeting is short-hand for:
 
 $$\text{Make an Appropriate Roll against a character in the Scene, if you Pass then ...}$$
 
-For example, Attacking is defined as "When Attacking you deal 1 Damage to Target character", which expands to "choose a character in the Scene then make an Appropriate Roll based on the circumstances of the Scene. On Pass you deal 1 Damage to that character"
+For example, Attacking is defined as "When Attacking you deal 1 Damage to Target character", which expands to "choose a character in the Scene then make an Appropriate Roll based on the circumstances of the Scene. If you Pass you deal 1 Damage to that character"
 
-If you Pass the Roll for the Target, the rest of the Ability resolves as normal, otherwise it Fails. More complex Abilities might spell out exactly what happens on a Fail but by default it simply has no effect
+If you Pass the Roll for the Targeting, the rest resolves as normal, otherwise it Fails. Often, the result of a Targeting is inferable from its ruling. By default, if you Fail nothing happens, otherwise its rules take effect. More complex Abilities might specify what happens on Pass/Fail
 
-Abilities may Target SEs. In the case of Items and Traits, Targeting them simply means Rolling against their Controller. Props may also be Targeted, in which case you Roll against their Controller. If multiple characters are Controlling it, the hostile side decides against who you Roll. If unControlled, the Director decides which character is the Foil, which by default is their Creator. Note that while you always Roll against a character, the actual Target of the Ability is still the SE
+Abilities may Target Scene Elements. In the case of Items and Traits, Targeting them simply means Rolling against their Holder. Props may also be Targeted, in which case you Roll against their Controller. If multiple characters are Controlling it, the hostile side decides who is the Foil. If unControlled, the Director decides which character is the Foil, which by default is their creator or the closest character narratively. Note that while you always Roll against a character, the actual Target of the Ability is still the selected Scene Element
 
 When you Roll against a character by Targeting them, they may always choose to make you automatically Pass the Roll. This is often the case when you Target an allied character with a beneficial Ability
 
@@ -296,11 +302,17 @@ When you Roll against a character by Targeting them, they may always choose to m
 >
 > Note that since you must state the NF of your Targeting before anything actually happens, including you paying any Costs. In the unfortunate scenario in which your NF is denied you lost no resources
 
-**Target Rolls:** all Actions and Abilities are Narrative Actions, which means they can be powered by Improvisation. During Target Rolls, you may Spend Focus to gain 1 BD for each Focus spent this way
+### Focus
 
-You can also spend Focus defensively. Whenever a character makes a Roll against you, for each Focus you spend their Roll gains 1 MD. This is known as Blocking. The main way to do this is to protect yourself against Attacks, but since it applies to every Roll, you might also wanna conserve Focus for particularly dangerous Abilities. Making the enemy Miss or the Ability Fail might be more effective than increasing your own chances to Hit during your turn
+The fast paced, tense nature of a Clash means that your character must allocate their mental and physical resources well. This is represented with Focus
 
-Note: there is a big difference between using SE for Improvisation in Clashes and outside them. First, you can usually only use Active Traits. Props and Items don't generally generate Focus and so are useless for Improvisation inside a Clash
+Scene Elements can have a Focus Value. By default, Traits and Props have a Focus Value of 1. You can Exhaust a SE to generate an amount of Focus equal to its Focus Value. Traits must be Active for you to do this. To do so with a Prop you must have Total Control of that Prop
+
+**Execution:** When you Target, you can Spend the Focus generated your SEs to improve the Roll, this is known as Execution. Each Focus you Spent this way gives you 1 BD. You can also spend Focus defensively. Whenever a character makes a Roll against you, for each Focus you Spend their Roll gains 1 MD. This is known as Blocking. The main way to do this is to protect yourself against Attacks, but since it applies to every Roll, you might also wanna conserve Focus for particularly dangerous Abilities. Making the enemy Miss or the Ability Fail might be more effective than increasing your own chances to Hit during your turn
+
+Focus can also be Spent to use Item's Abilities or other rules, such as speaking. If a Cost has a simple number in it, such as {3}, that much Focus must be Spent to use it
+
+**Activation Focus Cost:** Items have what's called an Activation Focus Cost. You can Activate an Item only if the combined Focus Value of all SEs you have is equal or greater than that Item's Activation Focus Cost. Note that, unlike paying for Abilities, you don't actually Exhaust SEs in doing so
 
 ### Basic Actions
 
@@ -308,19 +320,23 @@ Note: there is a big difference between using SE for Improvisation in Clashes an
 
 When Attacking you deal 1 Damage to Target character
 
-**Studying:** _Studying represents trying to find out something about a particular character or even situation. While not as common as an Action as Attacking, Studying can really make a difference during a Clash, and at times even beyond this single encounter_
+When the Roll for an Attack Passes, that is called a Hit, otherwise a Miss
+
+**Studying:** _I think checking out the suspiciously cannon shaped object could greatly improve our chances of making it out_
+
+Studying represents trying to find out something about a particular character or even situation. While not as common as an Action as Attacking, Studying can really make a difference during a Clash, and at times even beyond this single encounter
 
 Target a character or SE and Learn a Secret about them. Secrets held by Scene Elements are usually just hidden effects waiting to be revealed, while those held by characters tend to be focused on the narrative. If the target has no Secrets left you will also learn that
 
-You can specify what you're trying to learn giving clues and hints you have gathered to earn up to 2 BD in the Study's Roll. This is called Investigating
+You can also specify what exactly you are trying to find out, such as "does this character knows this other character", "is this character the same we met when ..." and so on. This is called Investigating
 
-Most Secrets are Minor Secrets and can be Learnt using the normal Study Action. Major Secrets are crucial to the plot of the story or to the flow of a Clash, and so require Investigating to be Learn. Using the generic Study will result in you (wrongly) learning the target has no Secrets left. However, if you Investigate a target and they have no Secrets that match the Investigation you won't Learn anything. You will know the Investigation failed because of this
+Most Secrets are Minor Secrets and can be Learnt using the normal Study Action. Major Secrets are crucial to the plot of the story or to the flow of a Clash, and so require Investigating to be Learn. Using the simple Study Action cannot make you Learn Major Secrets. However, if you Investigate and the Target have no Major Secrets that match the Investigation you won't Learn anything. You will know the Investigation failed because of this though
 
-Note: the first time you Clash with a character or class of them (like your first time fighting a Zombie), your character is not guaranteed to know all rules relevant to them, like what inActive Traits or Items they are holding onto, their Personality, special rules and so on. These are all Secrets (by default Minor Ones) that can be Learnt with Study
+Note: the first time you Clash with a character or class of them (like your first time fighting a Zombie), your character is not guaranteed to know all rules relevant to them, like what inActive Traits or Items they are holding onto, their Personality scores, special rules and so on. These are all Secrets (usually Minor Ones) that can be Learnt with the Study Action
 
 **Impairing:** _Tying a mage's fingers together, screaming loudly to make a diversion, Impairing is the act of not dealing directly with a threat but trying to make their job harder somehow_
 
-To Impair Target a SE and Exhaust it, it doesn't unExhaust during their owner's next Breath Step
+Target a SE and Exhaust it, it doesn't unExhaust during their owner's next Breath Step
 
 **Controlling a Props:** _I swing on the chandelier to kick that guy in the teeth with more momentum. I'd like to stand still on the empty armor stand to sneak unnoticed by that guard_
 
@@ -328,15 +344,17 @@ Props in Clashes follow more specific rules, to represent how characters fight a
 
 Props have a number called Space, 1 by default, which indicates how many characters may Control it at the same time. When you Target a Prop (not just when using this Action!), you gain 1 BD for each allied character and 1 MD for each enemy character Controlling it. When a Prop is Controlled by a number of characters equal or higher than its Space, it's Full
 
-If you use this Action to Control a Full Prop, you may choose a willing character or one you Rolled against to Control it. That character stops Controlling it. This is known as Pushing them Off
+If you use this Action to Control a Full Prop, you may choose a willing character or one you Rolled against to Control it. That character stops Controlling it. This is known as Pushing them Off. If you are the only character Controlling a Prop you are in Total Control of it
 
 Note: Since nothing restricts you from using this Action on a Prop you already Control, you can use it to specifically Push Off a character
 
-**Casting a Spell:** Cast a Spell on Target character. The rules for spellcasting are described in the [[#Spells]] section
+**Casting a Spell:** Cast a Spell on Target character. The rules for Casting are described in the [[#Spells]] section
 
-**Making Generic a Roll:** while the other Actions cover basically anything you can or might even want to do in a Clash, there are still situations that could step outside these rulings. All of them fall under Generic Rolls
+**Fleeing:** _Fight to live another day_. Depending on the circumstances of the Clash, fleeing may not always be possible. If it's Reasonably possible for you character to escape you can use this Action to do so
 
-This Action may represents your character trying to de-escalate a fight, or conversely trying to punch someone mid discussion or fully just deciding to flee. These are all behaviors that, done outside a Clash would require a Roll since their success is far from certain, but again are not encompassed by the other Actions
+You start Channeling (see [[items]] for Channeling rules), until your next turn. If the Channel Completes you leave the Clash. You count has having Lost the Clash
+
+**Making Generic a Roll:** while the other Actions cover basically anything you can or might even want to do in a Clash, there are still situations that could step outside these rulings. All of them fall under Generic Rolls. You're still in a Clash, meaning that you cannot Improvise, but since the roll Targets you can Execute
 
 # Timing Rules
 
@@ -346,41 +364,39 @@ $$
 \text{Garviel: I try to stop her from stopping him!} \\
 $$
 
-## Stack of Reactions
+## Interruptions and Stack of Reactions
 
-Normally, Narrative Action are Slow, meaning they may only be done when the situation is "still". It may be as chaotic and tense as the story needs, but there is no immediate change in the Scene at the moment. Sometimes, a character will instead try to react to another's action to stop, help, or otherwise alter its outcome. In those cases the result is a Stack of Reactions
+Most Cues can be performed only when the situation is "still". It may be as chaotic and tense as the story needs, but there is no immediate change in the Scene at the moment. At times a character will instead try to react to another's action to stop, help, or otherwise alter its outcome. The results is a Stack of Reactions
 
-A SOR starts with the Opening Narrative Action, then any character may make a single Narrative Action as a Reaction to alter the narrative result. All these NAs are added in the order their players stated them, like a stack. _Each_ character may add one and only one, including the character performing the Opening Action
+Everything starts with the Opening Cue, then any character may make a single Cue as a Reaction to alter the narrative result. All these Cues are added in the order their players stated them, like a stack. Each character in the Scene may add one and only one, including the character performing the Opening Cue
 
-The Stack is then resolved in reverse, from the last NA that was stated all the way to the Opening Narrative Action. While none of them is _required_ to be a Roll, most often they will all be, since SOR are used most often in tense situations that themselves require Rolls. Trying to stop a character from doing anything is always a Roll, for example
+The Cues in the Stack is then resolved in reverse, from the last that was stated all the way to the Opening Cue. While none of them is required to be a Roll, most often they will all be, since SOR are used most often in tense situations that themselves require Rolls. Trying to stop a character from doing anything is always a Roll, for example
 
-When resolving these Rolls, each gains 1 MD for each Event below them in the Stack, called Timing Dice. While slower acting characters may have a greater understanding of everyone's intentions, this means they get punished for their slow timing. This also results in real world quick thinking being rewarded. If their Roll is successful then they influence the narrative and each NA below theirs is altered. If one becomes impossible then it's simply not resolved and it fails
+When resolving these Rolls, each gains 1 MD for each Cue below them in the Stack, called Timing Dice. While slower acting characters may have a greater understanding of everyone's intentions, this means they get punished for their slow timing. This also results in real world quick thinking being rewarded. If their Roll is successful then they influence the narrative and each Cue below theirs is altered. If one becomes impossible then it's simply not resolved and it Fails
 
-**Example:** Character A tries to punch a sleeping guard in the face. Character B tries to stop them. Character C tries to stop character B. A punching a sleeping common guard does not require a Roll so it's added to the Stack as a simple NA, meanwhile both B and C attempts require a Roll
+**Example:** Character A tries to punch a sleeping guard in the face. Character B tries to stop them. Character C tries to stop character B. Punching a sleeping simple guard does not require a Roll so A doesn't make any Roll, meanwhile both B and C attempts require a Roll
 
-1. C goes first, gains 2 MD for timing, makes the Roll against B and fails. B is free to go
-2. B Rolls with 1 MD against A and succeed, the result of the Roll is a that B is able to stop A in this Scene. As always, the Roll made the narration change irreversibly: character A punching the guard becomes impossible
-3. A's Action is now impossible, it's not resolved and they cannot fulfill their violent fantasy. Nothing happens
+1. C goes first, gains 2 MD for timing, makes the Roll against B and Fails. B is free to go
+2. B Rolls with 1 MD against A and Passes. As always, the Roll made the narration change irreversibly: character A punching the guard becomes impossible
+3. A's Cue is now impossible, it's not resolved and they cannot fulfill their violent fantasy. Nothing happens
 
-**Rapid:** A Reaction can be Rapid. They do not gain Timing Dice and can only be Reacted to by other Rapid Reactions. You can make Rapid Reactions only when a rule specifically says so, for example an Item's Ability. If an Item is itself Rapid using it for Improvisation will make a Narrative Action Rapid
+**Interruption:** Some Cues are Interruption. They do not gain Timing Dice and can only be Reacted to by other Interruptions. Only specific Cues can be Interruptions, most notably using an Item's Ability. Some Items are Rapid, this means if used for Improvisation the Cue becomes an Interruption. Every Ability of a Rapid Item is automatically an Interruption
 
-**Unreactable Reactions:** similarly, Reactions can Unreactable. These do not start a Stack of Events and may never be Reacted upon, not even by other Unreactable Actions. They are immediately resolved
+**Uninterruptible:** similarly, Cues can be Uninterruptible. These do not start a Stack of Events and may never be Interrupted, not even by other Uninterruptible Actions. They are immediately resolved
 
-## Timing in Clashes
-
-The rules above regulate NA taken outside Clashes, where the exact flow of time and actions is more relaxed. In a Clash the turn order imposes different rules
-
-Reactions outside Clashes are (mostly) only Narrative Actions, in a Clash Reactions can only be Actions and Item's Activated Abilities, and only when they are Rapid. If they aren't, they can only be used during your Main Step and even then cannot be taken as a Reaction to something
+**Timing in Clashes:** In a Clash the turn order imposes different rules to decide timing. Only Interruptions can be Reactions. You do not have the one free Cue as a Reaction
 
 Additionally, Reactions are not added to the Stack in the free flow order of when the players state them like outside Clashes. Instead, in turn order each players has a chance to use make a Reaction. If so, the same process is repeated restarting from them, until no more are added to the Stack. They are then resolved in the usual, reverse order
 
-Making a Reaction expends your Reaction (the resource), meaning that normally you may only take one Reaction per turn
+Making an Interruptions spends your Reaction (the resource), meaning that normally you may only take one Reaction per turn
 
 **Triggers Priority:** Triggered Abilities also follow this rule and are added to the Stack in turn order of their controller, if a player controls multiple of them they choose their order. Triggered abilities are added to the Stack before any Reactions can be stated
 
 # WP & Damage
 
-In this game there are no Health/Hit Points, instead there are Will Points, which function similarly but instead of representing just your physical health encompass your general willpower. A particularly nasty insult, a clever callout of a hidden scheme, and in general any action that causes significant stress on a character inflict WP Damage, just called Damage. Doing anything severe enough to cause a character to loose even 1 WP is usually enough to instigate a Clash. Clashes are in fact the main way to completely deplete a character’s WP, but going to 0 WP doesn't mean dying or fainting. For that see the Finales section
+In this game there are no Health/Hit Points, instead there are Will Points, which function similarly but instead of representing just your physical health encompass your general willpower. Cues with actual ruling always specify how much Damage they inflict and when they do
+
+Narrative Cues can also deal Damage when they causes Reasonably significant stress to a character: a particularly offensive insult, the reveal of their secrets, and so on. Narrative Cues always deal 1 Damage. Doing anything severe enough to cause a character to loose even 1 WP is usually enough to instigate a Clash
 
 Player characters start with 5 WP each
 
@@ -388,7 +404,9 @@ Every character has two types of WP, Major and Minor, representing how much of t
 
 **Example:** Let’s say you want to convince a guard that you are a traveling doctor here to cure the sick king (who you actually want to kill). The guard is obviously suspicious so you need to convince him. He has 4 Major WP, of which 2 are Minor WP. Since this is, in the eyes of the guard, not a life or death situation, the resulting Clash is a Minor Clash. Eventually, you manage to Win the Minor Clash. If however you end up wanting to actually kill him, you initiate a Major Clash, which the guard will start at 2 WP (note how the last damage that won the Minor Clash doesn’t get carried over to Major ones)
 
-Particularly important characters, dragons, vampire lords, crime bosses and so on might also have some of their WP listed as Preparation WP. This means that you can, with some clever work, damage these WP before the Clash starts, or even interacting with them at all. For example, let’s say a Noblewoman invites you over for her wedding. During the celebration some of the party sneaks around her mansion to discover some hidden artifacts, mapping out the place, or discovering letters from a secret lover. Since all of these actions give a narrative edge against her, doing so immediately damages some or all of her Preparation WP. It’s ATDD how much your preparation has dealt damage this way, and even if you can reasonably know that value
+**Preparation WP**: Some particularly powerful enemies such as dragons, vampires, crime lords and so on will have some of their WP listed as Preparation WP
+
+Normally, to Damage a character they need to be in the same Scene and will be aware of the Damage taken. However, let's say that during a ball hosted by a shady noble some of the party sneaks around her mansion to discover some hidden artifacts, mapping out the place, or discovering letters from a secret lover. All these Cues give a narrative edge against her, doing so immediately damages some or all of her Preparation WP. It’s ATDD how much your preparation has dealt damage this way, and even if you can reasonably know that value
 
 This adds a way to incorporate prep time, detective work, manipulation and surprise effects into actual, mechanical damage. By default, each Preparation Damage is healed at the rate of 1 per Rest, however this highly dependent on the circumstances of the Damage. A crucial one being if the Damaged character even knows they were sabotaged this way
 
@@ -412,9 +430,19 @@ There are two Hours in a Rest, which absolutely don't need to reflect actual in 
 
 _With the bandits at their last breath, they surrender to you and agree to betray their employers, a resolution that cannot be undone_
 
-If you recall, Rolls do not dictate the momentaneous randomness of wether your character can do something correctly, but permanently shape the narrative world by their results. The same is true for Clashes, to an even greater degree
+If you recall, Rolls do not dictate the momentaneous randomness of wether your character can do something correctly, but permanently shape the narrative world by their results. The same is true for Clashes and to an even greater degree
 
-Any Clash starts when two parties have opposing goals and ambitions, which may be as simple as "I want you dead" to complex arguments about the philosophy and morality of the world. However down to earth or esoteric, when the Clash is completed the argument is closed, this is represented by the creating of a Finale. Minor Clashes lead to Minor Finales and Major Clashes to Major Finales
+Every Clash is essentially a disagreement between opposing parties. It may be as simple as "I want you dead" to complex arguments about the philosophy and morality of the world. However down to earth or esoteric, when the Clash is completed the argument is closed and the outcome written in stone. This represented by the creation of a Finale
+
+Finales are essentially plot points, story beats, summaries of multiple scenes and their narrative. They can be, and in fact are, created any time a character does anything of particular importance to the story. An entire Adventure can be seen as tapestry of interconnected Finales. Having plot points be codified rule elements means other rules can play off of them. For example, time traveling Abilities often mention how many Finales you can travel back in time to. Reality warping Abilities, such as the might spell wish, work by twisting, erasing or creating Finales. When a Finale is created it is said to be Written
+
+However, most often characters will oppose the creation of a Finale. Clashes are essentially just a way to resolve this conflict and see which side prevails. Clashes implicitly start with a Finale in question. When it Ends the Finale is Written. The Loosing side is said to Suffer the Finale at the hand of the Winning side
+
+Similarly to the outcome of Rolls, Finales cannot be questioned. Once a Finale is Written, it can't be undone or contradicted outside of very specific rules or Reprising
+
+Finally, Finales can be Major and Minor. Outside of a Clash, their type is decided by the Director. If one is Written by a Clash, it has the same type as the Clash
+
+Note: while usually a party will Suffer and Inflict Finales collectively, Finales are inherently personal between two characters. One of your party members might Suffer a Finale while you don't, all in the same Clash
 
 **Example:** Your party is disguising as the local circus to infiltrate an hostile town. You manage to convince a real performer of this by means of winning a Minor Clash, writing the Finale of _the townfolks are convinced you are fellow entertainers_. They can’t suddenly start to doubt you again, as this would go against this Minor Finale
 Let’s say your party gets physically overpowered by a monster, resulting in a Major Finale. You now can’t suddenly strike back against the monster while it drags you away in its den (unless you want to risk your life, see below for more). You can however, try to lure it away from you with food, try to reason or bargain it if it’s sentient and so on, as all these actions are not related to the Finale of "the monster overpowered you"
@@ -425,15 +453,15 @@ Note that it’s entirely based on the circumstances if the characters involved 
 
 A hero's spirit is not so easily broken though, and so any character can still try to resist the effects of a Finale. However, doing so will always result in a Death Roll
 
-## Death Rolls and Reprisals
+## Death, Death Rolls and Reprisals
 
 Death Rolls represent extremely dangerous situations in which failure means the death of a character. They can be called at the Director's will, even when at full WP, if the narrative circumstances dictates it. These are called Narrative Death Rolls. However, most of the times, they will be called during a Clash
 
-When a character looses a Clash they should suffer a Finale. If they wishes so, they can try to resist this resolution by Reprising, which they simply announce when they should be removed from the Clash. When Reprising a character will have to make a Death Roll every time they take Damage and once at the begging of their End Step
+When a character takes Damage while at 0 WP, they Loose the Clash, are removed from it, and Suffer a Finale. However, if they wishes so they can try to resist this resolution by Reprising, which they simply announce when they should be removed from the Clash. When Reprising, if a character takes is Hit
 
-Note: once they decide to Reprise, a character cannot "unreprise". They only have two ways out of the Clash: either they Die or their party wins the Clash. There's no turning back
+Note: once they decide to Reprise, a character cannot "unreprise". They only have two ways out of the Clash: either they Die or every enemy character is defeated. There's no turning back
 
-> **Designer's Note:** If an action the player wants to do will cause a Death Roll, directly or down the line, the Director has to inform the player of such a possibility
+> **Designer's Note:** If an action the player wants to do will cause a Death Roll, directly or down the line, the Director should to inform the player of such a possibility
 >
 > **Example:** _If you try to escape arrest by jumping off the castle, know that you will have to make a Death Roll_
 >
@@ -443,7 +471,7 @@ Note: once they decide to Reprise, a character cannot "unreprise". They only hav
 > _I try to grab a golden cup and a few coins_
 > _While you can, know that failing will result in you fighting her, most probably leading to your demise_
 >
-> It’s obviously ATDD how early to warn you of such deathly dangers. Their call may be influenced by multiple factors such as your experience playing the game, the tone of the adventure, the amount of PC that you had to make for this adventure and so on
+> It’s obviously up to to the Director how early to warn you of such deathly dangers. Their call may be influenced by multiple factors such as your experience playing the game, the tone of the adventure, the amount of PC that you had to make for this adventure and so on
 
 While Narrative Death Rolls are decided by the nature of the action, like in the jumping from a building example, those taken in a Clash are much simpler. Simply Roll 1d20, if the result is 10 or less your character Dies
 

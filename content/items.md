@@ -444,8 +444,8 @@ _Never in my life did I hear "just a joke"_
 
 - _Cutting Tongue -_ {Exs, Action}: Make a joke about Target character, depending on the nature of it the Target gains a Lucky, Dodge or Vulnerable Token. ATDD if the joke was original, impressive or humorous enough you gain an Action
 
-**The Hand of the Author** (7)
-_Here's how I would have let that play out ..._
+**Solar Ink** (7)
+_Spoken in shady corners of the capital are words of a great being with very tired fingers_
 
 - _Redraft Fate -_ If this Item is Active when you inflict a Finale on a character, ATTD you may choose to change to something else. Then, if the Clash is still ongoing, Deactivate this Item
 
