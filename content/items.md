@@ -9,10 +9,10 @@ The closest thing to a class system are Mythic Items. These are powerful Items t
 Items can be in various states:
 
 - Owned: this means you own the Item. You may not have it with you, such as keeping it in your base. Note that Owner always refers to their **original** owner, stolen Items still belong to their Owner regardless of who currently has it
-- Carried: you physically have the Item with you at the moment
+- Carried: you have the Item with you at the moment
 - Active: their Abilities are Active and may be used
 - Inactive: their Abilities aren't Active and can't be used, this is the state Items are at the begging of a Clash
-- Disabled: this Item has no having no Abilities and can't be used, even if Active
+- Disabled: this Item has no Abilities and can't be used, even if Active. Rules that Disable Items specify when the condition ends, by default the duration is the Scene
 - Rusted: a Rusted Item is Disabled. This condition can be removed if you spend 2 Hours during a Rest repairing it. In the right places NPCs may do this for you
 
 When you create your character you start with a single Mythic Item. You can gain new Items during the course of the Adventure, at any time the Director feels like it. Additionally, you gain an extra Item when you Level. Depending on the type of Adventure you're playing, the Director may give you specific Items or let you choose between a set of Items. However, they are encouraged to let you choose any Item in this document
@@ -29,13 +29,11 @@ The two other kind of Abilities Items have are Passive Abilities, which are Acti
 
 When you Activate a non-Rapid Item you cannot Exhaust it until your next turn
 
-**Items in the Narrative:** outside of Clashes Items are Active, so you automatically earn all their Triggered and Passive Abilities
+**Items in the Narrative:** outside of Clashes Items are Active, so you automatically earn all their Triggered and Passive Abilities. You can use their Activated Abilities as well, however you must be able to pay their Cost. You do not Exhaust Scene Elements outside of Clashes, so for example to pay for an Ability with Cost {3} you simply need to Carry SEs with Focus Value 3 or more to use it. You cannot Exhaust Items (or any other SE) outside a Clash, meaning that if an Ability has {Exs} in the Cost, you cannot use. Additionally, every Activated Ability may be used only up to once per Scene
 
-**Channeling:** Some Items will refer to Channelling, for example with "Channel for a Scene, on Completion ..., on Break ...". When you Channel you may not take Narrative Actions until the Channel ends. Note this means that you cannot make Rolls. If you take Damage while Channeling, the Channel is Broken, which may result in some effects, usually negative. All Channels indicate how long they last, if by that time the Channel is unBroken, the Channel Completes. This usually result in positive effects. Both Breaking and Completing a Channel ends it
+**Channeling:** Some Items will refer to Channelling: "Channel for a Scene, on Completion ..., on Break ...". When you Channel you may cannot make Cues until the Channel ends. If you take Damage while Channeling, the Channel is Broken, which may result in some effects, usually negative. All Channels indicate how long they last, if by that time the Channel is unBroken, the Channel Completes. This usually result in positive effects
 
-**Narrative Form:** Since there are no rules for weight, space, one/two handling and so on, what an Item is represented by in the narrative can be freely chosen, ATTD. For example the previously mentioned Thunder Hammer may actually be a hammer that occasionally shoots sparks in a classic fantasy setting. In a more sci-fi scenario it may be represented as a malfunctioning power weapon. It may not even be an actual Item: if you want to roleplay as a barbarian who strikes people by channelling lightning in her fists it may just be a sort of natural ability your character has without being a physical object. While free to be molded, every Item possesses at least a suggested Narrative Form
-
-While there’s no strict class system, we have chosen to order the most common items in a way that resembles the most popular classes. You are in no way limited to follow these “build paths”, but feel free to rely on them during your first adventures
+While there’s no class system, we have chosen to order common Items in a way that resembles classes in other TTRPGs. You are in no way limited to follow these “build paths”, but feel free to rely on them during your first adventures while you get the hang of the game
 
 ## Wizard
 

@@ -39,3 +39,9 @@ _Pieces of the stomach taken form a dead Censura, their acid capable of melting 
 _It has been theorized, by our most unemployed erudites, of distant corners of our universe where existance hides from truth_
 
 - _False Vacuum Decay -_ {Exs: 5}: Until end of Scene, all Rolls involving you Fail if they would Pass and vice versa
+
+**Solar Script** (3)
+_When I joined the order I was told to read and memorize one line and only one line. Collectively we carry the entirety of that cursed book_
+
+- _On Nature -_ You always have perfect knowledge of every rule regarding every character, Items, Props and so on. For example you know the Personalities of every character, their Traits, their Items and so on
+- _On Being -_ {Exs, 7, Action}: You Learn all Secrets of Target character

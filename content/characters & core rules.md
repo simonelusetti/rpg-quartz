@@ -6,7 +6,7 @@ In this document the main rules of the game, which we advice to be read by every
 
 **Reasonable/Reasonably:** _As intended not as written_. A pillar of this game is the decoupling of the narrative and the rules. We believe this makes for a lean design that gives individual freedom while keeping interesting gameplay. This said, when these two need to mix to create interesting rules and interactions we think it's important to point it out
 
-To make an example: the Item's _Branches of Inner Peace_ mentions how its Abilities can only be used on characters that "have two Major Traits that go Appropriately against each other". Leaving aside that we haven't mentioned Items or Traits yet, wether or not a Trait goes against another can't be rigorously defined. The most common solutions is to make your alignment fall into pre-built blocks that have clear support-against relationships, limiting your freedom in making your character
+To make an example: the Item's _Branches of Inner Peace_ mentions how its Abilities can only be used on characters that "have two Major Traits that go Reasonalbly against each other". Leaving aside that we haven't mentioned Items or Traits yet, wether or not a Trait goes against another can't be rigorously defined. The most common solutions is to make your alignment fall into pre-built blocks that have clear support-against relationships, limiting your freedom in making your character
 
 To give players the full creative liberty, while keeping interesting effects that relate to their character's vision and personality, we opted to clearly mark when we lay the burden and pleasure of making the final call to the Director. Obviously, while the Director has the last word, any player is encouraged to give their opinions, while keeping a friendly and accepting play environment
 
@@ -53,7 +53,7 @@ Rolls are always made with and against a Symbol. Since each Symbol is associated
 
 As stated, every Roll is caused by a Narrative Cue. Once the Roll is resolved, it's outcome decided for the Scene. If you make two Cue that are Reasonably the same you don't Roll again
 
-> **Designer's Note:** Remember how "make an Appropriately same Cue" calls for the Director to decide if two NC are "close enough". Following the wall example. If you try again literally immediately, that is Reasonably the same Cue, meaning you still can't climb it. If something changes, like you training to climb it or simply a change of Scene, the Director can Reasonably see it as a different Cue
+> **Designer's Note:** It's up to the Director if two Cues are Reasonably "the same" Following the wall example. If you try again literally immediately, that is Reasonably the same Cue, meaning you still can't climb it. If something changes, like you training to climb it or simply a change of Scene, the Director can Reasonably see it as a different Cue
 
 To make a Roll you roll 1d20, the Base Die. The required number to Pass the Roll, called its Difficulty, is defined by:
 
@@ -284,9 +284,9 @@ These are the Main Actions that every character has access to:
 
 Actions and Abilities tend to influence characters, most hostile ones will try to resist such effects. Targeting is short-hand for:
 
-$$\text{Make an Appropriate Roll against a character in the Scene, if you Pass then ...}$$
+$$\text{Make a Roll against a character in the Scene, if you Pass then ...}$$
 
-For example, Attacking is defined as "When Attacking you deal 1 Damage to Target character", which expands to "choose a character in the Scene then make an Appropriate Roll based on the circumstances of the Scene. If you Pass you deal 1 Damage to that character"
+For example, Attacking is defined as "When Attacking you deal 1 Damage to Target character", which expands to "choose a character in the Scene then make a Roll based on the circumstances of the Scene. If you Pass you deal 1 Damage to that character"
 
 If you Pass the Roll for the Targeting, the rest resolves as normal, otherwise it Fails. Often, the result of a Targeting is inferable from its ruling. By default, if you Fail nothing happens, otherwise its rules take effect. More complex Abilities might specify what happens on Pass/Fail
 
@@ -495,7 +495,7 @@ When you Cast a Spell, you always Target a character. Be it an impulse of arcane
 
 **Example:** If you cast the spell Neversound, a Level 2 Key Spell, with the effect of _I emit no sound to sneakily get past that enemy_, you gain 2 BD, +1 for being a Key Roll (plus or minus BD or MD gained from other rules). You would Roll your Key over the guard’s Lantern. Let’s say the resulting Difficulty is 16 and you Roll 4, 18, 15, 16, so you succeed and easily get past. If the guard is particularly skillful, the Director may decide that a simple Roll isn’t enough and to get past him you would require a Minor Clash. In this case you carry over your Roll as an Attack, gaining a Potential Power of 3 and (with your 18 and 16 Success Dice) you deal 2 Damage. 
 
-**Persistent Spells:** If the Effect you choose has continuous repercussions, instead of activating and going away, the Spell gives the Target a special Temporary Trait, called a Spell Trait. Like any other Temporary Trait this doesn't count towards your maximum number of Traits. The target then stores a number of Dice equal to twice Spell’s Level in the Spell Dice Pool. As with normal Spells, the Trait and Effect must be Appropriate with its Name
+**Persistent Spells:** If the Effect you choose has continuous repercussions, instead of activating and going away, the Spell gives the Target a special Temporary Trait, called a Spell Trait. Like any other Temporary Trait this doesn't count towards your maximum number of Traits. The target then stores a number of Dice equal to twice Spell’s Level in the Spell Dice Pool. As with normal Spells, the Trait and Effect must be Reasonably connected with its Name
 
 When the Target makes a Roll using the Spell Trait, instead of gaining just 1 BD or MD you can expend a number of Dice from the Spell Dice Pool up to half the Spell's Level (rounded down), to give them the same amount of MD or BD. If the Roll has the same Symbol as the Spell they Roll 1 additional BD or MD, but this additional die can only be gained twice per Spell cast. When the pool is empty, the Spell ends. When the Spell ends, the target loses the Spell Trait and empties the Spell Dice Pool. A character can have any amount Spell Traits at time but the caster can have only a single Persistent Spell active at time
 
