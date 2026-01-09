@@ -36,7 +36,9 @@ Not everything a character does is a Cue however. Buying a basic sword from the 
 
 Using a rule, like an Item's Ability, is always a Cue. Alongside them there are Narrative Cues, which are made entirely with narrative elements with no real ruling. Generally, everything that isn't an Action in a Clash or the use of an Item's Ability is a Narrative Cue
 
-**Rolls**: _The chief mechanic of this game, to be used whenever a character does anything that could change the story_
+# Rolls
+
+The chief mechanic of this game, to be used whenever a character does anything that could change the story\*
 
 Whenever a Narrative Cue's outcome is undecided, catching an arrow or distracting a guard, a Roll is made to determine it. Every Roll is a confrontation between two characters:
 
@@ -81,13 +83,15 @@ When you Roll with any BD (after being canceled by MD), every Die that is at or 
 > - _You fail to guess wether this Nobleman is lying to you, he gets suspicious and leaves_
 >   These are a few examples. The Director is heavily encouraged to never reduce a failed Roll to "You just fail the task and nothing happens"
 
-**Conflict Rolls:** _The young mage stares at the cursed tome, brimming with forbidden antediluvian sorceries. Her hands move on its own_. Your character will eventually be tempted in some ways: appealing to their greed, lust, or even sense of duty and justice, their thirst for skills or knowledge. To resist these temptations you will need to pass a Conflict Roll, their Difficulty is calculated differently:
+## Conflict Rolls
+
+_The young mage stares at the cursed tome, brimming with forbidden antediluvian sorceries. Her hands move on its own_. Your character will eventually be tempted in some ways: appealing to their greed, lust, or even sense of duty and justice, their thirst for skills or knowledge. To resist these temptations you will need to pass a Conflict Roll
+
+These vary a bit from normal Rolls and may be considered this game's version of a saving throw. They are always made with the same Symbol for both the Lead and the Foil. Their Difficulty is calculated as such, to represent how a character's own personality can be used against them:
 
 $$
-6 + \text{your Tempted Personality} + \text{the Foil’s Attacking Personality}
+6 + \text{your Symbol} + \text{the Foil’s Symbol}
 $$
-
-This to represent how a character's own personality can be used against them
 
 **Example:** _Your character is tracking the Succubus through the sewers. With her back against a wall she tries to seduce your character to escape_ the Director narrates. The Succubus uses its Devilish Charm, which causes a Lips over Lips Conflict Roll. The demon's Lips is 5, you have 1 so the Difficulty becomes 12, perfectly manageable. Your comrade Sonna Sweetstrings, having Lips of 5 herself, needs to pass an harsh 16 of Difficulty to resist
 
@@ -95,13 +99,60 @@ Most often, these Rolls are made by specific effects, and most often to resist a
 
 **Example:** _Jason Stoutfist, The captain of the city watch, enters the criminal's hideout and sees you, covered in blood and with some corpses behind you. He unsheats his sword and stand guard_. You might simply lie and tell him the corpses where there when you arrived, which would result in a standard Thorn over Lantern Roll. However, remembering how the captain has regretfully bent the law in the past for justice sake's, you are honest: _We tracked these criminals down and killed them_. The Director might reward this smart play with a Conflict roll of Lantern over Lantern. Considering the captain has Lantern 7 that's not a bad proposition. Note how the role of Lead and Foil are reversed: the Captain makes the Roll now, instead of you
 
-# Character Sheet, Personalities, Symbols & Traits
+## Help & Group Rolls
 
-**Personalities:** _You made numbers, values that define how you think, look and act_. The Personalities of a character are series of numbers, each called a Personality, that describe your character's physical and psychological characteristics, equivalent to Strength, Dexterity, Wisdom and so on in other games. Each Personality is a number ranging from -10 to 10. Since they are the main factors on how easily your character Passes a Roll, they define your character's prowess in their respective domains
+It’s not uncommon for certain actions to be taken as a group: _The whole party tries to interpret some writings in an ancient ruin or deducing another character’s intentions_. To do so only one character does the Roll, but they earn 1 BD for each character that could Reasonably help them and 1 MD for each that would Reasonably hinder the attempt. As with any Rolls, the actions that caused them cannot be taken again in the same Scene, meaning that if 3 people try to break a door, they cannot try 3 different Rolls, just a single big one
+
+> **Designer's Note:** While this might sound harsh, only allowing one character to Roll for the entire party has its advantages. First, this avoids penalizing smaller parties who would have less overall attempts. Secondly, it removes the ever present dilemma of "my character is ultra sneaky, but unless I go alone someone in the party gets us spotted", allowing every player to carry the rest of the party on their back if necessaries. But also, this gives every character the chance to shine. If only one person can make the Roll for everyone, then everyone (assuming a well rounded series of obstacles) will get a chance to be in the spotlight
+>
+> The Director can narrate how an extremely stealthy character managed to make the entire clumsy party pass by unnoticed by catching everything they dropped. Or how a single talented character carried the party's performance
+
+## Targeting
+
+All Cues influence other characters, this is why Rolls are always made against another character. It's extremely common for a rule, like an Item's Ability or an Action, to require you to make a Roll with advantageous effects if you Pass. So common in fact there's a single word for that: Target. Targeting is short-hand for:
+
+$$
+\text{Make a Roll against a character or Scene Element in the Scene, if you Pass then ...}
+$$
+
+For example, Attacking is defined as “When Attacking you deal 1 Damage to Target character”, which expands to “choose a character in the Scene then make a Roll based on the circumstances of the Scene. If you Pass you deal 1 Damage to that character”
+
+If you Pass the Roll for the Targeting, the rest resolves as normal, otherwise it Fails. Often, the result of a Targeting is inferable from its ruling. By default, if you Fail nothing happens, otherwise its rules take effect. More complex Abilities might specify what happens on Pass/Fail
+
+Abilities may Target Scene Elements. In the case of Items and Traits, Targeting them simply means Rolling against their Holder. Props may also be Targeted, in which case you Roll against their Controller. If multiple characters are Controlling it, the hostile side decides who is the Foil. If unControlled, the Director decides which character is the Foil, which by default is their creator or the closest character narratively. Note that while you always Roll against a character, the actual Target of the Ability is still the selected Scene Element
+
+When you Roll against a character by Targeting them, they may always choose to make you automatically Pass the Roll. This is often the case when you Target an allied character with a beneficial Ability
+
+> **Important Note:** the Narrative Form of your Targeting is up to you. This gives you the freedom to “dress them up” however you want. An Attack _could_ (and usually will be) just you slashing someone, however you have the explicit freedom to say how you actually hit them with the flat of your sword, use the pole end of your spear, and so on. Since Clashes are not reserved for physical combat, an Attack during a debate could be described as insulting or enticing. Saying _I try to rage bait my opponent_ could very well be a valid Attack
+>
+> Similarly, an Ability that Destroys an Item could as simple as you smashing a sword to piece to as complex as you inflicting such heavy trauma to your Target that they loose a mental skill
+>
+> This said, the Director is always free to beat sense into the Narrative by disallowing certain Narrative Form when you Target. _I wink at the dragon with a rose in my mouth_ could be a valid NF when using a hypnotic Ability if the adventure has a light-hearted silly tone, in more horror focused narratives this may be disallowed
+>
+> Note that since you must state the NF of your Targeting before anything actually happens, including you paying any Costs. In the unfortunate scenario in which your NF is denied you lost no resources
+
+## Dodging
+
+_As the arrow hits you, you feel an exotic poison fill your veins, the archer makes a Thorn over Heart Roll to see if you suffer its effects_
+_No! I slash open the wound and try to exsanguinate myself until the toxin is gone!_
+
+When your character is the Foil of a Roll (AKA someone else is Rolling against you), you can narrate how your character tries to react in a risky but unexpected way, taking control and swapping the Foil and Lead’s role and changing the Symbols. For example, receiving a blow to the head would normally not even cause you to Roll, the assailant just Rolls their Thunder over your Heart. However, you can narrate how your character would try to masterfully dodge the strike instead of tanking it. If your use is Reasonable, you make this new Roll and the oldest one is Failed if you Pass and Vice Versa
+
+When you Fail a Dodge you take 1 extra Damage. You can attempt up to 1 Dodge per Scene
+
+represent how a character's own personality can be used against them
+
+# Character Sheet
+
+## Personalities
+
+You made numbers, values that define how you think, look and act\*. The Personalities of a character are series of numbers, each called a Personality, that describe your character's physical and psychological characteristics, equivalent to Strength, Dexterity, Wisdom and so on in other games. Each Personality is a number ranging from -10 to 10. Since they are the main factors on how easily your character Passes a Roll, they define your character's prowess in their respective domains
 
 When you create your character the total sum of your Personalities must be equal to 10 but none can be higher than 6 or lower than -3, and only one can reach each of these values
 
-**Symbols:** Each personality is further subdivided into two Symbols each. If a Personality is the raw strength of your character in one area, a Symbol is how they are using it. When you create your character choose a Symbol from your highest and your lowest Personality, they become your Core Symbols
+# Personalities & Symbols
+
+Each personality is further subdivided into two Symbols each. If a Personality is the raw strength of your character in one area, a Symbol is how they are using it. When you create your character choose a Symbol from your highest and your lowest Personality, they become your Core Symbols
 
 The Personalities and their Symbols are:
 
@@ -134,7 +185,9 @@ Effects can cause your character to have parts of their personality or physical 
 
 You are encouraged to roleplay your character Alterations. If an enfeebling effect Eclipses your Heart, narrate how your character’s movements are fatigued and slow. If your Lantern gets Exalted your character might be of seeing hidden patterns, hearing strange revelations in the wind and so on
 
-**Traits:** traits are codified marks of your identity. ATDD they can truly be anything, but common ones include your race, your background, ties to a person or faction, knowledge in a field or expertise with a set of tools and so on. They are divided into Major and Minor, with the difference being how core to your character's identity they are. Additionally, Major Traits also have Symbol associated with it. When you make your character you start with 1 Major Trait and 2 Minor Traits. The character whom a Trait belongs to is called its Carrier, this weird term will make more sense in the context of Items
+## Traits
+
+traits are codified marks of your identity. ATDD they can truly be anything, but common ones include your race, your background, ties to a person or faction, knowledge in a field or expertise with a set of tools and so on. They are divided into Major and Minor, with the difference being how core to your character's identity they are. Additionally, Major Traits also have Symbol associated with it. When you make your character you start with 1 Major Trait and 2 Minor Traits. The character whom a Trait belongs to is called its Carrier, this weird term will make more sense in the context of Items
 
 **Temporary Traits:** Some rules, like Spells, can apply Temporary Traits on you. These specify a condition for ending them, and don't count toward your maximum number of Traits
 
@@ -152,17 +205,32 @@ You should work with the Director to decide which new Traits you gain, reflectin
 
 Each new level you may also Sharpen your Personalities: choose up to 2 Personalities, remove 1 point from them and add the removed scores to one or two other Personalities. This can make you go below -3 and above 6, but still within -10 and 10
 
-# Scene Elements & Improvisation
+# Props
 
-**Props:** _I use the **sound of the rain** to sneak unnoticed to the guard, then I throw **a coin** to distract him enough to pass by_
+**Props:** Traits allow the players to codify the free form narrative of their character's identity into something the rules can interact with. Narrative Props do the same for pieces of the Scene. They can have specific rules, such as cannon being able to blast a powerful shot, or a muddy terrain being difficult to traverse, and so on
 
-Traits allow the players to codify the free form narrative of their character's identity into something the rules can interact with. Props do the same for pieces of the Scene. When the Director describes a festival as having a large whicker man, that may be Prop used later in a fight. A grumpy, drunk, old man shouting? That is a possible Prop, a possible distraction. A Prop need not be a physical object, or even a single thing, just an "element" conceptually or according to the narrative. Bad weather, someone's mood and your dress are all great Props. Obviously, being a Prop or not is ATDD. Props can't, however, be things which already have rules to represent them, such as a Trait or an Item
+Normally, Props enter a Scene Uncontrolled, indicating how no character is currently holding it in any specific way. As a Cue you may Interact with them, which may require a Roll. If you Pass or there's no need for a Roll you Learn all the Prop's Minor Secrets and start to Control them
 
-**Scene Elements (SE):** A Scene Element is a catchall term for everything you can use in a Scene: Traits, Props and Items
+Props have a number called Space, 1 by default, which indicates how many characters may Control it at the same time. When you Target a Prop (not just when trying to Control it), you gain 1 BD for each allied character and 1 MD for each enemy character Controlling it. When a Prop is Controlled by a number of characters equal or higher than its Space, it's Full
 
-**Improvisation:**
+If you use this Cue to Control a Full Prop, you may choose another character, they stop having Control of it. This is known as Pushing them Off. Note: Since nothing restricts you from using this Cue on a Prop you already Control, you can use it to specifically Push Off a character. A character Controlling a Prop may also stop Controlling it as a Cue
+
+Props may have Activated Abilities, such as the cannon in the previous example being able to shoot. Whenever you want to use these Abilities you first Target the Prop, meaning that opposing characters Controlling it may try and stop you from using it. If you fail this Targeting, the Ability Fails but you do not pay its Cost
+
+**Traps:** Traps is a special rule for Props which give disadvantages and problems to their Controller. These could be actual in narrative traps such as spike pits or landmines, but could also indicate a magically summoned tangle-bush, a pool of lava and so on. If normally you can just choose to stop Controlling a Prop as a Cue, you must Target a Trap to do so, meaning that their creator or other characters can try to stop you from doin so. Additionally, while not always the case, Traps usually try to force characters to Control them when created
+
+**Narrative Props:** _I use the **sound of the rain** to sneak unnoticed to the guard, then I throw **a coin** to distract him enough to pass by_
+
+Narrative Props are a way for the players to codify important elements of the narrative on the spot. If the Director describes a festival as having a large whicker man, that may be Prop used later in a fight. A grumpy, drunk, old man shouting? That is a possible NP, a possible distraction. A NP need not be a physical object, or even a single thing, just an "element" conceptually or according to the narrative. Bad weather, someone's mood and your dress are all great Props. It's up to Director if a story element is significant enough to be a NP. Narrative Props cannot be things which already have rules to represent them, such as a Trait or an Item
+
+Narrative Props are mainly used for [[#Improvisation]]
+
+# Improvisation
+
 _The cultist realizes you're following him in the market and bolts towards you, what do you do?_
 First, **I yell fire to get the bazaar crowd\*** \[Prop\] \*running as a diversion. I bash my **Colossus Hammer\*** \[Item\] \*onto a post to simulate the roar of an explosion . Then, considering I'm a **Avid Gambler\*** \[Trait\] _I probably run from creditors a lot in my life. I should be good at running_
+
+**Scene Elements (SE):** A Scene Element is a catchall term for everything you can use in a Scene: Traits, Props and Items
 
 Good use of narrative elements should be rewarded, and Improvisation is how it's achieved in this game. Whenever you make a Roll, you can describe up to one Prop, one Trait and one Item that could Reasonably help you, and how you plan to do so. This grants you a number of BD:
 
@@ -182,22 +250,6 @@ Good use of narrative elements should be rewarded, and Improvisation is how it's
 **Reasonability of Item:** It's a bit ambiguous what it means for an Item to Reasonably help you in the narrative to be able to Improvise with them. Whenever you gain an Item you choose a Narrative Form for it. It's its NF that determines if an Item can Reasonably help you. It's Abilities don't count
 
 Scene Elements can similarly give you MDs, with the same amounts they would give you BD, if their presence would Reasonably resist your Narrative Cue. The Director can only propose them and they apply only if you accept. However, when you Fail with MDs earned this way you gain 1 Persistent Lucky Token. Up to 2 per Session
-
-**Help & Group Rolls:** It’s not uncommon for certain actions to be taken as a group: _The whole party tries to interpret some writings in an ancient ruin or deducing another character’s intentions_. To do so only one character does the Roll, but they earn 1 BD for each character that could Reasonably help them and 1 MD for each that would Reasonably hinder the attempt. As with any Rolls, the actions that caused them cannot be taken again in the same Scene, meaning that if 3 people try to break a door, they cannot try 3 different Rolls, just a single big one
-
-> **Designer's Note:** While this might sound harsh, only allowing one character to Roll for the entire party has its advantages. First, this avoids penalizing smaller parties who would have less overall attempts. Secondly, it removes the ever present dilemma of "my character is ultra sneaky, but unless I go alone someone in the party gets us spotted", allowing every player to carry the rest of the party on their back if necessaries. But also, this gives every character the chance to shine. If only one person can make the Roll for everyone, then everyone (assuming a well rounded series of obstacles) will get a chance to be in the spotlight
->
-> The Director can narrate how an extremely stealthy character managed to make the entire clumsy party pass by unnoticed by catching everything they dropped. Or how a single talented character carried the party's performance
-
-**Dodging:**
-_As the arrow hits you, you feel an exotic poison fill your veins, the archer makes a Thorn over Heart Roll to see if you suffer its effects_
-_No! I slash open the wound and try to exsanguinate myself until the toxin is gone!_
-
-When your character is the Foil of a Roll (AKA someone else is Rolling against you), you can narrate how your character tries to react in a risky but unexpected way, taking control and swapping the Foil and Lead’s role and changing the Symbols. For example, receiving a blow to the head would normally not even cause you to Roll, the assailant just Rolls their Thunder over your Heart. However, you can narrate how your character would try to masterfully dodge the strike instead of tanking it. If your use is Reasonable, you make this new Roll and the oldest one is Failed if you Pass and Vice Versa
-
-When you Fail a Dodge you take 1 extra Damage
-
-You can attempt up to 1 Dodge per Scene
 
 # Clashes
 
@@ -280,28 +332,6 @@ These are the Main Actions that every character has access to:
 - Start to Flee
 - Making a generic Roll
 
-### Targeting
-
-Actions and Abilities tend to influence characters, most hostile ones will try to resist such effects. Targeting is short-hand for:
-
-$$\text{Make a Roll against a character in the Scene, if you Pass then ...}$$
-
-For example, Attacking is defined as "When Attacking you deal 1 Damage to Target character", which expands to "choose a character in the Scene then make a Roll based on the circumstances of the Scene. If you Pass you deal 1 Damage to that character"
-
-If you Pass the Roll for the Targeting, the rest resolves as normal, otherwise it Fails. Often, the result of a Targeting is inferable from its ruling. By default, if you Fail nothing happens, otherwise its rules take effect. More complex Abilities might specify what happens on Pass/Fail
-
-Abilities may Target Scene Elements. In the case of Items and Traits, Targeting them simply means Rolling against their Holder. Props may also be Targeted, in which case you Roll against their Controller. If multiple characters are Controlling it, the hostile side decides who is the Foil. If unControlled, the Director decides which character is the Foil, which by default is their creator or the closest character narratively. Note that while you always Roll against a character, the actual Target of the Ability is still the selected Scene Element
-
-When you Roll against a character by Targeting them, they may always choose to make you automatically Pass the Roll. This is often the case when you Target an allied character with a beneficial Ability
-
-> **Important Note:** the Narrative Form of your Targeting is up to you. This gives you the freedom to "dress them up" however you want. An Attack _could_ (and usually will be) just you slashing someone, however you have the explicit freedom to say how you actually hit them with the flat of your sword, use the pole end of your spear, and so on. Since Clashes are not reserved for physical combat, an Attack during a debate could be described as insulting or enticing. Saying _I try to rage bait my opponent_ could very well be a valid Attack
->
-> Similarly, an Ability that Destroys an Item could as simple as you smashing a sword to piece to as complex as you inflicting such heavy trauma to your Target that they loose a mental skill
->
-> This said, the Director is always free to beat sense into the Narrative by disallowing certain Narrative Form when you Target. _I wink at the dragon with a rose in my mouth_ could be a valid NF when using a hypnotic Ability if the adventure has a light-hearted silly tone, in more horror focused narratives this may be disallowed
->
-> Note that since you must state the NF of your Targeting before anything actually happens, including you paying any Costs. In the unfortunate scenario in which your NF is denied you lost no resources
-
 ### Focus
 
 The fast paced, tense nature of a Clash means that your character must allocate their mental and physical resources well. This is represented with Focus
@@ -340,13 +370,7 @@ Target a SE and Exhaust it, it doesn't unExhaust during their owner's next Breat
 
 **Controlling a Props:** _I swing on the chandelier to kick that guy in the teeth with more momentum. I'd like to stand still on the empty armor stand to sneak unnoticed by that guard_
 
-Props in Clashes follow more specific rules, to represent how characters fight a tug of war for their control. Normally, Props start the Clash Uncontrolled, you can Control one by Targeting it with this Action
-
-Props have a number called Space, 1 by default, which indicates how many characters may Control it at the same time. When you Target a Prop (not just when using this Action!), you gain 1 BD for each allied character and 1 MD for each enemy character Controlling it. When a Prop is Controlled by a number of characters equal or higher than its Space, it's Full
-
-If you use this Action to Control a Full Prop, you may choose a willing character or one you Rolled against to Control it. That character stops Controlling it. This is known as Pushing them Off. If you are the only character Controlling a Prop you are in Total Control of it
-
-Note: Since nothing restricts you from using this Action on a Prop you already Control, you can use it to specifically Push Off a character
+Target a Prop and Control it, as described in the [[#Props]] section
 
 **Casting a Spell:** Cast a Spell on Target character. The rules for Casting are described in the [[#Spells]] section
 
