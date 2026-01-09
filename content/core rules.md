@@ -207,23 +207,15 @@ Each new level you may also Sharpen your Personalities: choose up to 2 Personali
 
 # Props
 
-**Props:** Traits allow the players to codify the free form narrative of their character's identity into something the rules can interact with. Narrative Props do the same for pieces of the Scene. They can have specific rules, such as cannon being able to blast a powerful shot, or a muddy terrain being difficult to traverse, and so on
-
-Normally, Props enter a Scene Uncontrolled, indicating how no character is currently holding it in any specific way. As a Cue you may Interact with them, which may require a Roll. If you Pass or there's no need for a Roll you Learn all the Prop's Minor Secrets and start to Control them
-
-Props have a number called Space, 1 by default, which indicates how many characters may Control it at the same time. When you Target a Prop (not just when trying to Control it), you gain 1 BD for each allied character and 1 MD for each enemy character Controlling it. When a Prop is Controlled by a number of characters equal or higher than its Space, it's Full
-
-If you use this Cue to Control a Full Prop, you may choose another character, they stop having Control of it. This is known as Pushing them Off. Note: Since nothing restricts you from using this Cue on a Prop you already Control, you can use it to specifically Push Off a character. A character Controlling a Prop may also stop Controlling it as a Cue
-
-Props may have Activated Abilities, such as the cannon in the previous example being able to shoot. Whenever you want to use these Abilities you first Target the Prop, meaning that opposing characters Controlling it may try and stop you from using it. If you fail this Targeting, the Ability Fails but you do not pay its Cost
-
-**Traps:** Traps is a special rule for Props which give disadvantages and problems to their Controller. These could be actual in narrative traps such as spike pits or landmines, but could also indicate a magically summoned tangle-bush, a pool of lava and so on. If normally you can just choose to stop Controlling a Prop as a Cue, you must Target a Trap to do so, meaning that their creator or other characters can try to stop you from doin so. Additionally, while not always the case, Traps usually try to force characters to Control them when created
+Props are more thoroughly described in the [[props]] document. To summarize they are an abstraction of terrain, intractable objects, positions and so on with their own rules. Any piece of the Scene with rules that isn't a character is a Prop. Here we'll just introduce the concept of Narrative Props
 
 **Narrative Props:** _I use the **sound of the rain** to sneak unnoticed to the guard, then I throw **a coin** to distract him enough to pass by_
 
 Narrative Props are a way for the players to codify important elements of the narrative on the spot. If the Director describes a festival as having a large whicker man, that may be Prop used later in a fight. A grumpy, drunk, old man shouting? That is a possible NP, a possible distraction. A NP need not be a physical object, or even a single thing, just an "element" conceptually or according to the narrative. Bad weather, someone's mood and your dress are all great Props. It's up to Director if a story element is significant enough to be a NP. Narrative Props cannot be things which already have rules to represent them, such as a Trait or an Item
 
 Narrative Props are mainly used for [[#Improvisation]]
+
+Each player may create up to 1 Narrative Prop per Scene. Note: NP do not have actual rules for creation, so "create" here describes the act of a player taking a narrative element and codifying into a NP
 
 # Improvisation
 
@@ -370,7 +362,7 @@ Target a SE and Exhaust it, it doesn't unExhaust during their owner's next Breat
 
 **Controlling a Props:** _I swing on the chandelier to kick that guy in the teeth with more momentum. I'd like to stand still on the empty armor stand to sneak unnoticed by that guard_
 
-Target a Prop and Control it, as described in the [[#Props]] section
+Target a Prop and Control it, as described in the [[props]] document
 
 **Casting a Spell:** Cast a Spell on Target character. The rules for Casting are described in the [[#Spells]] section
 

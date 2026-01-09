@@ -1,3 +1,17 @@
+Traits allow the players to codify the free form narrative of their character's identity into something the rules can interact with. Props do the same for pieces of the Scene. They can have specific rules, such as cannon being able to blast a powerful shot, or a muddy terrain being difficult to traverse, and so on
+
+Since most Props are locations and positions, we use that language to describe them. At times it may sound strange: being Inside a cannon means being in control of it or at least fighting for control. Not actually being in the barrel. Gotta roll (intended pun) with it
+
+Normally, Props enter a Scene Empty, indicating how no character is currently interacting with it in any specific way. As a Cue you may Move into the Prop, which may require a Roll. Props have a number called Space, 1 by default, which indicates how many characters may be Inside it at the same time. When you Target a Prop (not just when trying to Move into it), you gain 1 BD for each allied character and 1 MD for each enemy character Controlling it. When a Prop is Occupied by a number of characters equal or higher than its Space, it's Full
+
+If you use this Cue to Move into a Full Prop, you may choose another character, they Move out. This is known as Pushing Off. Note: Since nothing restricts you from using this Cue on a Prop you already Occupy, you can use it to specifically Push Off a character. As a Cue you may also Move out of the Prop
+
+Props may have Activated Abilities, such as the cannon in the previous example being able to shoot. Whenever you want to use these Abilities you first Target the Prop, meaning that opposing characters Inside it may try and stop you from using it. If you fail this Targeting, the Ability Fails but you do not pay its Cost
+
+**Traps:** Traps is a special rule for Props that hinder characters Inside it. These could be actual in narrative traps such as spike pits or landmines, but could also indicate a magically summoned tangle-bush, a pool of lava and so on. If normally you can just choose to stop Controlling a Prop as a Cue, a Trap must be Target to do so, meaning that other characters can try to stop from Moving out. Additionally, most often than not, Traps can be created in the moment by rules that try to force characters to Move into them. Difficult Terrain is an example of that
+
+Props do not have Personalities but they do have WP (1 by default), which implies they can Damaged. The Attack Action and some
+
 **Cover**:
 
 - WP 1
