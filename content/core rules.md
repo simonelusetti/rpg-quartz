@@ -277,6 +277,22 @@ Let's start with a general outline of a turn in a Clash:
   - Speaking
 - End Step: the end of the turn
 
+### Focus
+
+The fast paced, tense nature of a Clash means that your character must allocate their mental and physical resources well. This is represented with Focus
+
+Scene Elements can have a Focus Value. By default, Traits and Props have a Focus Value of 1. You can Exhaust a SE to generate an amount of Focus equal to its Focus Value. Traits must be Active for you to do this. To do so with a Prop you must have Total Control of that Prop
+
+**Execution:** When you Target, you can Spend the Focus generated your SEs to improve the Roll. Each Focus you Spent this way gives you 1 BD, this is known as Executing
+
+**Blocking:** You can also spend Focus defensively. Whenever a character makes a Roll against you, for each Focus you Spend their Roll gains 1 MD. This is known as Blocking. The main way to do this is to protect yourself against Attacks, but since it applies to every Roll, you might also wanna conserve Focus for particularly dangerous Abilities. Making the enemy Miss or the Ability Fail might be more effective than increasing your own chances to Hit during your turn
+
+**unBlockable and unExecutable:** Some rules may change a Roll to be unBlockable or unExecutable. As the names suggests, an unBlockable Rolls cannot gain any MD and an unExecutable cannot gain any BD
+
+Focus can also be Spent to use Item's Abilities or other rules, such as Speaking. If a Cost has a simple number in it, such as {3}, that much Focus must be Spent to use it
+
+**Activation Focus Cost:** Items have what's called an Activation Focus Cost. You can Activate an Item only if the combined Focus Value of all SEs you have is equal or greater than that Item's Activation Focus Cost. Note that, unlike paying for Abilities, you don't actually Exhaust SEs in doing so
+
 ## Free Narration
 
 During your turn in a Clash you are free to do as many Non-Cues as you want:
@@ -287,7 +303,7 @@ During your turn in a Clash you are free to do as many Non-Cues as you want:
 
 You can use Free narration to "dress up" how your character spends the turn for dramatic, comedic or other narrative purposes. You can do so as many times as you want each turn, just be mindful of everyone's time and try to keep the Clash tense and dynamic
 
-Free Narration cannot be a Narrative Cue. If you recall, this means that you can't do anything that Reasonably changes the story with it
+Free Narration cannot anything that Reasonably changes the story with it
 
 ## The Breath Step
 
@@ -324,17 +340,7 @@ These are the Main Actions that every character has access to:
 - Start to Flee
 - Making a generic Roll
 
-### Focus
-
-The fast paced, tense nature of a Clash means that your character must allocate their mental and physical resources well. This is represented with Focus
-
-Scene Elements can have a Focus Value. By default, Traits and Props have a Focus Value of 1. You can Exhaust a SE to generate an amount of Focus equal to its Focus Value. Traits must be Active for you to do this. To do so with a Prop you must have Total Control of that Prop
-
-**Execution:** When you Target, you can Spend the Focus generated your SEs to improve the Roll, this is known as Execution. Each Focus you Spent this way gives you 1 BD. You can also spend Focus defensively. Whenever a character makes a Roll against you, for each Focus you Spend their Roll gains 1 MD. This is known as Blocking. The main way to do this is to protect yourself against Attacks, but since it applies to every Roll, you might also wanna conserve Focus for particularly dangerous Abilities. Making the enemy Miss or the Ability Fail might be more effective than increasing your own chances to Hit during your turn
-
-Focus can also be Spent to use Item's Abilities or other rules, such as speaking. If a Cost has a simple number in it, such as {3}, that much Focus must be Spent to use it
-
-**Activation Focus Cost:** Items have what's called an Activation Focus Cost. You can Activate an Item only if the combined Focus Value of all SEs you have is equal or greater than that Item's Activation Focus Cost. Note that, unlike paying for Abilities, you don't actually Exhaust SEs in doing so
+Note: while these are the mains things you will do in a Clash, every Action is a Cue that can be used outside them as well. You may always strike that annoying imp with an Attack, or Study that suspiciously Mimic shaped chest
 
 ### Basic Actions
 
@@ -344,13 +350,13 @@ When Attacking you deal 1 Damage to Target character
 
 When the Roll for an Attack Passes, that is called a Hit, otherwise a Miss
 
-**Studying:** _I think checking out the suspiciously cannon shaped object could greatly improve our chances of making it out_
+**Studying:** _Something about that metal tube that spits fire and metal intrigues me_
 
 Studying represents trying to find out something about a particular character or even situation. While not as common as an Action as Attacking, Studying can really make a difference during a Clash, and at times even beyond this single encounter
 
 Target a character or SE and Learn a Secret about them. Secrets held by Scene Elements are usually just hidden effects waiting to be revealed, while those held by characters tend to be focused on the narrative. If the target has no Secrets left you will also learn that
 
-You can also specify what exactly you are trying to find out, such as "does this character knows this other character", "is this character the same we met when ..." and so on. This is called Investigating
+You can also specify what exactly you are trying to find out, such as "does this character knows this other character?", "is this character the same we met when ...?" and so on. This is called Investigating
 
 Most Secrets are Minor Secrets and can be Learnt using the normal Study Action. Major Secrets are crucial to the plot of the story or to the flow of a Clash, and so require Investigating to be Learn. Using the simple Study Action cannot make you Learn Major Secrets. However, if you Investigate and the Target have no Major Secrets that match the Investigation you won't Learn anything. You will know the Investigation failed because of this though
 
@@ -479,7 +485,7 @@ A hero's spirit is not so easily broken though, and so any character can still t
 
 Death Rolls represent extremely dangerous situations in which failure means the death of a character. They can be called at the Director's will, even when at full WP, if the narrative circumstances dictates it. These are called Narrative Death Rolls. However, most of the times, they will be called during a Clash
 
-When a character takes Damage while at 0 WP, they Loose the Clash, are removed from it, and Suffer a Finale. However, if they wishes so they can try to resist this resolution by Reprising, which they simply announce when they should be removed from the Clash. When Reprising, if a character takes is Hit
+When a character takes Damage while at 0 WP, they Loose the Clash, are removed from it, and Suffer a Finale. However, if they wishes so they can try to resist this resolution by Reprising, which they simply announce when they should be removed from the Clash. When Reprising, if a character takes any Damage they Die
 
 Note: once they decide to Reprise, a character cannot "unreprise". They only have two ways out of the Clash: either they Die or every enemy character is defeated. There's no turning back
 
@@ -494,8 +500,6 @@ Note: once they decide to Reprise, a character cannot "unreprise". They only hav
 > _While you can, know that failing will result in you fighting her, most probably leading to your demise_
 >
 > It’s obviously up to to the Director how early to warn you of such deathly dangers. Their call may be influenced by multiple factors such as your experience playing the game, the tone of the adventure, the amount of PC that you had to make for this adventure and so on
-
-While Narrative Death Rolls are decided by the nature of the action, like in the jumping from a building example, those taken in a Clash are much simpler. Simply Roll 1d20, if the result is 10 or less your character Dies
 
 # Spells
 

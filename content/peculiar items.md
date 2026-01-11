@@ -45,3 +45,9 @@ _When I joined the order I was told to read and memorize one line and one line o
 
 - _On Nature -_ You always have perfect knowledge of every rule regarding every character, Items, Props and so on. For example you know the Personalities of every character, their Traits, their Items and so on
 - _On Being -_ {Exs, 7, Action}: You Learn all Secrets of Target character
+
+**Cordycelian Pluribus** (5)
+_The adage is to not look in the host's eyes. They're harmless usually, but if you catch a glimpse of the original you'll have a hard time sleeping for a few years_
+
+- _Spores in the Muscles -_ {Exs, 5, Action}: until your next turn, you control Target character
+- _Spores in the Brain -_ (R, when Target character is about to Die, who suffered _Spores in the Muscle_ in this Scene) {7}: that character doesn't Die and return to 1 WP. Additionally they gain the "Under X's Command" Temporary Major Trait where X is your character. You may control them as if it was another of your characters for as long as that Trait persists. If this Item is Disabled or Destroyed, or if this Ability Passes on another character, the oldest one Dies. However, if you Die, up to the Director's discretion, you may play with that character from then onward. We is Us

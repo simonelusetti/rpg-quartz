@@ -46,7 +46,7 @@ _I swear the extra arm was completely intentional. Goes with my third eye_
 - _Watch and Learn_
   - Whenever you witness first hand the use of a Spell you can try to learn it for yourself. To do so spend 1 Hour during a Rest or 2 Hours if this isn't the first Rest you are taking after witnessing it
   - You can also transcribe a spell you only have second hand experience with, like reading it from a book, being in a place with visible effects of its cast, hearing witnesses talk about and so on. Doing so takes meaningful time, 2 Hours during a Rest, and it's not guaranteed to work: make a Roll against the original caster of the Spell, on a fail the attempt to learn it is fruitless. If the second hand experience is particularly high quality (such as an intact lore book or hearing about it from a powerful caster), you can use them as Props for Improvisation
-  - Note: learning a spell this won’t necessarily tell everything about the Spell. You may only learn it's Name, Level or Symbol instead of all of them. However, whenever you cast it during a Clash you learn all of the information regarding it
+  - Note: learning a spell with this Ability won’t necessarily tell everything about the Spell. You may only learn it's Name, Level or Symbol instead of all of them, with the unknown informations being Minor Secrets. If you Cast it during a Clash you Learn all of them after the Spell resolves
 
 | Spell Name              | Level | Symbol     |
 | ----------------------- | :---: | ---------- |
@@ -66,14 +66,14 @@ _I swear the extra arm was completely intentional. Goes with my third eye_
 **Misspelling Hat** (3)
 _Fire Bolt seemed to have no effect, until the wizard realized he now had to find another job_
 
-- _Spell Alteration -_ (2 uses per Rest) Whenever you cast a Spell you may expend a use of this Item or an additional Spell Slot >= of the one used to cast the Spell: choose one of the following effects:
+- _Spell Alteration -_ (2 uses per Rest): Before Casting a Spell you may expend a use of this Item or an additional Spell Slot $\geq$ of the one used to cast the Spell: choose one of the following effects:
   - Change one word in the Spell's Name with another word in another Spell you know 
-  - Change the Symbol of the Spell with the Symbol of another Spell you have
+  - Change the Symbol of the Spell with the Symbol of another Spell you know
 
 **Staff of brand new Sentence** (3)
 _Summon Aroused Tyrannosaur to be added to the Council's list of banned spells_
 
-- _Word Storage -_ When you gain this Item you can choose two words to store in it. During Rests you can replace the stored words with new ones
+- _Word Storage -_ When you gain this Item you can choose two words to store in it. During Rests you can replace one with a new word by spending 1 Hour
 - _Forge Spell -_ {X Spell Slots}: Create and immediately cast a new Spell with these characteristics:
   - Name: any combination of the words stored in this item + X words from Spell you know (you must use both stored words)
   - Level: the maximum of Levels from the expended Spell Slots
@@ -83,49 +83,46 @@ _Summon Aroused Tyrannosaur to be added to the Council's list of banned spells_
 **Disenchanting Ring** (3)
 _True love is the only magic able to resist its presence_
 
-- _Purge Spell -_ {Exs, 3}: Target a Spell Trait, the Spell ends
+- _Purge Spell -_ {Exs, 2, Action}: Target a Spell Trait, the Spell ends
 - _Countermagic -_ {This Item becomes Rusted} (R, when another character Casts a Spell): Target spell is Nullified
 
 **Ars Bellica** (3)
 _Out of spells, not out of options_
 
 - _Arcane Ward -_ (R, when you get Hit) {Exs, a Spell Slot}: Reduce the Damage you would take by the Spell Slot's Level (minimum of 0). If your previous turn you Casted a Spell with the same Symbol as the Attack, Damage is reduced by 1 more
-- Arcane Strike - {Exs, a Spell Slot}: gain an amount of Actions equal to the Level of the Spell Slot, +1 more if all Rolls made with these Actions have the same Symbol as a Spell you casted your previous turn
+- Arcane Strike - {Exs, a Spell Slot}: Gain an amount of Actions equal to the Level of the Spell Slot. Each of them may only be used for Basic Actions, they gain +1 BD if Rolls made with them have the same Symbol as a Spell you Casted your previous turn
 
 **Prefrontal Overclock** (5)
 _Spare a Thought? I could never_
 
-- _Boundless Spellcasting -_ {Exs, 5, Deactivate}: You may Cast any Spell you know without spending a Spell Slot
+- _Boundless Spellcasting -_ {Exs, 5, Deactivate, Action}: Immediately gain a Spell Slot of Level 5, then Cast a Spell with this Spell Slot
 
 **Overcast** (5)
 _A wounded Wizard makes you laugh. A desperate one cracks the sky_
 
 - _Spell Override -_ (R, when you cast a Spell) {Exs, take damage equal to the Spell’s Level}: choose one
-  - _Overload -_ if the Spell Hits and is not Persistent, it deals Damage equal to its Potential Damage. If it Hits and is Persistent the amount of BD/MD the target gains is doubled and so is the number of them that can be spent with it in each Roll
-  - _Overcharge -_ the Spell Hits automatically
+  - _Overload -_ if the Spell's Passes and is not Persistent, it automatically deals Damage equal to its Potential Damage. If it is Persistent the amount of BD/MD the target gains is doubled and so is the number of them that can be spent with it in each Roll
+  - _Overcharge -_ the Spell's Roll becomes unBlockable
 
 ## Artificier
 
 _The Artificier is an inventor and an artist. Their focus on creation allows them to manipulate Props to their will, being master at Improvising_
 
 **Tools of Creation (Mythic)** (2)
-_There is no greater sorrow in this brown land than an unrealized idea_
+_There is no greater sorrow in this grayish world than an unrealized idea_
 
-- Narrative Form: [TODO]
-- _Masterworks -_ (2 uses per Rest) {Scene}: Create a Masterwork, an Item with no effects. It must an Appropriate Narrative Forms to the tools and materials aviable to you
-- _Continuous Development -_ {2 Hours during a Rest}: Target Masterwork you Carry becomes Improved. When this Item is Active all Improved Masterwork have Focus Value 2
-- Note: you may give your Masterwork to other characters, but no more than 4 Masterwork may exist at the same time, when you create a fifth the oldest you created falls apart
+- _Masterworks -_ (2 uses per Rest) {Scene}: Create a Masterwork, an Item with no effects. It must an Appropriate Narrative Forms to the tools and materials available to you
+- _Continuous Development -_ {2 Hours during a Rest}: A Masterwork you or a willing character Carry becomes Improved. When this Item is Active all Improved Masterwork have Focus Value 2. No more than 4 Masterworks may exist at the same time, when you create a fifth the oldest you created falls apart
 
 **Inscription Stylus**
 _When the thief realized "Explode Guts" wasn't the owner of the stolen staff it was already too late_
 
-- Narrative Form: [TODO]
-- _Infuse -_ {Scene}: Choose any Scene Element, you or another willing character present in the Scene must cast a 1st Level Spell. The Spell’s effects do not activate, instead the Scene Element is Infused with the Spell, gaining the Activated Ability "{Action}: cast the Spell infused with this Item, do so up 3 times per Rest". Only two Scene Elements at time may be Infused by this Item: if you Infuse a third Scene Element the oldest Infusion is lost
+- _Infuse -_ {Scene}: Target an Item Carried by a willing character. A character must Cast a 1st Level Spell. The Spell’s effects do not activate, instead the Scene Element is Infused with the Spell, gaining the Activated Ability "{Exs, Action}: cast the Spell infused with this Item, do so up 2 times per Rest". Only two Items at time may be Infused, if you Infuse a third the oldest loses the Infusion
 
 **Rust-Wrench of Improvisation** (3)
-_What you call "blatant plagiarism" I describe as "flattering omage"_
+_Intellectual "property" is an oxymoron_
 
-- _Stochastic Development -_ {2}: This Item becomes a copy of a random SE in the Scene until end of Scene, except it also has this ability. If for some reason you can’t use the Item (such as if a Mythic was selected while you already have one) reselect (still at random)
+- _Stochastic Development -_ {2}: This Item becomes a copy of a random Item in the Scene until end of Scene, except it also has this ability. If for some reason you can’t use the Item (such as if a Mythic was selected while you already have one) reselect, still at random
 
 **Mount Karl's Glassware** (3)
 _You will find every element of the period's table inside the blood of any self respecting alchemist_
@@ -137,25 +134,25 @@ _You will find every element of the period's table inside the blood of any self 
   - 7-10: _Feebleness -_ The Target gains a Weak Token
   - 10-14: _Might -_ The Target gains a Powerful Token
   - 15-17: _Focus -_ The Target may unExhaust all their Items
-  - 18-19: _Haste -_ The Target make immediately make an Action and it counts as Rapid
+  - 18-19: _Haste -_ The Target immediately makes an Action and it counts as Rapid
   - 20: _Recovery -_ The Target regains 3 WP
 - _Alchemical Integrity -_ {1 Hours during a Rest}: roll 1d20, then add or remove 1 from the result and record this number. Once, up until your next Rest, whenever you use _Probabilistic Liquid_ you can choose to not roll the 1d20 and instead use that number
 
 **Robotic Ally** (5)
 _They ask me if a machine can truly love. I'm not sure they can_
 
-- _Metalcraft Body -_ {X}: Willing characters may offer Active SEs to help pay for this Ability's Cost. All the SE Exs to activate this ability combine into a single Extra called Servitor, it has X WP and X Power. While the Servitor is alive it has all the Triggered Abilities of the SEs used to create it. While the Servitor is Active, the SEs used to make it are Disabled
+- _Metalcraft Body -_ {X}: Willing characters may offer up to X Active Items. All the Items Exs to activate this ability combine into a single Extra called Servitor, it has X WP and X Power. The Servitor then Carries all those Items, of which it gains all Triggered and Passive Abilities. If X was 7 or more, it also gains all their Active Abilities
 
 **The Junkstroyer** (5)
 _No use is unintended when the device was made with no intention_
 
-- _To Smithereens -_ (R, when you make an Attack) {Disable a SE until end of Scene}: If the Attack Hits, the Defender takes X extra Damage where X is the Value of the Deactivated SE
+- _To Smithereens -_ (R, when you make an Attack) {Disable a SE until end of Scene}: If the Attack Hits, the Defender takes X extra Damage where X is the Focus Value of the Deactivated SE
 - _Trash Bin Martyr -_ (R, when you go to 0 WP): Make an Attack against up to X other character in the Scene. On a Hit they take X extra Damage, where X combined Value of your Disabled SEs
 
 **High Power Modulator** (5)
 _The next time you use any machine, reflect on how its all rocks and dirt we animated_
 
-- _Iterate et Impera -_ {1 Hour during a Rest}: Choose a Target Item you or a willing character Carry. You may add or remove a word from among its Abilities' effects. The next time that Ability resolves its wording reverts back to normal
+- _Iterate et Impera -_ {1 Hour during a Rest}: Choose a Target Item a willing character Carries. You may add or remove a word from among its Abilities' effects. The next time that Ability resolves its wording reverts back to normal
 
 ## Barbarian
 
@@ -164,9 +161,8 @@ _The barbarian is many things, but the main one is focused. This is a character 
 **A Rising Action (Mythic)** (2)
 _Vision blurs at edge, distant sounds abade, the target becomes clearer_
 
-- Narrative Form: [TODO]
 - _Compounding Focus -_ (R: When you Hit) {Exs}: Gain +1 Potential Damage until end of Scene or when you Roll with a different Symbol. Then if this bonus is at +3 the Attacking Symbol is Exalted
-- _Impulsivity -_ If a Clash starts because of one of your Narrative Actions, you may start the Clash with this Item already Active
+- _Impulsivity -_ If a Clash starts because of one of your Cues, every other character is Surprised
 
 **Biface of the Reckless** (3)
 _I'll die to kill you, or I'll die trying_
@@ -176,8 +172,8 @@ _I'll die to kill you, or I'll die trying_
 
 **Vigilant Gauntlet** (3)
 
-- _Strike -_ when you Hit with an Attack, you gain 1 Dodge that is lost at the start of your turn
-- _Slip -_ (R, when you fail a Dodge): if the Dodge you fail used the same Symbol your last Attack in this Scene, you take no additional Damage from failing the Dodge
+- _Strike -_ When you Hit with an Attack, you gain 1 Dodge that is lost at the start of your next turn
+- _Slip -_ (R, when you Fail a Dodge): If the Dodge used the same Symbol your last Attack in this Scene, you take no additional Damage from failing the Dodge
 
 **Lividity Tattoo** (5)
 _Courage is unpredictable. It's total insanity you can rely on!_
@@ -188,75 +184,76 @@ _Courage is unpredictable. It's total insanity you can rely on!_
 **Shattering Hammer** (5)
 _There's no lie in bones, and no deception in blood_
 
-- _Mutilate -_ (R, when you Hit) {Exs}: Place X Shatter Charge on Target Active SE the Hit character has, where X is the Damage you just dealt. Then if the SE has 10 or more Shatter Charges, Destroy it
+- _Mutilate -_ (R, when you Hit) {Exs}: Place X Shatter Charges on Target Active SE Carried by the Hit character, where X is the Damage you just dealt. Then if the SE has 10 or more Shatter Charges, Destroy it
+- _Devastate -_ You Deal double Damage to Props. Additionally, when you Destroy a Prop you may assign all excess Damage to Target character that was Inside it
 
-**Hearth of Perseverance** (5)
+**The Cyrcadian Rythm** (5)
 _Fear the warriors with no armor for they have nothing to loose_
 
-- _The work is not done -_ If you would suffer a Finale or Die while you have a Symbol Exalted, you can instead turn the Symbol back to Stable
+- _The work is not done -_ (R, when you would suffer a Major Finale or Die) {Exs, Turn an Exalted Symol back to Stable}: You do not suffer the Finale and don't Die
+- _No -_ (R, when you are Targeted) {Exs, Turn an Exalted Symbol back to Stable}: The Target automatically Fails
 
 **Flintblade Handaxe** (7)
 _There was a time where the defeated themselves were the spoils of war_
 
 - _Primordial Warfare_ - {Exs}: For the rest of the Scene, all your other Active Items loose all abilities, if they don't have any Focus Value they gain Focus Value 2
-- _All You Can Give -_ If _Primordial Warfare_ was used this Scene, and you have no Inactive Item or Trait, this Item gains Focus Value 3
+- _All You Can Give -_ If _Primordial Warfare_ was used this Scene, and you have no Inactive Items or Traits, this Item gains Focus Value 3
 
 ## Paladin
 
 _The Paladin is for players who start from a single, core theme for their character and commit to it, revolving around the use of Major Traits_
 
-**An Oath under the Tree (Mythic)** (1)
+**An Oath under the Tree (Mythic)** (2)
 _People must believe in unimportant things, if they are to believe the important ones_
 
-- Narrative Form: [TODO]
 - _Something to live for -_ Exhausting a Major Trait to gain BD on an Attack increases its PD by 1
 - _Something to die for -_ If a Roll causes you to gain MD because of a Major Trait this item gains 1 Smite Charge, of which it can store up to 3. When Resting the Smite Charges on this Item are reset to 1. Criticals also give you 1 Smite Charge
 - _Something to kill for -_ (R When you Hit with Focus gained from a Major Trait) {Exs, 1 Smite Charge}: the Attack deals double Damage
 
-**Virulent Ideals** (2)
+**Virulent Ideals** (3)
 _You can truly win only when you realize you have no enemies_
 
-- _Unlikely Aid -_ {Exs, Action}: Target an enemy character with no Major Traits that go directly against yours. You both gain an Armor Token
-- _Change of Hearts -_ When an enemy character you Targeted with _Unlikely Aid_ twice this Clash suffers a Major Finale you can try to make them join your cause. They come back with 1 WP. Roll against them, on a Success they gain one of Major Traits (which ATDD might make join your side this Clash)
+- _Unlikely Aid -_ {Exs, Action}: Target an enemy character with no Major Traits that goes Reasonably against your Major Traits. You both gain an Armor Token
+- _Change of Hearts -_ When an enemy character you Targeted with _Unlikely Aid_ twice in a Clash suffers a Major Finale you can try to make them join your cause. They come back with 1 WP. Roll against them, on a Success they gain one of Major Traits. At the Director's discretion they might join your side or Flee
 
 **Tenements for a Glorious Life** (3)
 _Tenement 67: Thou shan't ever be found peering at a deflagration_
 
-- _Voice of Glory -_ When you gain this Item you may start teaching a willing character one of your Major Trait. They gain it as a Temporary Minor Trait. Up to once per Rest, when that character takes a Narrative Action that Appropriately aligns with that Trait you both gain a Lucky Token. On their next Rest, if the Lucky Token was spent on a Roll for that NA and its a Success, this ability increases the amounts of uses between Rests by 1, up to a maximum of 3
-- _Rite of Passage -_ when a character affected by _Voice of Glory_ Rests while already at 3 maximum uses of that ability, they can gain the Trait as a Major Trait. While they have that Major Trait _Voice of Glory_ can be used by them up to 4 times between Rests. Then, from your next Rest onward, you may use _Voice of Glory_ on a new character. You may choose to ask the character to recite something or do something before this Ability activates, and choose to make the ability Fail if they didn't perform the action you wanted them to
+- _Voice of Glory -_ {1 Hour during a Rest}: If you're not already Mentoring a character, you may start Mentoring a willing character. They gain one of your Major Traits as a Temporary Trait. The next time they use it for Improvisation they gain a Lucky Token. If the Lucky Token is used on that same Roll, and they a Passes, you may use this Ability on them again again to increase the number of Uses per Rest by 1. Up to 3
+- _Rite of Passage -_ {2 Hours during Rest}: Target a character that has 3 Uses of _Voice of Glory_ unlocked. The Trait they gained becomes a Permanent Major Trait and 4 uses of _Voice of Glory_, if this brings them over the Limit they choose which one to Destroy. You are encouraged to ask them to complete a task or an oath to complete the Mentoring. Note: this ends the Mentoring, allowing you to Mentor another character
 
 **Duty's Medalia** (3)
 _Live for nothing, or die for something_
 
-- _Undying Ideal -_ When you do a Death Roll, your Major Traits give you 3 BD instead of 2. If you use at least one this way, you gain 2 Powerful Tokens
+- _Undying Ideal -_ Your Major Traits give you 3 BD in Death Rolls. If you are Reprising your Major Traits have Focus Value 3
 - _Challenger -_ (R, when you Hit a character) {Exs}: Gain a Taunt and an Armor Token
 - _The Long Rest -_ On Death you deal 3 damage, heal 3 WP and give 3 Powerful Tokens. All split as like among characters in the Scene
 
 **Savior's Entrance** (3)
 _A pain shared is halved, a hope shared is doubled_
 
-- _In time of needs -_ This Item is Rapid and has Focus Cost 0 if you or an allied character which share a Major Trait with you is Reprising. When this Item is Activated you gain an Armor Token
-- _I will be there -_ (R, when an allied character is Targeted or an Action is used against them) {Exs, 3}: Change the Target to you. You may use this ability for free the turn it's Activated. You gain an Armor Token if the original Target character shares a Major Trait with you
+- _In time of needs -_ This Item is Rapid and has Focus Cost 0 if you or an allied character which has a Major Trait Reasonably aligned with one of yours is Reprising. When this Item is Activated you gain 2 Armor Tokens
+- _I will be there -_ (R, when an allied character is Targeted) {Exs, 3}: Roll agains the source of the Target, on a Pass the Target is changed to you. If the original Targeted character has a Major Trait Reasonably aligned with one of yours, you gain 1 Armor Token
 
 **Vengeful Rose Seal** (3)
 _Many sleep in the dirt now, having confused my mercy for naivety_
 
-- _Brand the Unjust -_ (R, When another character cause an allied character to Die, start to Reprise or suffer a Major Finale): that character becomes your Sworn Enemy. You can have up 1 Sworn Enemy, or up to 2 if they each has one Major Trait that go Appropriately directly against one of your Major Trait
-- _Fell the Unjust -_ {Exs, Action}: Make an Attack against Target character in the Scene, you gain a Powerful Token. If the Target is a Sworn Enemy you gain back your Action
+- _Brand the Unjust -_ (R, When a character causes an allied character to Die, start to Reprise or suffer a Major Finale): That character becomes your Sworn Enemy. You can have up 1 Sworn Enemy, or up to 2 if each has a Major Trait that go Reasonably goes against one of your Major Traits
+- _Fell the Unjust -_ {Exs, Action}: Attack a character in the Scene, you gain a Powerful Token. If the Target is a Sworn Enemy you gain back your Action
 
 **Hero's Coccarda** (5)
 _It's incredible what people would do for a piece of ribbon, or in its presence_
 
-- _Shadow of the Great -_ {Exs, 2}: Until your next turn the following effects are Active for each allied character in the Scene, on which each triggers up to once per turn
-  - _Furia Exemplar -_ If they Attack a character with a Major Trait that go Appropriately directly against one of your Major Trait they gain a Powerful Token
-  - _Pietà Exemplar -_ If they take Damage and share a Major Trait with you they gain an Armor Token
+- _Shadow of the Great -_ {Exs, 2}: Until your next turn the following effects are Active for each allied character in the Scene, on which each Triggers up to once per turn
+  - _Furia Exemplar -_ If they Attack a character with a Major Trait that go Reasonably goes against one of your Major Traits they gain a Powerful Token
+  - _Pietà Exemplar -_ If they are Targeted and have a Major Trait that is Reasonably aligned with one of yours they gain an Armor Token
   - _Gloria Exemplar -_ If they use an Ability that Targets the same character you last Targeted with an Ability, they gain a Lucky Token
 
-**Poem of the Fallen Leaves** (5)
+**Poem of the Fallen Leaves** (7)
 _Hear the story of the traveling king, who to love and disease forever clings_
 
-- _Never too late -_ {Exs} (1 use per Rest per target): you and target character in the Scene heal 1 WP. If they have a Major Trait that aligns with one of yours, you both also gain a Powerful Token
-- _For you to change -_ (R, when another character in the Scene makes a Death Roll): that character gains one of your Major Traits until the end of the Scene, which doesn't count towards its maximum number of Traits. If you impose a Major Finale on them while under this effect, it becomes permanent. If this brings them over the maximum, you choose which one they lose. This ability cannot be used on characters already under its effect
+- _Never too late -_ {Exs} (1 use per Rest): All characters in the Scene heal 1 WP
+- _For you to change -_ (R, when Target character healed with _Never too Late_ this Scene would Die): That character gains one of your Major Traits and is removed from the Clash. The Major Trait becomes the main ideal of that character. At the Director's discretion they may permanently join your side
 
 ## Fighter
 
@@ -265,28 +262,27 @@ _While every character excels at something, the fighter lives and dies by their 
 **Master of many Arms (Mythic)** (2)
 _Rip and Tear, until its Done_
 
-- Narrative Form: [TODO]
-- _Combos -_ When you Exs 2 or more Scene Elements to use the Ability of an Item, unExs another Prop or Trait. Note: Exs the Item for an {Exs} cost still count, so Abilities with cost such as {Exs, 1} trigger this effect
+- _Combos -_ When you Exs 2 or more Scene Elements to use the Ability of an Item, unExs another SE. Note: Exs an Item for an {Exs} cost still count, so Abilities with cost such as {Exs, 1} Trigger this effect
 - _Charged Strike -_ {Exs, 1, Action}: make an Attack with 1 BD
 
 **Crowdbreaker Axe** (2)
 
 - _Cleave -_ {Exs, X, Action}: Make X Attacks against different characters, they all gain X MD
-- _Decimate -_ If you made Attacks against all enemy characters, and they are 3 or more, unExhaust this Item
+- _Decimate -_ The first time each turn that you make an Attack against the third enemy character unExhaust this Item
 
 **Colossus Shield** (2)
 
 - _Control -_ {Exs, X}: Gain X Ephemeral Taunt Tokens. Until your next turn, every time you are Attacked, that Attack gains 1 MD for each Attack you already received
-- _Stagger -_ {Exs, 2, Action}: Target character in the Scene gains 1 Weak Token. If they Attack you on their next turn, you gain an Armor Token
+- _Stagger -_ {Exs, 1, Action}: Target character in the Scene gains 1 Weak Token. If they Attack you on their next turn, you gain an Armor Token
 
 **Duelist Rapier** (2)
 
-- _Foil -_ {Exs, 1, Action}: make an Attack. On Hit unExhaust a SE, you can only Exhaust them for Blocking until your next turn
-- _Riposte -_ (R, on a Miss by a character you Hit your previous turn) {Exs, 1}: Target that character, they gain a Vulnerable Token
+- _Foil -_ {Exs, 1, Action}: make an Attack. On Hit unExhaust a Trait, you can only Exhaust it for Blocking until your next turn
+- _Riposte -_ (R, when Target character you Hit your previous turn Misses you) {Exs, 1}: That character gains 1 Vulnerable Token
 
 **Veterans's Wit** (2)
 
-- _Sharp Eye -_ {Exs, 1, Action}: Study a character, the Roll gains 1 BD
+- _Sharp Eye -_ {Exs, 1, Action}: Gain an Aim Token, then use the Study Action
 - _Sharp Mind -_ The first time of each of your turns when you Exhaust all your SEs, unExhaust this Item
 
 **Commander's Cane** (3)
@@ -297,12 +293,18 @@ _Rip and Tear, until its Done_
 **Huntsman's Bow** (3)
 
 - Ranged (can target Flying character)
-- _Score -_ On Activating this Item you gain a Precision Toekn
+- _Score -_ When you Activate this Item and when you start a Clash where you Surprise at least one character you gain a Precision Token
 - _Predation -_ {Exs, 1, Action}: Make an Attack. On Hit remove that many Tokens from the Defender. Damage from this Attack cannot be reduced
 
 **Heart of the Dragon** (5)
 
 - _Heavenly Whirlwind -_ {Exs, 3, Action:} For the rest of the turn, whenever you make an Attack because of an Item's ability and Hit, you gain back your Action but can only use it for Activated Abilities. Then make an Attack
+
+**The One Armed Wolf** (5)
+_Hesitation is defeat_
+
+- _Ashina Deflect -_ {Exs, 2, Action}: Gain a Taunt Token. Until your next turn you automatically attempt to Dodge every Attack. For each Dodge you Pass, the Lead calculates Damage as if you Failed the Dodge, store that Damage + 1 in this Item. When you Hit you may remove all stored Damage and Deal it as bonus Damage. If you take Damage while Damage is stored empty it and this Item Deals it to yourself
+- _Lightning Reversal -_ (R, when you are Targeted) {Exs, 5}: Attempt to Dodge the Action or Ability Targeting you. If you Fail that Action or Ability is copied against you again. If you Pass, change the Target to the character Targeting you
 
 ## Rogue
 
