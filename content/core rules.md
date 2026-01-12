@@ -551,8 +551,10 @@ Tokens are also removed from all characters at the end of each Scene. You may on
 - **Fear of X:** if you Target a character with X, you cannot gain BD on Rolls
 - **Sleep:** you cannot make Rolls. This Token is removed at the end of your turn or if take Damage or if a character spends their Action waking you up
 - **Aim:** on your next Roll, the Foil can only Block with up to 3 BD
+- **Confusion:** on your next Roll you may only gain up to 3 BD
 - **Precision:** your next Targeting ignores Dodge, Stealth and Taunt Tokens and the Foil cannot Block
-- **Certainty**: your next Roll automatically Succeed
+- **Certainty**: your next Roll automatically Passes
+- **Hestiation:** your next Roll automatically Fails
 
 Modifiers:
 

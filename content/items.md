@@ -104,6 +104,13 @@ _A wounded Wizard makes you laugh. A desperate one cracks the sky_
   - _Overload -_ if the Spell's Passes and is not Persistent, it automatically deals Damage equal to its Potential Damage. If it is Persistent the amount of BD/MD the target gains is doubled and so is the number of them that can be spent with it in each Roll
   - _Overcharge -_ the Spell's Roll becomes unBlockable
 
+**Solar Scissors** (7)
+_Doesn't it feel like time moves at the pace of how interesting your life is?_
+
+- _Convergent Future -_ (1 Use per Level) {Scene}: Choose a Finale that, excluding the influence of a Major Clash, would be created by the current course of the Narrative. This Finale must have no other Major Finales happening between the current point time and its creation. Target every character involved in the Finale. If all the Rolls are Passes, time jumps to that Finale's creation
+- _Divergent Past -_ (1 Use per Level) {Scene}: Choose the most recent Major Finale that was inflicted on you or another willing character. Target all the characters that inflicted it. If the Rolls are all Passes time jumps back to just before that Finale's creation. If it was inflicted as a result of Clash, the Clash restarts immediately. You may choose any number of willing characters when you do so, they keep their memories about the time jump and keep all their current state, such as WP, Items Carried and so on
+- _Sever the Thread -_ (2 Use per Rest): Start a Channel until your next turn. On Completion time jumps back the start of the Scene. On Break you skip your next turn
+
 ## Artificier
 
 _The Artificier is an inventor and an artist. Their focus on creation allows them to manipulate Props to their will, being master at Improvising_
@@ -118,6 +125,7 @@ _There is no greater sorrow in this grayish world than an unrealized idea_
 _When the thief realized "Explode Guts" wasn't the owner of the stolen staff it was already too late_
 
 - _Infuse -_ {Scene}: Target an Item Carried by a willing character. A character must Cast a 1st Level Spell. The Spell’s effects do not activate, instead the Scene Element is Infused with the Spell, gaining the Activated Ability "{Exs, Action}: cast the Spell infused with this Item, do so up 2 times per Rest". Only two Items at time may be Infused, if you Infuse a third the oldest loses the Infusion
+- _Refurbish -_ (2 Uses per Rest) {Scene}: Target Rusted Item and unRust it
 
 **Rust-Wrench of Improvisation** (3)
 _Intellectual "property" is an oxymoron_
@@ -266,37 +274,44 @@ _Rip and Tear, until its Done_
 - _Charged Strike -_ {Exs, 1, Action}: make an Attack with 1 BD
 
 **Crowdbreaker Axe** (2)
+_A grain of sand is nothing to a mountain, nor are ten thousands_
 
 - _Cleave -_ {Exs, X, Action}: Make X Attacks against different characters, they all gain X MD
 - _Decimate -_ The first time each turn that you make an Attack against the third enemy character unExhaust this Item
 
 **Colossus Shield** (2)
+_Protect yourself, and you'll protect your people_
 
 - _Control -_ {Exs, X}: Gain X Ephemeral Taunt Tokens. Until your next turn, every time you are Attacked, that Attack gains 1 MD for each Attack you already received
 - _Stagger -_ {Exs, 1, Action}: Target character in the Scene gains 1 Weak Token. If they Attack you on their next turn, you gain an Armor Token
 
 **Duelist Rapier** (2)
+_Legends tell of young woman who raised her rapier against a goddess and her monolith_
 
 - _Foil -_ {Exs, 1, Action}: make an Attack. On Hit unExhaust a Trait, you can only Exhaust it for Blocking until your next turn
 - _Riposte -_ (R, when Target character you Hit your previous turn Misses you) {Exs, 1}: That character gains 1 Vulnerable Token
 
 **Veterans's Wit** (2)
+_All warfare is based on deception_
 
 - _Sharp Eye -_ {Exs, 1, Action}: Gain an Aim Token, then use the Study Action
 - _Sharp Mind -_ The first time of each of your turns when you Exhaust all your SEs, unExhaust this Item
 
 **Commander's Cane** (3)
+_Six miles of ground we won. When I was done, half a million men were gone_
 
 - _Lifted Spirits -_ {Exs, 2}: Target up to 2 characters, until your next turn, the next time they gain a Token they can choose to gain two of them instead
 - _Martial Orders -_ {Exs, 2, Action}: Target character gains your choice of either an Armor or a Power Token
 
 **Huntsman's Bow** (3)
+_You might be breathing, doesn't mean you're alive_
 
 - Ranged (can target Flying character)
 - _Score -_ When you Activate this Item and when you start a Clash where you Surprise at least one character you gain a Precision Token
 - _Predation -_ {Exs, 1, Action}: Make an Attack. On Hit remove that many Tokens from the Defender. Damage from this Attack cannot be reduced
 
 **Heart of the Dragon** (5)
+_I fear not the man who has practiced one kick 10000 times, but the man who has praticed 10000 kicks 10000 times_
 
 - _Heavenly Whirlwind -_ {Exs, 3, Action:} For the rest of the turn, whenever you make an Attack because of an Item's ability and Hit, you gain back your Action but can only use it for Activated Abilities. Then make an Attack
 
@@ -306,6 +321,16 @@ _Hesitation is defeat_
 - _Ashina Deflect -_ {Exs, 2, Action}: Gain a Taunt Token. Until your next turn you automatically attempt to Dodge every Attack. For each Dodge you Pass, the Lead calculates Damage as if you Failed the Dodge, store that Damage + 1 in this Item. When you Hit you may remove all stored Damage and Deal it as bonus Damage. If you take Damage while Damage is stored empty it and this Item Deals it to yourself
 - _Lightning Reversal -_ (R, when you are Targeted) {Exs, 5}: Attempt to Dodge the Action or Ability Targeting you. If you Fail that Action or Ability is copied against you again. If you Pass, change the Target to the character Targeting you
 
+**Mandate of the Aquila**
+_Get me the peasants. Get me the people of trade. Get me the wretched and the abused. I will give you the nation_
+
+- _Consulate Authoritas -_ If one of your Traits is Reasonably a rank, such as "General of the X Army", "Member of the Senate" or such, you gain +2 BD when Rolling against any non hostile characters with a Trait that is Reasonably a Rank and Reasonably below yours
+- _Summon the Legion -_ (1 Use per Scene) {3}: Target an enemy character that may not be in the Scene, then create a Mob with X Power and X WP where X is the total WP of the Targeted character, only one such Mob may exist at the same time. If you are Clashing with that character, during your turn you may use spend {X, Action} to add X characters to the Mob
+- _Classicum Call -_ {Exs, XX}: Target character of Level X or lower takes an extra turn after this one. You may reduce this Ability's Cost in the following way:
+  - Skip your next turn, this Ability's Cost becomes {Exs, X}
+  - Y willing characters skip their next turn, this Ability's Cost becomes {Exs, XX - Y}
+- _Thus to the Tyrant -_ {Exs, Action, Rust, X willing characters skip their next turn}: Target a character with Maximum WP X or lower and Deal X Damage to them. You may use each character only once per Scene to pay for this Ability's Cost
+
 ## Rogue
 
 _While usually considered a simple thief, the Rogue is better described as Expert. Inquisitive, resourceful, evasive, the Rogue might not pack the mightiest punch but they are never surprised or unprepared_
@@ -313,7 +338,6 @@ _While usually considered a simple thief, the Rogue is better described as Exper
 **Expertise (Mythic)**
 _Expect the worst. Hope for the best_
 
-- Narrative Form: [TODO]
 - _Improvisation -_ in Rolls made outside of a Clash you can gain up to 4 BD from up to 3 Props
 - _Preparation -_ {Exs} (2 Uses per Rest): You have a Flashback. In the Flashback you narrate an Appropriate single short Scene that can require only up to 1 Roll. It can’t involve any Clashes. In that Scene any action you perform carries over to the present. You can for example explain how you read an important information you had access to. You can perform the single Roll to narrate how you stole an important item from a character a few years ago, and so on. The Flashback can only go so far as since your last Rest (included). From this Flashback you can gain up to 2 Props. If the Director doesn't accept the Flashback, you gain back a Use of this Item
 
@@ -392,62 +416,63 @@ _You will find that God doesn't reside within people as much as between them_
 **Divine Intervention** (3)
 _In times of need, the only need is extra time_
 
-- _Not Now -_ (R, when an Target character Rolls as Critical) {Exs, 5}: Target character takes an extra turn after this one is finished
-- _Not Here -_ When an allied character Rolls a Critical, you can Activate this Item as a Reaction. If this Item is already Active, instead you may use _Not Now_ at a Cost of {Exs, 2}
+- _Not Now -_ {Exs, 7}: Target character takes an extra turn after this one
+- _Not Here -_ When an allied character Rolls a Critical, you can Activate this Item as a Interruption for no Cost. If this Item is already Active, instead you may use _Not Now_ at a Cost of {Exs, 2} and as an Interruption
 
 **The plea of a poor fellow faithful** (5)
 _What can a character hope for, if not the care of the writer?_
 
-- _Absolution -_ (R, when you or an allied character is about to suffer a Finale or Die), (1 Use per Rest, which resets when you make a Death Roll): roll 1d20, then add your Critical Chance, if the result is 20 or more, the Finale doesn't happen or the character doesn't die, instead you and all your allied character regain all WP. Immediately end the turn. Good luck
+- _Absolve -_ (R, when you or an allied character is about to suffer a Finale or Die), (1 Use per Rest, which you get back if you Reprise or make a Death Roll): roll 1d20, then add your Critical Chance, if the result is 20 or more, the Finale doesn't happen or the character doesn't die, instead you and all your allied character regain all WP. Immediately end the turn. Good luck
 
-**Dawnbringer** (7)
-_In the sunless realm, the sun was forged at last_
+**Solar Interest** (7)
+_At times you will feel as if the world revolves around you. Sometimes, you will be right_
 
-- _Forge the Day -_ When you Activate this Item, you and each other allied character may Activate an Item for no Cost ignoring the once per turn Item Activation, or use an Item's Ability as a Rapid Action
-- _Sperantia Invictas -_ When an allied character Rolls a Critical, if every other allied character already Rolled a Critical, you may Activate this item at no Cost and as a Reaction
+- _Eye of the Author -_ When you Activate this Item, you and each other allied character may Activate an Item or use an Item's Ability, for no Cost as an Interruption
+- _Hope, invincible -_ When an allied character Rolls a Critical, if every other allied character already Rolled a Critical this Scene, you may Activate this Item at no Cost as an Interruption
 
 ## Bard
 
 **Tapestry of Words (Mythic)** (2)
-_The old masters used to say that there is only one Story that's just being retold_
+_The old masters used to say that there is only one story that's just being retold_
 
-- _Echo of past Might -_ {Exs, X} (R, when an allied character makes a Narrative Action): That character gains a Lucky Token. However, the Narrative Action must be ATDD very similar to a NA that character or you used to create a Finale. That Finale must have been created before your most recent Rest. X is the amount of times since your last Rest you have used this Item
+- _Echo of past Might -_ {Exs} (R, when an allied character makes a Cue that Reasonably aligns with one an allied character took to Inflict a Finale): That character gains a Lucky Token. If the Finale was Inflicted 7 or more Rests ago, they gain an Armor Token. If they were not the character that Inflicted the Finale, they gain a Powerful Token
 
 **Mood-Stones Skrip** (2)
-_One for the days when colors grow bright, one for those when they look so dim, and one for when they loudly scream_
+_One for the days when colors grow bright, one for those when they look so dim, and one for when they yell and scream_
 
-- _Cycle of the Humors -_ When you first gain this Item, randomly choose a Personality, while this Item is Active increase that Personality by 2. At the end of each Rest, the Personality with this bonus changes following this cycle: Precision -> Passion -> Depth -> Determination -> Oddity -> Precision -> ...
+- _Cycle of the Humors -_ When you first gain this Item, randomly choose a Personality, increase that Personality by 2. At the end of each Rest, the Personality with this bonus changes following this cycle: Precision -> Passion -> Depth -> Determination -> Oddity -> Precision -> ...
 
 **Silk Sown Boutonnière** (3)
-_Enchanted to meet me? Sir you may not know how right you are_
+_Enchanted to meet me? You don't not know how right you are_
 
-- _Storm and Stress -_ While this Item is Active, if you cause a Conflict Roll and Attacking Personality of the Attacking character is their highest, they gain 2 MD
+- _Storm and Stress -_ If you cause a Conflict Roll and Symbol is associated with the Lead's highest Personality, they gain 2 MD
 - _Shore and Sanity -_ {Exs, 1}: Target character gains a Poise Token
 
 **Storyteller's Mandolin** (3)
 
-- _Gather Round -_ {1 Hour during a Rest}: Target character Resting with you (which can be yourself) gains 2 extra Hours
-- _For a story of great deeds -_ While this Item is Active, the last character Targeted with _Gather Round_ gain 1 MD to every Rolls made to make Narrative Actions Appropriately similar to any Narrative Action they made to inflict a Finale
+- _Gather Round -_ {1 Hour during a Rest}: Target character Resting with you gains 2 extra Hours during this Rest
+- _For a story of great deeds -_ Every character Resting with you gains 1 Lucky Token at the end of the Rest
 
 **Carbon Papers** (3) (Rapid)
 _Do they or do they not call it the sincerest form of flattery? I never liked that bit about mediocrity_
 
-- _Learn from the Masters -_ {}: Target a character that is inflicting a Finale. Until your next Rest this Item becomes a copy an Item used in that Narrative Action
+- _Learn from the Masters -_ {}: Target a character that is inflicting a Finale. Until your next Rest this Item becomes a copy an Item used in their last Cue
 
-**Glasses of Crowd Feedback** (3)
+**Glasses of Cyclic Theme** (3)
 _If your audience thinks you created something good, you did_
 
-- _Reverberated Scene -_ The first time an allied character makes a Roll using the Symbol used in a Roll in the previous Scene they gain +1 BD. Later in the scene, the first you also make a Roll using that Symbol you gain a Lucky Token
+- _Dejavu -_ The first time each Scene an allied character makes a Roll using a Symbol used in a in the previous Scene they gain +1 BD. Later this Scene if another allied character does the same they gain +2 BD
+- _Dejavu -_ (R, when an allied character Rolls a Critical} {Exs, Rust}: That character copies the Action or Ability that resulted in the Critical. They don't Roll for the copied Action or Ability and count has having rolled the same result
 
 **Mockery's Visage** (3)
 _Never in my life did I hear "just a joke"_
 
-- _Cutting Tongue -_ {Exs, Action}: Make a joke about Target character, depending on the nature of it the Target gains a Lucky, Dodge or Vulnerable Token. ATDD if the joke was original, impressive or humorous enough you gain an Action
+- _Cutting Tongue -_ {Exs, Action} (3 Use per Rest): Make a joke about Target character, depending on the nature of it the Target gains an Hesitation Token. Then if the joke was Reasonably funny, cutting or generally interesting you gain back a Use of this Item
 
 **Solar Ink** (7)
 _Spoken in shady corners of the capital are words of a great being with very tired fingers_
 
-- _Redraft Fate -_ If this Item is Active when you inflict a Finale on a character, ATTD you may choose to change to something else. Then, if the Clash is still ongoing, Deactivate this Item
+- _Redraft Fate -_ (1 Use per Level): Write a Finale about one character and communicate it to the Director. If they consider it Reasonable, the next Major Finale you Inflict on that character is changed to the one you chose. The Finale can involve only that character, or them and any other character that is willing during the Finale creation. Note: only the Director needs to be informed, telling any other player, their characters, or NPCs is optional unless they are included in the Finale
 
 ## Druid
 
@@ -455,40 +480,43 @@ _Spoken in shady corners of the capital are words of a great being with very tir
 _We are no more than a mechanisms of flesh, and no less_
 
 - _In their Shoes -_ {1 Hour of Rest}: Record in this Item a Target Trait of a character you shared a Scene with since your last took a Rest. That Trait cannot be one already recorded in this Item or that you currently have
-- _Stage Presence -_ {Exs, 4}: Create a new Exhausted copy of a Trait recorded in this Item as Temporary Trait on any allied character. This Ability costs {1} less to Activate for each Breath Steps you took this Scene. Only up to 2 of these Traits may be active at once, if you create a new one the oldest is Destroyed. These new Traits have "when used with an Action, this Trait gains +1 Focus Value"
+- _Stage Presence -_ {Exs, 4}: Create a new Exhausted copy of a Trait recorded in this Item as Temporary Trait on any allied character. This Ability costs {1} less to Activate for each Breath Steps you took this Scene. Only up to 2 of these Traits may be active at once, if you create a new one the oldest is Destroyed. These new Traits have "when used for Execution, this Trait gains +1 Focus Value"
 
 **Earth-shaper's Shovel** (3)
 _Carve your name on the very planet_
 
-- _Scena-Morphing -_ {Exs, 2} Create a new Exhausted Prop under your and another Target character's Control. It has Capacity 3 and "When a characters that Controls this Prop Blocks, they gain +2 BD". This Prop lasts until end of Scene and only one of them can exist at once
+- _Scena-Morphing -_ (3 Uses per Rest) {3}: Create a new Exhausted Prop with you Inside it. It can be one of the following. You may Target as many characters as the Space in the chosen Prop, they Move In it:
+  - _Rock Formation -_ Cover (see in the [[props]] document)
+  - _Stranglethorns -_ WP 1, Space 3, Trap, Characters Inside this Prop take 1 Damage every time they use an Action other than for Moving Out of this Prop
+  - _Thick Grassbush -_ Ambush Position (see in the [[props]] document) with WP and Space 2
 
 **Sequencer's Needle** (3)
 _Change the story that is you_
 
-- _Alter Self -_ (3 Uses per Rest): Target Trait of a willing character. Change the name of that Trait into one ATDD in the same narrative class until end of Scene. For example you may change a race into a race _Human_ to _Elf_, a skill into a skill _Sword master_ to _Expert Lock-picker_, an idea into an ideal _Devoted to Justice_ into _Radical Egoist_, and so on. In Clashes you may use this Ability on Target Trait of any character, but it gains the cost {Exs, 3}
+- _Alter Self -_ (3 Uses per Rest): Target Trait of a willing character. Change the name of that Trait into one Reasonably in the same narrative class until end of Scene. For example you may change "Human" to "Elf", "Sword master" to "Expert Lock-picker", "Devoted to Justice" into "Radical Egoist", and so on. In Clashes you may use this Ability on Target Trait of any character, but it gains the cost {Exs, 3}
 
 **Pool of Reflecting Waters** (3)
 _A story loves nothing but being told_
 
-- _Memetic Reproduction -_ (1 Uses per Rest): Every character gains a copy of Target Trait as a Temporary Trait (including its original owner, it doesn't count against having 2 Traits with the same Name). You may use this Ability without expending a use use the turn you Activate this Item, but it gains the cost {Exs, 3}
+- _Memetic Reproduction -_ (1 Uses per Rest): Every character gains a copy of Target Trait as a Temporary Trait. You may use this Ability without expending a use use the turn you Activate this Item, but it gains the cost {Exs, 3}
 
 **Branches of Inner Peace** (3)
 _A tree divided no longer stands_
 
-- _Constructive Resonance -_ {Exs, 2}: Target two Traits of the same character, if they are Appropriately aligned that character gains +1 BD in Rolls where Focus from them was Spent (note: + 2 DB if both are used) until end of Scene
-- _Destructive Resonance -_ {Exs, 2}: Target two Traits of the same character, if they are Appropriately opposites that character gains +1 MD in Rolls where Focus from them was Spent (note: + 2 MB if both are used) until end of Scene
+- _Constructive Resonance -_ {Exs, 2}: Target two Traits of the same character, if they are Reasonably aligned. Until end of Scene, if Exs with an Action, those Traits give +1 BD each
+- _Destructive Resonance -_ {Exs, 2}: Target two Traits of the same character that are Reasonably missaligned. They have Focus Value 0
 - You can use either of this Item's Ability only once per Trait per Rest
 
 **Fault Lines of the Self** (3)
 _That is not your skin, fight hard enough and it will be_
 
-- _Ancestral Memory -_ {2 Hours during a Rest} (1 use per Level): Target Trait of a willing character is Destroyed, in its place put a Trait that character used to have or a character Appropriately related to them had. If the Destroyed Trait was a Major Trait the new one is Major as well, same goes for Minor Traits, regardless of if the new one was a Major or Minor Trait before
-- _Patrimonial Synthesis -_ {2 Hours during a Rest} (1 use per Level): choose two Target Traits of the same character that Appropriately contradict each other. If that character can name a new Trait that is Appropriately a combination of the two, this new Trait is gained as Permanent Trait. For example the Traits "Heir to the Throne" and "Revolutionary at Heart" may create the "Enlightened King". More simply, the Traits "Clockwork Engineer" and "Attuned to the Arcane" may form "Techno-magical Pioneer". Working directly with the Director is highly advised. They may even have inspiration for the story from helping shape your decision
+- _Ancestral Memory -_ {2 Hours during a Rest} (1 use per Level): Target Trait of a willing character is Destroyed, in its place put a Trait that character used to have or a character Reasonably related to them had. If the Destroyed Trait was a Major Trait the new one is Major as well, same goes for Minor Traits, regardless of if the new one was a Major or Minor Trait before
+- _Patrimonial Synthesis -_ {2 Hours during a Rest} (1 use per Level): choose two Target Traits of the same character that Reasonably contradict each other. If that player can name a new Trait that is Reasonably a combination of the two, this new Trait is gained as Permanent Minor Trait. For example the Traits "Heir to the Throne" and "Revolutionary at Heart" may create the "Enlightened King". More simply, the Traits "Clockwork Engineer" and "Attuned to the Arcane" may form "Techno-magical Pioneer". (Working directly with the Director is highly advised. They may even have inspiration for the story from helping shape your decision)
 
   **Sporebloomer's Many Pouches** (5)
   _The merrier, the more_
 
-- _Growth Spike -_ You may Activate an additional Item and Trait the turn this Item is Activated
+- _Growth Spike -_ You may Activate an additional Trait the turn this Item is Activated
 - _Fungal Fans -_ {Exs, 5} (1 use per Scene): create an Extra Mob with Power and WP equal to the number of combined Exhausted Props and Traits of all willing characters
 
 **A Simple Bone Scalpel** (5)

@@ -26,7 +26,7 @@ This said, the Director has full freedom to customize them as they wish
 
 - WP 3
 - Space 3
-- Characters Inside this Prop gain 3 BD whenever they Block a character that isn't Controlling it
+- Characters Inside this Prop gain 3 BD whenever they Block a character that isn't Inside it
 
 **Stationary Artillery**
 
@@ -62,6 +62,7 @@ This said, the Director has full freedom to customize them as they wish
 
 **Ambush Position**
 
+- WP X
 - Space X
 - Characters in the Scene when a character Moves into this Prop are Aware of it. The same is true for characters in the Scene when a character Inside it Targets one Outside it. Otherwise, they are unAware. Whenever a character Inside this Prop Targets an unAware character, the Target is unBlockable
 
