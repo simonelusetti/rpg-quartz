@@ -562,26 +562,45 @@ _The first churches were the shades of snow covered tree_
 | Melt the Ink               |   2   | Chaos 🌪️   |
 | Unfinished Fire-Proof Poem |   2   | Key 🗝     |
 | An Ode to Summer Heat      |   3   | Lips 💋    |
-| Versets from the Inferno   |   3   | Edge 🔪    |
+| Versets on the Inferno     |   3   | Edge 🔪    |
 
 **Baker Street Paradigm** (3)
 _The world hides what matters to it_
 
-- _Question Barrage -_ {Action, A Spell Slot of Level X, X}: Make X Study Actions, you must Investigate in each of them
-- _Arcane Deduction -_ {Cast a Spell}: The Target of the Spell takes no Damage. Instead, for each Success you may ask the Director a Yes or No question, Appropriately relating to the use of the Spell. The Cast Spell cannot be a Persistent Spell
+- _Question Barrage -_ {Action, A Spell Slot of Level X}: Make X Study Actions, you must Investigate in each of them
+- _Arcane Deduction -_ {Cast a Spell}: The Target of the Spell takes no Damage. Instead, for each Success you may ask the Director a Yes or No question, Reasonably related to the use of the Spell. The Cast Spell cannot be a Persistent Spell
 - Spell Slots: 3 Level 1, 2 Level 2, 1 Level 3
 
-| Spell Name                  | Level | Symbol     |
-| --------------------------- | :---: | ---------- |
-| Streetlight Interrogation   |   1   | Lantern 🕯 |
-| Time Sensitive              |   1   | Clock ⏱    |
-| Slipped Words               |   1   | Lips 💋    |
-| Cut the Chase               |   1   | Edge 🔪    |
-| Hole in the Story           |   1   | Thorn 🌹   |
-| Uneasy Alibi                |   1   | Star 🌟    |
-| Unpaid Debts                |   2   | Heart ❤️   |
-| Crack the Mystery           |   2   | Thunder ⚡ |
-| Scramble the Record         |   2   | Chaos 🌪️   |
-| Out the Back Door           |   2   | Key 🗝     |
-| Perfect Lie                 |   3   | Lips 💋    |
-| See Through the Glass Onion |   3   | Lantern 🕯 |
+| Spell Name                   | Level | Symbol     |
+| ---------------------------- | :---: | ---------- |
+| Streetlight Interrogation    |   1   | Lantern 🕯 |
+| Time Sensitive               |   1   | Clock ⏱    |
+| Slipped Words                |   1   | Lips 💋    |
+| Strangle Evidence            |   1   | Edge 🔪    |
+| Hole in the Story            |   1   | Thorn 🌹   |
+| Uneasy Alibi                 |   1   | Star 🌟    |
+| Unpaid Debts                 |   2   | Heart ❤️   |
+| Crack the Mystery            |   2   | Thunder ⚡ |
+| Scramble the Record          |   2   | Chaos 🌪️   |
+| Out the Back Door            |   2   | Key 🗝     |
+| Luscious Little Lies         |   3   | Lips 💋    |
+| Peer Through the Glass Onion |   3   | Lantern 🕯 |
+
+**Solar Draft** (7)
+_Stare long enough at its pages, and it might say hello_
+
+- _Underlined Character -_ This Item's Spell Slots do not reset on Rest. Instead, every time you inflict a Major Finale that is Reasonably interesting and different from any other Major Finales you have created, you gain 1 Spell Slot of Level 5
+- Spell Slots: 2 Level 5
+
+| Spell Name  | Level | Symbol     |
+| ----------- | :---: | ---------- |
+| Splendor    |   5   | Lantern 🕯 |
+| Perfection  |   5   | Clock ⏱    |
+| Ecstasy     |   5   | Lips 💋    |
+| Victory     |   5   | Edge 🔪    |
+| Betryal     |   5   | Thorn 🌹   |
+| Alignment   |   5   | Star 🌟    |
+| Ethernity   |   5   | Heart ❤️   |
+| Cataclysm   |   5   | Thunder ⚡ |
+| Peculiarity |   5   | Chaos 🌪️   |
+| Migration   |   5   | Key 🗝     |
