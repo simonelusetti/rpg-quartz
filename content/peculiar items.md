@@ -30,11 +30,6 @@ _A bronze sword, forged with savage iron bearing a simple inscription "what more
 - _Cursed Metal -_ The first time you take damage each turn rotation, you take 1 extra Damage and you gain 1 Powerful Token. This effect is Active even when this Item is not Active
 - _The Ultimate Price -_ {Exs}: For the rest of the Clash you have infinite Potential Damage. At the end of this turn you take a number of extra turns equal to your missing WP. You can only use the Attack Action during them. When this Clash ends, you Die
 
-**Summary Glands** (7)
-_Pieces of the stomach taken form a dead Censura, their acid capable of melting existence itself_
-
-- _Out of the Page -_ (R, when a Target character is suffering a Major Finale): Remove that character from the story, all Finales change to exclude them, all characters forget about them and reality bends in the Appropriately simplest way to accomodate these changes. The cruelest fate a character may suffer
-
 **Bernard's Paradox** (7)
 _It has been theorized, by our most unemployed erudites, of distant corners of our universe where existance hides from truth_
 
@@ -47,7 +42,7 @@ _When I joined the order I was told to read and memorize one line and one line o
 - _On Being -_ {Exs, 7, Action}: You Learn all Secrets of Target character
 
 **Cordycelian Pluribus** (5)
-_The adage is to not look in the host's eyes. They're harmless usually, but if you catch a glimpse of the original you'll have a hard time sleeping for a few years_
+_The adage is to not look in the host's eyes. They're harmless usually, but if you catch a glimpse of the original you'll have a hard time sleeping the next few months or so_
 
 - _Spores in the Muscles -_ {Exs, 5, Action}: until your next turn, you control Target character
 - _Spores in the Brain -_ (R, when Target character is about to Die, who suffered _Spores in the Muscle_ in this Scene) {7}: that character doesn't Die and return to 1 WP. Additionally they gain the "Under X's Command" Temporary Major Trait where X is your character. You may control them as if it was another of your characters for as long as that Trait persists. If this Item is Disabled or Destroyed, or if this Ability Passes on another character, the oldest one Dies. However, if you Die, up to the Director's discretion, you may play with that character from then onward. We is Us

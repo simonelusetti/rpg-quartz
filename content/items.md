@@ -321,15 +321,21 @@ _Hesitation is defeat_
 - _Ashina Deflect -_ {Exs, 2, Action}: Gain a Taunt Token. Until your next turn you automatically attempt to Dodge every Attack. For each Dodge you Pass, the Lead calculates Damage as if you Failed the Dodge, store that Damage + 1 in this Item. When you Hit you may remove all stored Damage and Deal it as bonus Damage. If you take Damage while Damage is stored empty it and this Item Deals it to yourself
 - _Lightning Reversal -_ (R, when you are Targeted) {Exs, 5}: Attempt to Dodge the Action or Ability Targeting you. If you Fail that Action or Ability is copied against you again. If you Pass, change the Target to the character Targeting you
 
-**Mandate of the Aquila**
+**Mandate of the Aquila** (7)
 _Get me the peasants. Get me the people of trade. Get me the wretched and the abused. I will give you the nation_
 
 - _Consulate Authoritas -_ If one of your Traits is Reasonably a rank, such as "General of the X Army", "Member of the Senate" or such, you gain +2 BD when Rolling against any non hostile characters with a Trait that is Reasonably a Rank and Reasonably below yours
-- _Summon the Legion -_ (1 Use per Scene) {3}: Target an enemy character that may not be in the Scene, then create a Mob with X Power and X WP where X is the total WP of the Targeted character, only one such Mob may exist at the same time. If you are Clashing with that character, during your turn you may use spend {X, Action} to add X characters to the Mob
+- _Summon the Legion -_ (1 Use per Scene) {3}: Target an enemy character that may not be in the Scene, then create a Mob with X Power and X WP where X is the total WP of the Targeted character, only one such Mob may exist at the same time. If you are Clashing with that character, during your turn you may use Spend {X, Action} to add X characters to the Mob
 - _Classicum Call -_ {Exs, XX}: Target character of Level X or lower takes an extra turn after this one. You may reduce this Ability's Cost in the following way:
   - Skip your next turn, this Ability's Cost becomes {Exs, X}
   - Y willing characters skip their next turn, this Ability's Cost becomes {Exs, XX - Y}
-- _Thus to the Tyrant -_ {Exs, Action, Rust, X willing characters skip their next turn}: Target a character with Maximum WP X or lower and Deal X Damage to them. You may use each character only once per Scene to pay for this Ability's Cost
+- _Thus to the Tyrant -_ {Exs, Action, X willing characters skip their next turn}: Target a character with Maximum WP XX or lower and Deal X Damage to them. You may use each character only once per Scene to pay for this Ability's Cost
+
+**Solar Glands** (7)
+_Pieces of the stomach taken form a dead Censura, their acid capable of melting existence itself_
+
+- _Summarize -_ (R, when you Hit) {Exs, 5}: Target a SE Carried by Target character, Destroy it
+- _Out of the Page -_ (R, when you a character Dies): Remove that character from the story, all Finales change to exclude them, and reality changes in the most Reasonable way to their absence. Before doing so Target that character, if you Pass you retain memories of this event and the pre-erasure reality
 
 ## Rogue
 
@@ -387,10 +393,11 @@ _If there's a single constant in the world my dear, is that what you say can nev
 - _Weapon, Motive and Opportunity -_ State a coherent timeline and description of events regarding the recorded Traits, Props and characters. If it's Appropriately accurate you gain 1 Persistent Lucky Token. Regardless, you learn if it was considered Appropriately accurate
 - _Just One More Thing -_ If you used _Weapon, Motive and Opportunity_ to create an Appropriately accurate timeline, every time a character deliberately lies to you about said timeline, they take 1 Damage. This may start a Clash
 
-**Some quite sticky fingers** (5) (Rapid)
-_Theft is the sincerest form of flattery that guile can pay to carelessness_
+**Expropriation Tools** (5) (Rapid)
+_Nothing truly belongs to anyone_
 
-- _Grand Larceny -_ Target an Active SE and steal it. Their Owner stops Holding them and instead you do. If the Roll for the Target fails you cannot use this Ability again on Items Carried by that Owner, then deActivate this Item. Otherwise, Disable this Item until end of Scene
+- _Grand Larceny -_ (R, when you are Targeted): Target an Item or Trait used with the Action or Ability that Targeted you, such as the Item source of the Ability, a Trait used to pay for its Cost or Exs for Execution. If the Targeting that Targeted you fails, you Steal that Item or Trait
+- _Absconder -_ You Deal 1 extra Damage every time you Attack a character you Stole an Item or Trait from, however they must Target you every time they are able to. Additionally, if they inflict a Major Finale on you, they get back any Item or Trait you have that belonged to them
 
 ## Cleric
 
@@ -418,6 +425,12 @@ _In times of need, the only need is extra time_
 
 - _Not Now -_ {Exs, 7}: Target character takes an extra turn after this one
 - _Not Here -_ When an allied character Rolls a Critical, you can Activate this Item as a Interruption for no Cost. If this Item is already Active, instead you may use _Not Now_ at a Cost of {Exs, 2} and as an Interruption
+
+**Officiant Rings** (3)
+\*An unstoppable, undeniable force that permanently changes you. What can you call love if not eldritch?
+
+- _Binding Ceremony -_ {2 Hours}: Choose two willing characters and Marry them, they may kiss. A character can be Married to any amount of characters. At any moment, by spending {Scene}, a character can stop being Married, their Spouse is not required to be in the Scene
+- _Crossed Lives -_ Two Married characters count has Carrying each others Traits and Items. If a Married character would take Damage at 0 WP, and one of their Spouses is in the Scene, they may choose take that Damage instead
 
 **The plea of a poor fellow faithful** (5)
 _What can a character hope for, if not the care of the writer?_
@@ -540,6 +553,13 @@ _The first churches were the shades of snow covered tree_
 
 - _Reshape -_ (1 Use per Level): choose a Target willing character and a Target willing dead character of the same Level. The alive one is permanently changed into a new one. The player playing that character creates this new character as if it was a complexly new of the same Level as the Targets. However, their Traits must be chosen only from those of the Targets, in equal measure from both
 - _My Greatest Work -_ You may use _The Great Work_ at Rapid Speed and on any Target character, if that character is currently being inflicted a Major Finale
+
+**Bioarcane Uprising** (7)
+_Every cell in your body constantly lives on the brink of rebellion, may them rise up_
+
+- _Greater Endocytosis -_ {Exs, 5, Action}: Target a character, on a Pass you begin Infecting them. During Infection you are unTargetable by every character except yourself and the Target. Then you can place an Apoptosome Charge on one of their Traits. During Infection you can Spend {Action} to stop Infecting that character. If the Infection ends for any reason remove all Apoptosome Chargers from the Infected characters Traits
+- _Programmed Cell Death -_ {Action, 3}: Place an Apoptosome Charge on Target Trait of character you are currently Infecting that doesn't already have one. Traits with an Apoptosome Charge are Disabled. If you take Damage while Infecting, that character may remove an Apoptosome Charge from one of their Traits. Then, if none of their Traits have an Apoptosome Charge, the Infection ends
+- _Total Systemic Collapse -_ After using _Programmed Cell Death_, if you cannot place an Apoptosome Charge because the Infected character has an Apoptosome Charge on all their Traits, end the Infection. That characters Major WP are set to 1
 
 ## Generics
 
