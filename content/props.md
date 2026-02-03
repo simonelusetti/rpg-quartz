@@ -1,101 +1,90 @@
-Traits allow the players to codify the free form narrative of their character's identity into something the rules can interact with. Props do the same for pieces of the Scene. They can have specific rules, such as cannon being able to blast a powerful shot, or a muddy terrain being difficult to traverse, and so on
+Traits allow the players to codify the free form narrative of their character's identity into something the rules can interact with. Props do the same for pieces of the scene. They can be created at will during play by the players, where they become narrative props with no real rules attached to them, just material pieces of narration
 
-Since most Props are locations and positions, we use that language to describe them. At times it may sound strange: being Inside a cannon means being in control of it or at least fighting for control. Not actually being in the barrel. Gotta roll (intended pun) with it
+However, a lot props are actually prepared by the Director, to set up the scene and give characters space to express themselves with the use of space. All props have rules to define their control, contesting, and so on. Since most props are "locations", such as a bush or cover, we use a spacial language to define the rules around them
 
-Normally, Props enter a Scene Empty, indicating how no character is currently interacting with it in any specific way. As a Cue you may Move into the Prop, which may require a Roll. Props have a number called Space, 1 by default, which indicates how many characters may be Inside it at the same time. When you Target a Prop (not just when trying to Move into it), you gain 1 BD for each allied character and 1 MD for each enemy character Controlling it. When a Prop is Occupied by a number of characters equal or higher than its Space, it's Full
+Normally, props enter a scene unoccupied, indicating how no character is currently interacting with it in any specific way. As a cue you can target the prop to try to occupy it, rolling against a character. This roll is done against the prop itself, which all have personalities. If the creator of the prop is an Reasonably important character, you instead roll against them to successfully occupy it
 
-If you use this Cue to Move into a Full Prop, you may Target another character to make them Move out. This is known as Pushing Out. Note: Since nothing restricts you from using this Cue on a Prop you already Occupy, you can use it to specifically Push Off a character. As a Cue you may also Move out of the Prop
+Props have a number called space, 1 by default, which indicates how many characters may be occupying it at the same time. Whenever you target a prop (not just when trying to occupy it), you gain 1 BD for each allied character and 1 MD for each enemy character occupying it. When a prop is occupied by a number of character equals to its space it's full. During your main step, you can stop occupying a prop for no cost
 
-Props may have Activated Abilities, such as the cannon in the previous example being able to shoot. Whenever you want to use these Abilities you first Target the Prop, meaning that opposing characters Inside it may try and stop you from using it. If you fail this Targeting, the Ability Fails but you do not pay its Cost
+> **Larger characters:** very character by default has a size of 1, which indicates how they occupy 1 space in a prop. particularly massive characters, think dragons, krakens, and the lot, can have a size of more than 1. A character may never try to occupy a prop that has a space less than their size. Note that this rule considers the prop's full space, not just the empty space
 
-**Traps:** Traps is a special rule for Props that hinder characters Inside it. These could be actual in narrative traps such as spike pits or landmines, but could also indicate a magically summoned tangle-bush, a pool of lava and so on. If normally you can just choose to stop Controlling a Prop as a Cue, a Trap must be Target to do so, meaning that other characters can try to stop from Moving out. Additionally, most often than not, Traps can be created in the moment by rules that try to force characters to Move into them. Difficult Terrain is an example of that
+You can try to occupy a full prop. In the same cue, try to occupy the prop, if you do you can target a character controlling it and displace them, they stop occupying it. By spending {action} you may also displace a character occupying the same prop as you, regardless of fullness
 
-Props do not have Personalities but they do have WP (1 by default), which implies they can Damaged. The Attack Action and some
+A prop that has characters from two different sides is contested. Props may have activated abilities, but they cannot be used if they are contested. If a prop is exhausted, it unexhaust when the before the first character that took a turn this clash starts their turn
+
+Props have WP and can be targeted with the study or attack action, and a lot of abilities are able do so, but they specify it
+
+**Traps:** traps are special props that instead of helping, hinder their occupiers. They could be actual in narrative traps such as spike pits or landmines, but could also indicate a magically summoned tangle-bush, a pool of lava and so on. To stop occupying a trap you must target it, meaning that other characters can try to stop from doing so, and it requires rolling against it or their creator. Additionally, you may try to stop occupying a trap only once per turn
 
 # Common Props
 
-Following is a list of simple Props that are commonly found, especially useful to decorate a Clash and make it more interesting. If not specified, the Props' WP and Space are 1 by default. An X in either of these two indicates that the Prop is designed to be adaptable to the specific situation
+Following is the list of common props. If they do not list WP or space, they are 1 by default. This can be used by the Director to create a scene. Players are able to write in props from narrative elements as well, and if one Reasonably matches a common prop it can be used to give some basic rules to the prop. Because of this "on the fly" creation, common props are quite flexible, so their WP and especially space are free to be changed to fit their narrative form better
 
-This said, the Director has full freedom to customize them as they wish
+Obviously, the Director can also enact any change they consider appropriate for the scene
 
 **Cover**:
 
-- Characters Inside this Prop gain 1 BD whenever they Block a character that isn't Controlling it
+- characters occupying this prop gain 1 BD whenever they block a character that isn't occupying it
 
 **Fortification**:
 
 - WP 3
-- Space 3
-- Characters Inside this Prop gain 3 BD whenever they Block a character that isn't Inside it
+- space 3
+- characters controlling this prop gain 3 BD whenever they block a character that isn't occupying it
 
 **Stationary Artillery**
 
 - WP 3
-- {Exs, Action}: Target character that isn't Controlling this Prop. They take 3 Damage
-- If this Prop is Destroyed, every character Inside it takes 1 Damage
+- {exs, action}: target character that isn't occupying this prop, they take 3 damage
+- If this prop is destroyed, it targets every character occupying it, they take 3 damage
 
 **Vantage Point**
 
-- WP X
-- Space X
-- Characters Inside this Prop gain 1 BD when Targeting a character not Inside it
-
-**Crashing Vehicle**
-
-- WP X
-- Space X
-- {Exs, Action}: This Prop starts to Channel until your next turn. If Completed, Target any amount of characters no Controlling it, they take Damage equal to this Prop's original WP. Regardless of result, Roll against this Prop, on Fail you take that same Damage. Then Destroy this Prop
+- characters occupying this prop gain 1 BD when targeting a character not occupying it
 
 **Collapsable Structure**
 
-- WP X
-- Space 0
-- The moment you Move into this Prop immediately Destroy it, then Target a character, they take Damage equal to this Prop's original WP
-  - If this Item is Destroyed in any other way, every characters takes Damage equal to this Prop's original WP
+- WP 3
+- space 0
+- if this prop is destroyed, the character who destroyed it can choose any number of characters and target them, they take 3 damage
 
 **Natural Bound**
 
-- WP 10
-- Space Infinite
-- This Prop divides the Scene into 2 Areas defined by the state of the Narrative, such as two river banks of two sides of a natural wall. Characters in one Area or Inside this Prop may only Target characters in the same Area or Inside this Prop, unless they have Range
-- {Action}: Move to any of the Areas
+- WP infinite
+- space Infinite
+- this prop divides the scene into 2 areas defined by the state of the narrative, such as two river banks of two sides of a natural wall. Characters in one area may only target characters in the same area unless they have range. If occupying this prop, they may target and be target by characters in both areas
+- as an action, characters occupying this prop may move to an area
 
 **Ambush Position**
 
-- WP X
-- Space X
-- Characters in the Scene when a character Moves into this Prop are Aware of it. The same is true for characters in the Scene when a character Inside it Targets one Outside it. Otherwise, they are unAware. Whenever a character Inside this Prop Targets an unAware character, the Target is unBlockable
+- characters occupying this prop are hidden to characters not occupying and who weren't in the scene when they occupied it. Characters trying to occupy this scene may target every other character, for every pass that character is hidden to the target. A character who is aware of the presence of a hidden character may speak to another character to reveal all characters not hidden from them. When a hidden character targets a character unaware of its presence, the targeting is unblockable
 
 **Unstable Substances**
 
-- Space X
-- Trap
-- If this Prop is Destroyed, characters Inside it take 2 Damage
+- trap
+- if this prop is destroyed, characters occupying it take 1 damage. (this doesn't target)
 
 **Illusionary Terrain**
 
-- WP X
-- Space X
-- Trap
-- Characters Inside this Prop can only choose this Prop as a Target
+- trap
+- characters occupying this prop must choose it as a target if they make a cue that allows them to
 
 **Difficult Terrain**
 
-- WP X
-- Space X
-- Trap
-- Characters Inside this Prop get 2 MD every time they Target
+- trap
+- characters occupying this prop gains 1 MD every time they target
 
 **Exposed Terrain**
 
-- WP X
-- Space X
-- Trap
-- Characters not Controlling this Prop get 2 BD every time they Target a character Controlling it
+- trap
+- characters not occupying this prop get 1 BD every time they target a character occupying it
+
+**Dangerouns Terrain**
+
+- trap
+- characters occupying this prop gain a vulnerable token whenever they make an action
 
 **Deathly Terrain**
 
-- WP Infinite
-- Space X
-- Trap
-- When a character is Pushed Out this Prop, they must make a Death Roll against the character who Pushed them Out
+- trap
+- When a character is displaced out of this prop, they must make a death roll against the character who displaced them

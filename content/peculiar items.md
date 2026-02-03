@@ -1,19 +1,19 @@
-This document contains Items that are, for one reason or another, strange. They are mostly Mythics with the **Binding** rule, meaning that upon collection they _must_ be used by their owner, drastically changing their playstyle
+This document contains Items that are, for one reason or another, strange. They are mostly mythics with the binding rule, meaning that upon gaining that item they _must_ be carried by their owners. Since you can only carry a single mythic, they can drastically changing a player's playstyle
 
 Peculiar Items may be rare and exotic artifacts, forbidden curses or the result of weird altercations with supernatural forces. Whatever their origin they are intended
 
 1. For more advanced players
 2. To be collected during an established adventure, as a reward or punishment, by a player the Director believes has earned them (for better or worse)
-   The Director and the players are the masters of the story, you can freely to ignore literally anything we write. This said, we designed these Items as something "given" by the Director to the players only when directly relating to the story
+   The Director and the players are the masters of the story, you can freely to ignore literally anything we write. This said, we designed these items as something "given" by the Director to the players only when directly relating to the story
 
 **The Thirst (Mythic) (Binding)** (1)
 _It's use unthinkable, it's acquirement unforgivable, it's absence unberable_
 
-- _Crimson Kiss -_ The first time you Attack a character, you may choose to turn the Attack into a Bite. On Hit with a Bite you heal 1 WP. If the Bitten character suffers a Major Finale they enter a catatonic state where all their Symbols are Eclipsed. If no Appropriate cure is administered they Die at the end of the next Rest. At the end of your next Rest, if since your last Rest a Bitten character Died, you gain a Thirst Charge
-- _Unholy Lineage -_ {2 Hours on Rest}: Target a character currently suffering from _Crimson Kiss_. At the end of the Rest they gain the Major Trait "Thrall of X" where X is your character's name. If this brings them over the Major Trait limit choose another Major Trait to remove. They do not Die as a result of _Crimson Kiss_. This Ability can only be used when if you have 2 or more Thirst Charges
-- _Moonlight Mantle -_ {Exs, 3}: You gain Flying until your next turn. You can only this Ability if you have 5 or more Thirst Charges and you are not in the presence of the element chosen with _Never to feel His warmth_
-- _Open Your Veins -_ {Exs, 7}: Every other character in the Scene takes 1 Damage, you gain 1 WP for every Damage Dealt this way. For every WP that you would gain over your maximum, you gain a Persistent Power Token. If this kills any character you may use _Unholy Spawn_ on them immediately ignoring the Cost. Then, for the rest of the Scene you may use _Crimson Kiss_ on characters you have already Bitten. This Ability can only be used if you have 10 or more Thirst Charges
-- _Never to feel His warmth -_ When you gain 5 Thirst Charges with this Item the Director choose an Appropriate narrative element, such as sunlight, holy prayers or similar depending on the context of the Story. In the presence of such element you cannot gain WP
+- _Crimson Kiss -_ (rapid, when you hit target character): that character gains the minor curse "Bitten" and you heal 1 WP. You cannot use this ability on someone who already has that curse. If they suffer a major finale, the curse upgrades to a major curse, and while it persists all the bearer's symbols are eclipsed. On your next rest, every character with that curse dies, if at least one died, this item gains 1 permanent thirst charge
+- _Unholy Lineage -_ {2 hours}: target a character with the "Bitten" curse. Instead of dying, the curse is removed and they gain the major trait "Thrall" . If this brings them over the limit, you decide which one to remove. This ability can only be used if this item has 2 or more thirst charges
+- _Moonlight Mantle -_ {3, exs}: you gain flying until your next turn. This ability can only be used if this item has 5 or more thirst charges
+- _Open Your Veins -_ {7, exs}: every other character takes 1 damage, you heal 1 WP for every character damaged. For every WP that you would gain over your maximum, you gain a power token. If this kills any character you may use _Unholy Lineage_ on them immediately. Then, for the rest of the scene you may use _Crimson Kiss_ on characters that already have the curse "Bitten". This ability can only be used if this item has 10 or more thirst charges
+- _Never to feel His warmth -_ when creating this item, the Director choose a Reasonable narrative element, such as sunlight, holy prayers or similar depending on the context of the adventure. In the presence of such element you cannot gain WP and you cannot block if this item has 2 or more thirst charges
 
 **The Hunger (Mythic) (Binding)** (1)
 _Muscles and sinew are the only things you truly posses_

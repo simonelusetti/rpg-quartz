@@ -242,7 +242,7 @@ Narrative props are a way for the players to codify important elements of the na
 
 Narrative Props are mainly used for [[#Improvisation]]
 
-Each player may create up to 1 narrative prop per scene. By create we mean taking a piece of the scene that has no rules, something that only existed as an element of the narrative, and making it into a NP. It's not uncommon for a NP to be something that is quite Reasonably close to an actual prop with rules: using trees as covers, or hiding in a closet as an ambush position. In such cases the Director may turn the NP into an actual prop, giving them their corresponding rules
+Each player may create up to 1 narrative prop per scene. By create we mean taking a piece of the scene that has no rules, something that only existed as an element of the narrative, and making it into a NP. It's not uncommon for a NP to be something that is quite Reasonably close to an actual prop with rules: using trees as covers, or hiding in a closet as an ambush position. In such cases the Director may turn the NP into an actual prop, giving them their corresponding rules. This is known as writing in a narrative prop
 
 # Improvisation
 
@@ -361,7 +361,7 @@ The basic actions that every character has access to are:
 - Attacking
 - Studying
 - Impairing
-- Moving to a prop
+- Occupying to a prop
 - Start to flee
 - Casting a spell
 - Making a generic roll
@@ -397,11 +397,11 @@ Most secrets are minor secrets and can be learnt using the normal study action. 
 
 **Impairing:** _Tying a mage's fingers together, screaming loudly to make a diversion, Impairing is the act of not dealing directly with a threat but trying to make their job harder somehow_
 
-Target an item or prop and exhaust it, it doesn't unexhaust during their owner's next breath step
+Target an item or prop and exhaust it. If you executed this action with X focus, and X is higher than the activation cost of the item, it doesn't unexhaust during their owner's next breath step
 
-**Controlling a Props:** _I swing on the chandelier to kick that guy in the teeth with more momentum. I'd like to stand still on the empty armor stand to sneak unnoticed by that guard_
+**Occupying a Props:** _I swing on the chandelier to kick that guy in the teeth with more momentum. I'd like to stand still on the empty armor stand to sneak unnoticed by that guard_
 
-Target a prop and Control it, as described in the [[props]] document
+The rules for occupying a prop are described in details in the [[props]] document. As a reminder, as an action you may target a prop to try to occupy it. If the prop was full you may displace target character occupying it
 
 **Casting a Spell:** Cast a spell on target character. The rules for casting are described in the [[#spells]] section. The only difference in using a spell during a clash is that both the item containing the spell and the one with the spell slot used must be active. Additionally, remember that you may cast a spell alongside making another action, this only uses a single action
 
@@ -435,7 +435,7 @@ When resolving these rolls, each gains 1 MD for each cue below them in the stack
 2. B Rolls with 1 MD against A and passes. As always, the roll made the narration change irreversibly: character A punching the guard becomes impossible
 3. A's cue is now impossible, it's not resolved and they cannot fulfill their violent fantasy. Nothing happens
 
-**Interruption:** Some cues can be made as interruptions. They do not gain timing dice and can only be reacted to by other interruptions. You can make an interruption only with specific rules such as using a rapid activated ability of an item. Some items are rapid themselves, this indicates two things:
+**Interruption:** Some cues can be made as interruptions. They do not gain timing dice and can only be interrupted to by other interruptions. You can make an interruption only with specific rules such as using a rapid activated ability of an item. Some items are rapid themselves, this indicates two things:
 
 - each of their activated abilities is rapid
 - if used in improvisation with a cue, the cue is an interruption
@@ -444,9 +444,9 @@ When resolving these rolls, each gains 1 MD for each cue below them in the stack
 
 **Timing in clashes:** In a clash the turn order imposes different rules to decide timing. Only interruptions can be reactions. You do not have the one free cue as a reaction
 
-Additionally, reactions are not added to the stack in the free flow order of when the players state them like outside clashes. Instead, in turn order each players has a chance to use make a reaction. If so, the same process is repeated restarting from them, until no more are added to the stack. They are then resolved in the usual, reverse order
+Additionally, interruptions are not added to the stack in the free flow order of when the players state them like outside clashes. Instead, in turn order each players has a chance to use make a interruption. If so, the same process is repeated restarting from them, until no more are added to the stack. They are then resolved in the usual, reverse order
 
-Making an Interruptions spends your reaction (the resource), meaning that normally you may only take one reaction per turn during a clash
+Making an interruptions spends your reaction (the resource), meaning that normally you may only take one reaction per turn during a clash
 
 **Triggers priority:** triggered abilities also follow this rule and are added to the stack in turn order of their controller, if a player controls multiple of them they choose their order. Triggered abilities are added to the stack before any reactions can be stated
 
@@ -552,6 +552,8 @@ Spells can have as wildly different narrative effects as considered Reasonable. 
 
 Whenever you make a cue that isn't an ability, you can cast a spell alongside it to gain its BD, provided the effect is Reasonable. This is especially relevant with clashes' basic actions. You can use a spell with the study or flee action to improve stack the chances in your favor. A particularly important example is with offensive spells: if you cast a spell with the attack action, the attack's potential damage is increased by the same amount of BD gained from the spell
 
+Once you cast a spell, the narrative form of that spell cannot be changed until your next rest. You can cast it again, but only with the same narrative form
+
 ## Persistent Spells
 
 You can choose persistent effects for the narrative form of a spell, as always provided it's Reasonable. Roll against the target of the spell, unlike most targeting this cannot be passed automatically on willing targets and you need to roll regardless, if you pass they gain a spell trait, a special temporary trait with focus value 0. The trait then gains a dice pool, a number of stored dice, equal to twice the number of successes in the roll
@@ -568,67 +570,126 @@ Later, he will make a Clock roll to get past the vendor. You can make him expend
 
 # Tokens & Curses
 
-Tokens are used to represent simple, temporary changes to a character. Most Tokens' rules trigger automatically, such as "the next instance of Damage you take". Others allow you to choose when to use them, such as "after you make a Roll you may". Both types are removed after being used once
+To represent different changes of states we use two systems: tokens and curses
 
-Tokens are also removed from all characters at the end of each Scene. You may only carry 2 Tokens per type at time
+Tokens are used to represent simple, temporary changes to a character that are removed after being used once. Some tokens trigger automatically, others use words like may, can, and so on to indicate that they can be used at will by their carrier at specific moments
 
-- **Lucky:** after you make a Roll you may Roll again. You must ignore the first Roll. The first Roll counts as never having happened for other rules' purpose
-- **Armor:** ignore the next instance of Damage you take
-- **Weak:** the next instance of Damage you deal is halved
-- **Vulnerable:** the next instance of Damage you take is doubled
-- **Power:** the next instance of Damage you deal is doubled
-- **Dodge:** the next time you are Targeted, the Roll made against you automatically Fails
-- **Taunt:** when Attacking, a character must Target a character with Taunt Tokens if possible
-- **Stealth:** you are unTargetable, but making a Roll removes this Token
-- **Poise:** the next you are the Target of a Cue that would give you a Temporary Trait or make you suffer an Alteration to a Symbol, you may choose to make the Targeting automatically fail
-- **Fear of X:** if you Target a character with X, you cannot gain BD on Rolls
-- **Sleep:** you cannot make Rolls. This Token is removed at the end of your turn or if take Damage or if a character spends their Action waking you up
-- **Aim:** on your next Roll, the Foil can only Block with up to 3 BD
-- **Confusion:** on your next Roll you may only gain up to 3 BD
-- **Precision:** your next Targeting ignores Dodge, Stealth and Taunt Tokens and the Foil cannot Block
-- **Certainty**: your next Roll automatically Passes
-- **Hestiation:** your next Roll automatically Fails
+Tokens are removed from characters at the end of scene. Additionally, only up to 2 tokens of the same type can be carried by the same character at one time
 
-Modifiers:
+- **Lucky:** after you make a roll, you can reroll again and keep the second result
+- **Armor:** the next instance of damage you take is reduced to 0
+- **Weak:** the next instance of damage you deal is reduced 0
+- **Vulnerable:** the next instance of damage you take is doubled
+- **Power:** the next instance of damage you deal is doubled
+- **Dodge:** the next time you are targeted, the targeting fails
+- **Taunt:** when a character in the scene attacks, you must be chosen as the target
+- **Stealth:** you cannot be targeted, but targeting removes this token
+- **Aim:** your next targeting is unblockable
+- **Furious:** the next time you are targeted you cannot block
+- **Confusion:** your next targeting is unexecutable
+- **Precision:** your next targeting ignores dodge, stealth and taunt tokens and is unblockable
+- **Certainty**: your next roll automatically passes
+- **Hesitation:** your next roll automatically fails
 
-- **Persistent:** a Persistent Token is not lost when the Scene changes, but only on Rest. It's still lost on use
-- **Permanent:** a Permanent Token isn't removed when used and can only be removed by rule that specifically remove it. It still expires when the Scene changes
-- **Ephemeral:** an Ephemeral Token only last until the start of the next turn of the character controlling the effect that created it. Used only in Clashes
-- **Countless:** a character can have any amount of Countless Token (instead of up to 2)
+Some tokens can be created with modifiers, indicating a slight difference in how they work:
+
+- **Persistent:** a persistent token is not lost at end of scene, only on use or resting
+- **Ephemeral:** an ephemeral token only last until the start of the next turn of the character who created it
+- **Countless:** a character can have any amount of countless token (instead of up to 2)
+  Note that these are added to the actual rules of the tokens: you can have an ephemeral dodge token, but not just an ephemeral token
+
+Curses are instead more permanent effects, they are divided into minor and major. Minor curses specify a condition for them to end, and automatically do so at the end of scene. Major curses are permanent and require specific rules to remove them. Note that the actual effect is unrelated to being minor or major, for example the Fear curse could both be a minor or major depending on the rule that created it
+
+Additionally, curses don't stack: you can only have 1 of the same curse. Note that "being the same curse" includes X if the curses has it. For example you cannot be charmed by the same character twice
+
+- **Fear of X:** X can indicate a character, trait, item or prop. When you target X, the targeting is unexecutable
+- **Sleep:** you cannot make cues while you have a sleep curse. This curse is removed when you take damage or when a character spends {action} to wake you up
+- **Blinded:** you cannot target anything or anyone
+- **Charmed by X:** you cannot target X, where X can indicated a character, trait, item or prop
+- **Stunned:** you cannot make cues
+- **Trauma:** in all your rolls you gain 1 BD
+
+Just like tokens, some curses can have modifiers that change their base ruling:
+
+- **Permanent:** a permanent curse cannot be removed, nor can it be erased
+- **Stacking:** you can have any amount of stacking curse, for example you can have 3 trauma curses if each is stacking, resulting in 3 BD every time you roll
+
+## Erasure
+
+_In the hazy half remembered dreams of the holiest of saints, are visions of people who never left the draft stage_
+
+Erasure is a solemn event, something that radically changes the adventure in total, retroactive, and destructive way. Anything could be erased, but most rules refer to erasing a character, an item, trait, prop or finale. Even then, only extremely powerful abilities can do so, the most common ways for a player to do is by the use of a solar item
+
+When any of these is erased, they are removed from the story along all of their actions and influences on it. Reality bends in the most Reasonable way to accommodate these changes, changing every finale that involved them. All characters, including PCs forget everything about anything that is erased
+
+**Example:** in a previous session, a malevolent dragon killed _Morion of Donvan_, a PC used by one of the players. Now that player is playing _Zixuan Dragonfang_ a high level warrior carrying the _Summary Glands_, a late game solar item. They eventually fight the dragon again and manage to successfully use the _Out of my Pages_ ability on it. The dragon is erased. Along with any other changes to the story, _Morion_ comes back. More precisely, she never died
+
+Erasure is a beautiful thing, giving the players the pen to serious extent, and seriously it must be handled. Use of erasure is one of the only moment where the Director has basically no say, if something is erased, it is erased. However, to foster a welcoming and exiting play environment, we advice any player who plans on erasing anything that meaningfully changes the story to talk about it to the Director before hand. If anything, just to sudden Director-dropped-out-no-more-adventure syndrome. On the other hand, a Director should avoid replying with "this simply doesn't happen", which would dull an otherwise heartbusting scene
+
+This said, carry this power with fury and pride. Walk the scenes knowing that anything form underwhelming sandwiches to evil tyrants are not safe from inexistence
+
+# Consumables
+
+Consumable are single use objects with limited, but important effects. They give a one time edge to characters and are mostly used by the Director as on the fly prizes when a character(s) completes a task that should be rewarded, but is not important enough for a level or item
+
+Consumables cannot be used in clashes
+
+- **Gold:** gold is used in two specific ways
+  - _Paying -_ some NPCs will require certain amounts of gold for goods or services
+  - _Bribing -_ when rolling against a non hostile character you 1 BD. If the character has a major trait that Reasonably aligns with "Greed" you may use this consumable on them even if they are hostile, or if they aren't you gain 2 BD instead
+
+Common consumables: these are consumables that are sold in most Reasonable locations, each usually cost 1 gold
+
+- **Potion:** target character heals 1 WP
+- **Food:** when resting, this consumable can be used to give every character a persistent lucky token at the end of the rest
+- **Simple trapping:** {Scene}: trap the location of this scene, this is a minor secret. At start of the next major clash in this location, all character that didn't learn this secret gain one token of your choice between:
+  - _Smoke -_ Confusion
+  - _Caltrops -_ Vulnerable
+  - _Oil -_ Weak
+- **Antitoxin:** until their next rest, if target character would gain a token they can choose not to, once
+- **Picklock and Crowbar:** when rolling against a prop, you gain 1 BD. If the roll is made to destroy the prop you instead gain 2 BD
+
+Uncommon consumables: harder to find and with variable (if any) gold cost, these consumables usually require more elaborate or specific locations to be found
+
+- **Greater potion:** target character heals to full WP
+- **Spell reagent:** change the symbol of the next spell you cast in this scene to one of your choice
+- **Repair kit:** target rusted item is unrusted
+- **Personal diary:** when used, you remember a fact, event, character or similarly Reasonable "stuff" from any of your previous session that you missed. This may not be a secret, but just a Reasonably tiny detail that you (the player) might have forgotten
+- **Character diary:** you learn a pre-selected secret from the character who wrote this
+- **Map:** learn a minor secret of the location this map is about
+- **Compass:** learn a minor secret of the location you are in
 
 # Extras
 
-Extras are characters that do not have their own character sheet, using simplified rules instead. They are always under the control of some other character (the Controller): think of skeletons being raised by a necromancer or a peasant militia levied by a charismatic player. If the Controller Dies any Extras they control also go away, be it the skeletons falling back into lifeless bones or the peasants fleeing the battlefield. Extras last until end of Scene, unless specified
+Extras are characters that do not have their own character sheet, using simplified rules instead. They are always under the control of some other character: think of bound demon or a remote controlled drone. If the controller dies any extras they control also die, be it the skeletons falling back into lifeless bones or a hired mercenary fleeing the scene. Extras last until end of scene they are created, unless specified
 
-Extras as considered their own character with their own WP, but have the same Personalities as their Controller. They can't Hold Items for any reason and usually don't have Traits. Instead they have score called Power. This is equal to an amount of Focus they can spend as if they had that many Traits of Focus Value 1
+Extras as considered their own character with their own WP, but have the same personalities as their controller. They can't carry items and usually don't have traits. Instead they have score called power. This is an amount of focus they can use each turn rotation, for blocking or executing
 
-**Example:** An Extra with Power 5 might Attack during their turn, spending 2 Focus to gain 2 BD for the Attack, while keeping 3 Focus free for Blocking
+**Example:** An extra with power 5 might attack during their turn, spending 2 focus to gain 2 BD for the attack, while keeping 3 focus free for blocking incoming attacks
 
-Note: as separate characters, they Control Props on their own
+Note: as separate characters, they move into Props on their own
 
-**Mobs:** Some Extras aren't a single being but a multitude, a swarm of stinging insects, an army of zombies, and so on. These are called Mobs. Their Power is always equal to their WP, so as they get Damaged or Healed they shrink and grow in strength
-
-They count as being as many characters as their WP, so they can be Targeted by Abilities that affect multiple characters, count as being that many characters for the purpose of Space in Controlling Props and so on. Effects that would deal Damage to all characters in the Mob, if Passed, halve their WP. Similarly, if all characters in the Mob would regain WP, their WP is doubled. However this can't bring them over their original WP
+**Mobs:** Some extras aren't a single being but a multitude, a swarm of stinging insects, an army of zombies, an angry crowd of peasants. These are called mobs. They are a single extra, but count as being as much characters are their current WP, and have that much power
 
 # Send-off note: on role vs playing and how to marry this bickering lot
 
 The concept of role-playing games, especially pen and paper ones, present a problem to the designer of the game. Some even see this problem as the entire reason these games exist
 
-We want the players to be as involved in the narrative as possible. Just like how a good writer will make you stop seeing words on paper, our objective is to make the player forget the dice and numbers and see the scene itself. This pushes for an unobtrusive design: where the rules are just a background thought
+We want the players to be as involved in the narrative as possible. Just like how a good writer will make you stop seeing words on paper, our objective is to make the player forget the dice and numbers and see the scene itself. This pushes for an unobtrusive design: where the rules are just a background thought occasionally used when players disagree on a result
 
 However, push too much into this direction and you lose the benefits (the need, even) of rules. The "game" becomes a collaborative writing effort. Let us be clear: collaborative writing is insanely fun, but it's not a game. Much less a role-playing game. For a potential reader a story crafted this way may have drama, rising tension, humor and mystery. Less so for the actual "players"
 
-The other end of the stick isn't that great either. Put the rules in front of the stage and you are just pushing paper buttons with a numerical result. You are not a character but a flesh and blood model for a wargame. Again, let's be clear: wargames are amazing. This said, this game would make trash wargame
+The other end of the stick isn't that great either. Put the rules in front of the stage and you are just pushing paper buttons with a numerical result. You are not playing a character but a miniature for a wargame with slightly better lore. Again, let's be clear: wargames are amazing, but this game would make trashy wargame
 
-Inside the player are two wolves: one craves the drama of betraying a loyal character, the other the adrenaline of rolling dices in the way most conducive to beating the brain out of someone's skull. These two beasts hate each other guts, but feed them both and you have actual Role-Playing. There are many solution to this old conundrum, we have taken the path of maniacal compartmentalization, where we cage the wolf with calculator and spread-sheets in Clashes, while keeping the one with fake noses and paintbrushes outside them.
+Inside the player are two wolves: one craves the drama of betraying a loyal character, the other the adrenaline of rolling dices in the way most conducive to pushing the brain out of someone's skull. These two beasts hate each other guts, but feed them both and you have actual Role-Playing. There are many solution to this old conundrum, we have taken the path of maniacal compartmentalization, where we cage the wolf with calculator and spread-sheets in clashes, while keeping the one with fake noses and paintbrushes outside them
 
-These borderline esoteric words should convey one thin and one thing only to you: mechanics and drama have their own spaces. Spaces which should be respected. Take Clashes for example
+These borderline esoteric words should convey one thing and one thing only: mechanics and drama have their own spaces. Spaces which should be respected. Take clashes for example
 
-Clashes are moments where we stop looking at the puppets to just have fun pulling strings. Try to not think too much about why Exhausting a broadsword can help you infiltrate a castle. Why using your "Massive Beard" is giving a BD to resist being tricked. Why are your "Thieve's Tools" able to steal away a character's ability to use telepathy
+Clashes are moments where we stop looking at the puppets to just have fun pulling strings. Try to not think too much about why exhausting a broadsword can help you infiltrate a castle. Why using your "Massive Beard" trait is giving a BD to resist being tricked. Why are your "Thieve's Tools" able to steal away a character's ability to use telepathy?
 
-You can, even should when convenient, try insert the use of mechanics into the narrative, but don't be scared if they make no actual sense. Does it makes total sense for your Colossus Hammer to help you in stealth infiltration? Maybe not, but the question should be _is it an interesting use of an interesting Item in an interesting situation?_
+You can, even should when convenient, try insert the use of mechanics into the narrative, but don't be scared if they make no actual sense. Does it makes total sense for your Colossus Hammer to help you in cooking contest? Maybe not, but the question should be _is it fun?_
 
-It's never easy to decided, both as a player and as Director mind you, when it's ok to bend the narrative sense for the sake of fun gameplay, or when to bend the rules for memorable scenes. We designed this game to have as clear of a line as possible. Rules interact only with other rules, leaving narration 90% up the table, for example. As we said before Clashes are special containment zones where you can drop your mask and wig to have fun rolling dices, feeling the pure dopamine kick of seeing a large number
+It's never easy to decide, both as a player and as Director mind you, when it's ok to bend the narrative sense for the sake of fun gameplay, or when to bend the rules for memorable scenes. We designed this game to have as clear of a line as possible. Rules interact only with other rules, leaving narration 90% up the table. As we said before clashes are special containment zones where you can drop your mask and wig to have fun rolling dices, feeling the pure dopamine kick of seeing a large number grow
 
 We thought important to keep this section in the core rules, since every player, no matter how expert or novice, should know that each side of Role-Playing has its place. Explicitly saying how to balance them is basically impossible. If anything, take this section as our way to spell out that:
 
@@ -636,4 +697,4 @@ We thought important to keep this section in the core rules, since every player,
 - There are ways to solve this problem
 - These are some of the ways we suggest doing so
 - You must learn what it means to "role-play" for your own table yourself
-  "Solve" this problem however, and you will find yourself thinking about dramatic story beats years after the entire adventure has ended
+  "Solve" this problem however, and you will find yourself thinking specific scenes for years after you last saw the people you shared those moments with
