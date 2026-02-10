@@ -57,13 +57,14 @@ As stated, every roll is the result of a cue having an undertemned outcome. Once
 
 > **Designer's Note:** It's up to the Director if two ues are Reasonably "the same" Following the wall example. If you try again literally immediately, that is Reasonably the same cue, meaning you still can't climb it. If something changes, like you training to climb it or simply a change of scene, the Director can Reasonably see it as a different cue
 
-To make a roll you roll 1d20, the base die. The required number to pass the roll, called its difficulty, is defined by:
+To make a roll you roll 1d20, which is called the base die. The required number to pass the roll, called its difficulty, is defined based on the relationship between the personality of the lead and the foil:
 
-$$
-11 - \text{the Personality you're using} + \text{the Foil’s Personality}
-$$
-
-If your result is lower, you fail the roll
+- If the lead's personality is twice or more than the foil's personality, the difficulty is 2
+- If it's higher but less than twice it's 6
+- If they are equal it's 11
+- If the foil's personality is higher but less than twice than the lead's personality, the difficulty is 16
+- If the foil's personality is twice or more than the lead's personality, the difficulty is 20
+  If your result is lower, you fail the roll
 
 Many rules add bonus or malus dice to a roll. If you have any bonus dice you roll that many more 1d20 and keep the highest one. If you instead have any malus dice you roll that many additional 1d20 and keep the lowest. If you have a combination of both they cancel out. A few examples:
 
@@ -87,13 +88,14 @@ When you roll with any BD (after being canceled by MD), every die that is at or 
 
 _The young mage stares at the cursed tome, brimming with forbidden antediluvian sorceries. Her hands move on its own_. Your character will eventually be tempted in some ways: appealing to their greed, lust, or even sense of duty and justice, their thirst for skills or knowledge. To resist these temptations you will need to pass a conflict roll
 
-These vary a bit from normal rolls and may be considered this game's version of a saving throw. They are made with the same symbol for both the lead and the foil, and unlike normal rolls the lead of the roll is the character trying to resist an effect in the narrative. Their difficulty is calculated as such, to represent how a character's own personality can be used against them:
+These vary a bit from normal rolls and may be considered this game's version of a saving throw. They are made with the same symbol for both the lead and the foil, and unlike normal rolls the lead of the roll is the character trying to resist an effect in the narrative. Additionally, you gain a number of BD/MD depending on which personality is being used:
 
-$$
-6 + \text{your Symbol} + \text{the Foil’s Symbol}
-$$
+- if it's your lowest, you gain 2 BD
+- if it's second lowest, you gain 1 BD
+- if it's your second highest, you gain 1 MD
+- if it's your highest, you gain 2 MD
 
-**Example:** _Your character is tracking the Succubus through the sewers. With her back against a wall she tries to seduce your character to escape_ the Director narrates. The Succubus uses its Devilish Charm, which causes a Lips over Lips Conflict Roll. The demon's Lips is 5, you have 1 so the Difficulty becomes 12, perfectly manageable. Your comrade Sonna Sweetstrings, having Lips of 5 herself, needs to pass an harsh 16 of Difficulty to resist
+**Example:** _Your character is tracking the Succubus through the sewers. With her back against a wall she tries to seduce your character to escape_ the Director narrates. The Succubus uses its _Devilish Charm_, which causes a Lips over Lips conflict roll. The demon's Lips is 5, you have 3 so the Difficulty becomes 16, but since Lips is your lowest personality. Your comrade Sonna Sweetstrings, having Lips of 5 herself, needs to pass an harsh 16 of Difficulty to resist
 
 Most conflict rolls are called when a specific rule says so, such as a demon using a corruption ability or a cursed tome begging o be read. The narrative can also cause conflict rolls, in particular you can try to cause a conflict roll when you know a character has a very high personality to gain an edge
 

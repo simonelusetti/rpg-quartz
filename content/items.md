@@ -44,18 +44,23 @@ _The Wizard is a character that focuses on spells: learning, casting and buildin
 **Tome of the Eternal Student (Mythic)** (2)
 _I swear the extra arm was completely intentional. Goes with my third eye_
 
-- spell slots: 4 level 1, 3 level 2, 2 level 3
 - _Watch and Learn_
   - whenever you witness first hand the use of a spell you can try to learn it for yourself. To do so spend 1 hour during a rest or 2 hours if this isn't the first rest you are taking after witnessing it
   - you can also transcribe a spell you only have Reasonably second hand experience with, like reading it from a book, being in a place with visible effects of its cast, hearing witnesses talk about and so on. Doing so takes meaningful time, 2 hours during a rest, and it's not guaranteed to work: roll against the original caster of the spell, on a fail the attempt to learn it is fruitless
   - _Partial Learning -_ when you roll to learn a spell with _Watch and Learn_, if your result is a fail but it's still above half of the difficulty to learn it, you partially learn it. You count as knowing the spell but only know the name, level or symbol, chosen at random or by the Director. You can cast it, but only if the cast is valid. For example, if you don't know the level and attempt to cast it with a spell slot of lower level, the casting fails and you loose the spell slot. The same happens if you cast it with a narrative form not Reasonable with its name. Once you successfully cast it once, you learn all its information
+
+- spell slots: 3 level 1, 2 level 2, 1 level 3
+
+When you gain this item choose one of the following spell list, it's recorded in this item
+
+Scholar
 
 | spell Name              | level | symbol     |
 | ----------------------- | :---: | ---------- |
 | Peer Review             |   1   | Lantern 🕯 |
 | Arcane Appendix         |   1   | Clock ⏱    |
 | Indecent Hypothesis     |   1   | Lips 💋    |
-| Faulty Assumption       |   1   | Edge 🔪    |
+| Faulty Assumption       |   1   | Sword 🔪   |
 | Intellectual Dishonesty |   1   | Thorn 🌹   |
 | Cerebral Spark          |   1   | Star 🌟    |
 | Impenetrable Proof      |   2   | Heart ❤️   |
@@ -64,6 +69,74 @@ _I swear the extra arm was completely intentional. Goes with my third eye_
 | Missed Contradiction    |   2   | Key 🗝     |
 | Eureka Moment           |   3   | Star 🌟    |
 | Quod Erat Demonstrandum |   3   | Lantern 🕯 |
+
+Savant
+
+| spell Name                | level | symbol     |
+| ------------------------- | :---: | ---------- |
+| Impressive Interpretation |   1   | Lantern 🕯 |
+| Display of Talent         |   1   | Clock ⏱    |
+| Magnetic Persona          |   1   | Lips 💋    |
+| Sharpen the Tongue        |   1   | Sword 🔪   |
+| Drowning Pathos           |   1   | Thorn 🌹   |
+| Uncommon Foreshight       |   1   | Star 🌟    |
+| Breaking Dance            |   2   | Heart ❤️   |
+| Rousing Spirits           |   2   | Thunder ⚡ |
+| Off the Screen            |   2   | Chaos 🌪️   |
+| Glorious Withdrawl        |   2   | Key 🗝     |
+| Hang by my Words          |   3   | Lips 💋    |
+| Conquer the Podium        |   3   | Sword 🔪   |
+
+Elemental
+
+| spell Name               | level | symbol     |
+| ------------------------ | :---: | ---------- |
+| Synchronous Palpitations |   1   | Heart ❤️   |
+| Soul Arc                 |   1   | Thunder ⚡ |
+| Summer Fragrant Words    |   1   | Lips 💋    |
+| Mage Hail                |   1   | Sword 🔪   |
+| Earth-Bound Clouds       |   1   | Thorn 🌹   |
+| Twilight Contemplation   |   1   | Star 🌟    |
+| Call the Dawn            |   2   | Lantern 🕯 |
+| Stream Slip              |   2   | Clock ⏱    |
+| Neonate Typhoon          |   2   | Chaos 🌪️   |
+| Fog Within, Fog Without  |   2   | Key 🗝     |
+| Lightning Waltz          |   3   | Thunder ⚡ |
+| Force Gale Hymn          |   3   | Heart ❤️   |
+
+Occultist
+
+| spell Name                 | level | symbol     |
+| -------------------------- | :---: | ---------- |
+| Invisible Threads          |   1   | Lantern 🕯 |
+| Silence in the Movements   |   1   | Clock ⏱    |
+| Half-Spoken Words          |   1   | Lips 💋    |
+| Inglorious Backstab        |   1   | Sword 🔪   |
+| Soul Ache                  |   1   | Thorn 🌹   |
+| Intuitions and Predictions |   1   | Star 🌟    |
+| Carefull Communion         |   2   | Heart ❤️   |
+| Awakened Silence           |   2   | Thunder ⚡ |
+| Improbable Outcome         |   2   | Chaos 🌪️   |
+| Un-Understanding           |   2   | Key 🗝     |
+| Sleep of Reason            |   3   | Thorn 🌹   |
+| Celestial Truth            |   3   | Star 🌟    |
+
+Pilgrim
+
+| spell Name            | level | symbol     |
+| --------------------- | :---: | ---------- |
+| Diurnal Departure     |   1   | Lantern 🕯 |
+| Certain Movements     |   1   | Clock ⏱    |
+| Missread the Map      |   1   | Thorn 🌹   |
+| Little-Known Shortcut |   1   | Star 🌟    |
+| Woo Wee & Wee Woo     |   1   | Chaos 🌪️   |
+| Roads not Taken       |   1   | Key 🗝     |
+| Smell the Roses       |   2   | Lips 💋    |
+| Race to the Line      |   2   | Sword 🔪   |
+| Entering and Breaking |   2   | Thunder ⚡ |
+| Unceasing Journey     |   2   | Heart ❤️   |
+| Steps, Steps, Steps   |   3   | Chaos 🌪️   |
+| Expedition to Nowhere |   3   | Key 🗝     |
 
 **Misspelling Hat** (3)
 _Summon Aroused Tyrannosaur to be added to the Council's list of banned spells_
