@@ -48,6 +48,7 @@ _I swear the extra arm was completely intentional. Goes with my third eye_
   - whenever you witness first hand the use of a spell you can try to learn it for yourself. To do so spend 1 hour during a rest or 2 hours if this isn't the first rest you are taking after witnessing it
   - you can also transcribe a spell you only have Reasonably second hand experience with, like reading it from a book, being in a place with visible effects of its cast, hearing witnesses talk about and so on. Doing so takes meaningful time, 2 hours during a rest, and it's not guaranteed to work: roll against the original caster of the spell, on a fail the attempt to learn it is fruitless
   - _Partial Learning -_ when you roll to learn a spell with _Watch and Learn_, if your result is a fail but it's still above half of the difficulty to learn it, you partially learn it. You count as knowing the spell but only know the name, level or symbol, chosen at random or by the Director. You can cast it, but only if the cast is valid. For example, if you don't know the level and attempt to cast it with a spell slot of lower level, the casting fails and you loose the spell slot. The same happens if you cast it with a narrative form not Reasonable with its name. Once you successfully cast it once, you learn all its information
+- _Exit Magic -_ specific spells are able to revolve conflict or resolve conflicts in a single cue, with this ability you can try to instantly end a clash or win it before it even starts. When you cast a spell, you can declare it as an exit spell. The spell will deal no damage and it can't be a persistent spell. However, if the number of successes are 5 or more and the spell would Reasonably cause the character to exit the scene, they do. A powerful banishing spell could send a demon back to hell. A sufficiently competent hack shut down a AI security robot. Note that the Director is encouraged to be very tight with what counts as an exit spell, you need a specific, masterfully crafted exiting effect adapted to the context of the adventure. If the spell isn't specific enough, or the number of successes are less than 5, the spell fails. You do learn if the spell wasn't Reasonably an exit spell however, regardless of success
 
 - spell slots: 3 level 1, 2 level 2, 1 level 3
 
@@ -155,13 +156,24 @@ _True love is the only magic able to resist its presence_
 - _Nullification -_ {2, rust} (rapid, when another character casts a spell): nullify target spell
 - _Arcane Ward -_ {1, exs} (rapid, when you get hit): If your previous turn you cast a spell with the same symbol as the attack, reduce its damage by 1. You may spend a spell slot when you use this ability, if you do further reduce the damage by the spell slot's level. _(damage can never be reduced below 0)_
 
+**Enchanting Stuff** (4)
+_Of course the column is supposed to move. You guys don't have walking columns yet?_
+
+- _Sculpt Spell -_ (1, rapid, whenever you cast a persistent spell): shape spell as a spell with a specific special effect. If the spell's narrative form Reasonably aligns with one of the following effects, that effect is active for the entirety of spell's duration, otherwise the spell fails
+  - _Animation Magic -_ target a prop, it becomes an extra with X WP and Y power, where X is is its space and Y the spell's level. All characters stop occupying it, if any character tries to occupy it, you may remove a dice from the spell's pool to give a MD to that character. The animated prop also removes 1 dice if they take damage (remember that the spell ends the pool is empty)
+  - _Domination Magic -_ target a character and take control of them. They cannot target your allied characters. Whenever the character could make a cue, you can force them to do so by removing 2 dice from the pool (remember that fleeing is a cue)
+  - _Lawmaking Magic -_ as part of the spell's narrative form, specify a Reasonable course of action or general behavior to be compulsory or forbidden. These law cannot be Reasonably clearly agains't the target's best interest, such as self harm. Any time the target makes a cue that goes against the law, the cue fails and a dice is removed from the pool
+  - _Intrusion Magic -_ you may target a prop that you know the existence of, even if it's not in the scene, as long as it has less WP than the spell's level. Your conciseness enters the prop and you may use the study action as if you were in its place. Every time you do expend X dice from the pool and the studying gains X MD, where X is number of times you've already used the study thought the prop since the spell started. If the prop is destroyed the spell ends
+  - _Paralyzing Magic -_ the target cannot stop occupying its current prop or occupy any prop, you can exhaust one of their traits or items, it can't be unexhaust. Any time that character targets it gains 1 MD and any time it is targeted the targeting gains 1 MD, each time remove 1 dice from the pool. Also remove a dice from the pool at the start of the target's turn
+  - (remember that all these effects generate a spell trait on the target, and that destroying it ends the spell, and so the effect)
+
 **Prefrontal Overclock** (5)
 \*Spare a Thought? I could never
 
-- _Spell Override -_ {3, action}: to use this ability you must be able to cast a spell. Cast a spell and choose choose one
-  - _Overload -_ if the spell is persistent the amount of dice generated in the spell trait is doubled and so is the number of them that can be spent each roll. If it's not persistent, it deals damage equal to its potential damage (you still need to roll to see if it passes)
-  - _Overcharge -_ the spell's targeting becomes unblockable
-- _Crack the Sky -_ {7, action, rust}: cast any spell you know the existence of, as a level 5 spell, without spending a spell slot. _(you do not need to be able to cast spells to do so)_
+- _Spell Override -_ (rapid, when you cast a spell) {2, exs, a spell slot of the same level or higher than the one used to cast the spell}: choose one of the following bonuses for the spell:
+  - _Overload -_ double the number of successes (this can go over the limit, such as over the potential damage or over the normal maximum number of dice stored in the pool of a persistent spell)
+  - _Overcharge -_ the spell's targeting automatically passes
+- _Crack the Sky -_ {7, action, rust}: cast any spell you know the existence of, as a level 5 spell, without spending a spell slot. You do not need to be able to cast spells to use this ability
 
 **Solar Scissors** (7)
 _The world moves, as the heavens lie still_
@@ -177,8 +189,16 @@ _The Artificier is an inventor and an artist. Their focus on creation allows the
 **Tools of Creation (Mythic)** (2)
 _Every time a creative person forgets an idea, an angel losses a finger_
 
-- _Masterworks -_ (1 uses per rest) {scene}: create a Masterwork, an item with no effects. It must a Reasonable narrative form and name to the tools and materials available to you. (being an item, it can be used during improvisation, additionally, like any items they be freely given to any character)
-- _Continuous Development -_ (1 use per level) {2 hours}: a Masterwork a willing character carries becomes improved. When this item is active all improved Masterworks have focus value 2
+- _Shape into Being -_ {scene}: create a temporary item with no effects and focus value 0. It must have Reasonable narrative form and name considering the tools and materials available to you in the scene. (being an item, it can be used during improvisation, additionally, like any items they be freely given to any character).
+  - _Masterworks -_ once per rest, the item you create can be a masterwork. It's not temporary anymore (meaning it doesn't get destroyed at end of scene), and has focus value 1. Only 4 masterworks can exist at any time
+- _Continuous Development -_ {2 hours}: target masterwork is improved and gains Focus Value 2 (note that you can give your masterworks to other characters). Then you may pay an additional {5} for the use of this ability, if you do, the masterwork gains one of the following additional bonuses. Only two bonus active on the same masterwork, if in the future you add a third, the older one is removed
+  - _Stabilization Harness -_ you count as not occupying any space when occupying props, and can occupy full props. While occupying a prop, this masterwork has focus value 3
+  - _Energy Core -_ when this masterwork is activated you generate 1 focus. It also gains {rust}: generate 3 focus
+  - _Temporal Mechanism -_ this masterwork gains "{rust}: take another turn after this one"
+  - _Servling -_ this masterwork gains "{exs}: activate an item you if can pay the activation cost ""
+  - _Precision Module -_ whenever a cue you make deals damage (attacks, spells and some abilities deal damage), for any rolled dice where the result is equal to the difficulty, you deal 1 extra damage
+  - _Armor Swarm -_ when you activate this masterwork every character of your choice gains 1 armor token
+  - _Signaling Beacon -_ this masterwork gains "{exs, action}: target character gains the minor curse "Lit", this item stays exhausted while the curse persists. While the curse persists, every time the cursed character is attacked the attack gains 1 potential damage"
 
 **Inscription Stylus**
 _When the thief realized "Explode Guts" wasn't the owner of the stolen staff it was already too late_
@@ -189,8 +209,13 @@ _When the thief realized "Explode Guts" wasn't the owner of the stolen staff it 
 **Rust-Wrench of Improvisation** (3)
 _Intellectual "property" is an oxymoron_
 
-- _Stochastic Development -_ {3}: this item becomes a copy of a random item in the scene until end of scene, except it also has this ability. If for some reason you can’t use the item (such as if a mythic was selected while you already have one) reselect, still at random
-- _Refurbish -_ (1 uses per rest) {scene}: target rusted item is unrusted
+- _Stochastic Development -_ {3}: this item becomes a copy of a random item in the scene until end of scene, except it all its original abilities. If for some reason you can’t use the item (such as if a mythic was selected while you already have one) reselect, still at random
+- _Stochastic Enhancement -_ {3}: roll 1d20, then choose a target character, they gain a random token corresponding to the result:
+  - _1-6_: armor
+  - _7-11_: power
+  - _8-16_: lucky
+  - _17-20:_ certainty
+- _Refurbish -_ (2 uses per rest) {scene}: target rusted item is unrusted
 
 **Mount Karl's Glassware** (3)
 _You will find every element of the period's table inside the blood of any self respecting alchemist_
@@ -205,6 +230,7 @@ _You will find every element of the period's table inside the blood of any self 
   - 18-19: _Haste -_ The target may immediately make an action as an interruption
   - 20: _Recovery -_ The target regains 6 WP
 - _Alchemical Integrity -_ {1 hours}: roll 1d20, then add or remove 1 from the result and record this number. Once, up until your next rest, whenever you use _Probabilistic Liquid_ you can choose to not roll the 1d20 and instead use that number. At the start of your next rest these numbers are lost
+- _Philosopher's Synthesis -_ {scene}: target consumable is transformed into an amounts of gold consumables equal to its price (common consumables cost 1 gold). These gold is magically unstable and will be destroyed at end of scene. It carries a major secret "Synthetic"
 
 **Robotic Ally** (5)
 _They ask me if a machine can truly love. I'm not sure they can_
@@ -224,8 +250,9 @@ _The barbarian is many things, but the main one is focused. This is a character 
 **A Rising Action (Mythic)** (2)
 _Vision blurs at edge, distant sounds abade, the target becomes clearer_
 
-- _Compounding Focus -_ {exs}: gain +1 potential damage on your next attack. If that hits, that bonus lasts until end of scene, or if you roll with a different symbol. When the permanent bonus becomes +3, the symbol gets exalted
-- _Impulsivity -_ whenever you go first in a clash you may do with this item already active. If you have surprised at least one character, you can make two attacks during your first turn
+- _Impulsivity -_ if you go first in a clash you may start the clash this item already active. If you have surprised at least one character, you can make two attacks during your first turn
+- _One Punch -_ {exs}: gain +1 potential damage on your next attack. If that hits, that bonus lasts until end of scene, or until you roll with a different symbol. When this bonus becomes +3, the symbol gets exalted
+- _Ten Thousand Times -_ whenever you make a non copied cue using an exalted symbol, copy the cue
 
 **Biface of the Reckless** (3)
 _I'll die to kill you, or I'll die trying_
@@ -237,25 +264,26 @@ _I'll die to kill you, or I'll die trying_
 
 - _Strike -_ whenever you hit, you regain your dodge
 - _Slip -_ (rapid, when you fail a dodge): if the dodge used the same symbol your last roll in this scene, you take no additional damage from failing the dodge
-- _Speed, Unrelenting -_ {7, exs}: you must have an exalted symbol to active this ability. Until end of scene, if you are targeted and the targeting character would roll over that exalted symbol, the targeting automatically fails
+- _Speed, Unrelenting -_ {5, exs}: you must have an exalted symbol to active this ability. Until end of scene, if you are targeted and the targeting character would roll over that exalted symbol, the targeting automatically fails
 
-**Lividity Tattoo** (5)
+**Lividity Tattoo** (4)
 _Courage is unpredictable. It's total insanity you can rely on!_
 
-- _Explosive Focus -_ (rapid, when you suffer an alternation while one of your symbols is exalted): if the alteration would stop the symbol from being exalted, you can ignore the alteration. If instead the alternation would exalt the symbol again, immediately make 2 attacks against any character(s)
-- _Exchange Focus -_ (rapid, when you resisted and alternation or start reprising): exalt one of your symbols
+- _Myriad Scars -_ whenever a character successfully targets you, if your symbol is exalted, you can add a scar charge to it. Whenever you are targeted and the targeting rolls over that symbol, the targeting gains 1 MD for each scar charge on it
+- _Emotional Outburst -_ (rapid, whenever a symbol is exalted): if a symbol you have is already exalted, you may remove one scar from it to ignore the exalting. If the exalted symbol is already exalted, you may attack a character and remove all scar charges from the symbol, the attack gains that much PD
+- _In Essence -_ (rapid, when you start reprising): exalt a symbol, as long as its exalted or until end of scene, all targeting on you fails unless its rolling over that symbol
 
 **Shattering Hammer** (5)
 _There's no lie in bones, and no deception in blood_
 
-- _Mutilate -_ {exs}: if your next attack hits, choose an item of the hit character and place X shatter charges on it. If it has 5 or more, destroy it
+- _Mutilate -_ {exs}: if your next attack hits, choose an item carried by the hit character and place an amount shatter charges on it equal to the damage dealt. If it has 5 or more, destroy it, if this number is over 5, deal all excess damage to the hit character
 - _Devastate -_ You deal double damage to props. Additionally, when you destroy a prop you may assign all excess damage to any amount of target character(s) that were inside it
 
 **The Circadian Rhythm** (5)
 _The beat that can't be stopped. The beat that won't be stopped. The beat that can't be stopped. The beat that must not be stopped_
 
 - _Sinus Dance -_ {exs}: until your next turn, no character can die, all targeting automatically successes. While this effect is active, if any character's symbol is exalted, all other character have that same symbol exalted
-- _The work is not done -_ {exs, turn an exalted symbol back to stable} (rapid, when you would go below 1 WP): you instead go to 1 WP
+- _Preservation of Existence -_ {exs, turn an exalted symbol back to stable} (rapid, when you would go below 1 WP): you instead go to 1 WP
 
 **Flintblade Handaxe** (7)
 _There was a time where the defeated themselves were the spoils of war_
@@ -327,50 +355,68 @@ _While every character excels at something, the fighter lives and dies by their 
 **Master of many Arms (Mythic)** (2)
 _Rip and Tear, until its Done_
 
-- _Combos -_ When you exs 2 or more items or traits to use the ability of an item, unexs another item or trait. _({exs} cost still count as exhausting, so abilities with cost such as {exs, 1} trigger this effect)_
+- _Weapon Rotation -_ When you exs 2 or more items or traits to use the ability of an item, unexs another item. ({exs} cost still count as exhausting, so abilities with cost such as {exs, 1} trigger this effect)
+- _Combo -_ when you hit a character, if your previous attack (not just this turn) hit the same character, you gain back your action. This ability triggers only once per turn
 - _Charged Strike -_ {1, exs, action}: make an attack with 1 BD
 
 **Crowdbreaker Axe** (3)
-_A grain of sand is nothing to a mountain, nor are ten thousands_
+_A grain of sand is nothing to a mountain, nor are millions of them_
 
 - _Cleave -_ {X, exs, action}: make X attacks against different characters, all these attacks gain X MD
-- _Decimate -_ the first time each turn that you make your third attack unexhaust this item
-
-**Colossus Shield** (3)
-_Protect yourself and you'll protect your people_
-
-- _Control -_ {X, exs}: gain X ephemeral taunt tokens. Until your next turn, every time you are targeted, that targeting gains 1 MD for each time you were already targeted
-- _Stagger -_ {1, exs, action}: target character in the scene gains 1 weak token. Until your next turn, if they attack you and fail, you can attack them as an interruption
+- _Control -_ {X, exs}: gain X ephemeral taunt tokens. Until your next turn, every time you are targeted, that targeting gains 1 MD for each time you were already targeted. The third time an attack misses after using this ability until your next turn, you can make an attack against the last character that missed as an interruption
+- _Decimate -_ the first time each turn that you make your third attack unexhaust this item and a trait
 
 **Duelist Rapier** (3)
 _Legends tell of young woman who raised her rapier against a goddess and her monolith_
 
-- _Foil -_ {1, exs, action}: make an attack, if it hits unexhaust a trait, you can only exhaust it to block until your next turn
+- _Foil -_ {1, exs, action}: make an attack, if it hits unexhaust a trait
 - _Riposte -_ {1, exs} (rapid, when a character you hit your last turn misses you): that character gains 1 vulnerable token
-
-**Veterans's Wit** (2)
-_All warfare is based on deception_
-
-- _Sharp Eye -_ {1, exs, action}: gain an aim token, then use the study action
-- _Sharp Mind -_ the first time of each of your turns when you exhaust all your items and traits, unexhaust this item
+- _Preparation -_ {1, exs, action}: gain an aim token, then you may study a target
+- _Sharp Mind -_ the first time of each of your turns when you exhaust this items and a trait
 
 **Commander's Cane** (3)
 _When I was done, we had gained six miles of ground, and half a million men were gone_
 
 - _Lifted Spirits -_ {2, exs}: target up to 2 characters. Until your next turn, whenever they gain a token they can choose to gain 2, once
 - _Martial Orders -_ {2, exs, action}: target character gains your choice of either an Armor or a Power token
+- _Combined Arms -_ {2, exs, action}: until your next turn, the next time a character attacks a character you may also attack that same character. If either of you spend a token, the other attacking character also benefits from that token
 
 **Huntsman's Bow** (3)
 _You might be breathing, doesn't mean you're alive_
 
 - ranged _(while this item is active, you can target flying character)_
-- _Score -_ when you activate this item you gain a precision token. If you surprise a character you also gain a precision token, this item doesn't need to be active for this ability to activate
-- _Predation -_ {1, exs, action}: make an attack, on hit remove an amount tokens from the target equal to the damage dealt. Damage from this Attack cannot be reduced
+- _Ambush -_ when you surprise one or more characters you gain a precision token, this item doesn't need to be active for this ability to trigger. You also gain a precision token when you activate this item
+- _Predation -_ {1, exs, action}: make an attack, on hit remove an amount tokens from the target up to the damage dealt. Damage from this attack cannot be reduced
+- _Marked -_ {1, exs, action}: make an attack, on hit the hit character gains the minor curse "Marked". While suffering from this curse, whenever a character targets that character you may choose to make them use one of your tokens as if they had (the token is still removed)
+
+**Ars Bellica** (4)
+_Swords and Lightning, Pistols and Thunder_
+
+- _Fury and Pride -_ when you win a clash, you regain a spell slot spent during that clash
+- _Slash and Cast -_ when you make an attack as a result of an item's ability, you can instead cast a spell. Every effects applicable apply, such as potential damage bonuses, BD/MD and so on. (It still counts as an attack)
+- _Arcane Exhaustion -_ when you spend your third spell slot, unexhaust this item and a trait, then the count of spent spell slots is reset to 0
+- Spell slots: 3 level 1, 2 level 2, 1 level 3
+
+| spell Name             | level | symbol     |
+| ---------------------- | :---: | ---------- |
+| Theories for Victory   |   1   | Lantern 🕯 |
+| Planned Execution      |   1   | Clock ⏱    |
+| Enticing Sacrifice     |   1   | Lips 💋    |
+| Threaten Mate          |   1   | Sword 🔪   |
+| Pinned Down            |   1   | Thorn 🌹   |
+| Brilliant Move         |   1   | Star 🌟    |
+| Control the Center     |   2   | Heart ❤️   |
+| Break The Castle       |   2   | Thunder ⚡ |
+| King's Gambit          |   2   | Chaos 🌪️   |
+| En Passant             |   2   | Key 🗝     |
+| Invincible Audacity    |   3   | Sword 🔪   |
+| Overwhelming Certainty |   3   | Thunder ⚡ |
 
 **Heart of the Dragon** (5)
 _I fear not the man who has practiced one kick 10000 times, but the man who has practiced 10000 kicks 10000 times_
 
 - _Heavenly Whirlwind -_ {3, exs, action:} for the rest of the turn, whenever you make an attack because of an item's ability and hit, you gain back your action but can only use it to activate abilities. Then make an attack
+- _Cultivation of War -_ if you make at least five attacks in a single turn, you cannot go to 0 WP until your next turn
 
 **The One Armed Wolf** (5)
 _Hesitation is defeat_
@@ -405,6 +451,7 @@ _Expect the worst. Hope for the best_
 - _Improvisation -_ in rolls made outside of a clash you can gain up to 4 BD from up to 3 props
 - _Preparation -_ (2 uses per rest): you have a flashback in which you can narrate a Reasonably short scene that can require only up to 1 roll and it can’t involve any clashes. In that scene any action you perform carries over to the present. You can for example explain how you read an important information you had access to. You can perform the single roll to narrate how you stole an important item from a character a few hours ago, and so on. The Flashback can only go so far as since your last rest (included). From this Flashback you can gain up to 2 props
 - _The Long Game -_ (1 user per level): use _Preparation_, but the flashback scene can include any amount of rolls, a single clash, and can be set in a time before your last rest
+- _The Setup -_ {scene}: you can prepare the scene for an ambush or surprise assault. Target narrative prop is setup, if the next scene is a clash and the setup prop would Reasonably give you an advantage in the clash, you may threat it as a trait with focus value 1. If you exhaust it to make an attack and it's a hit, you deal 3 bonus damage and the narrative prop is destroyed
 
 **Researcher's Board** (2)
 _It's amazing how much damage you can do with a wooden plank, pins and some red strings_
@@ -468,24 +515,22 @@ _This is a lot more than a wooden cross_
 
 - _Bless the Faithful -_ {1, exs}: target character gains 1 critical chance until end of scene
 - _Gather the Faithful -_ your critical chance is increased by 1 for each allied character which currently has any bonus critical chance
-
-**Unstable Censer** (3)
-_May the will of my Gods ignite either your spirits or your bodies_
-
-- _Trinitybenzene -_ When you Hit a character with a revelation you may choose one of the following effects
-  - _Debilitation -_ target that character, they gain your choice of a weak or vulnerable token
-  - _Confusion -_ exhaust target active item carried by that character, it doesn't unexhaust during their next breath step and looses all abilities until then
+- _Trinitybenzene -_ when you hit a character with a revelation you may choose one of the following effects
+  - _Debilitation -_ the hit character gains your choice of a weak or vulnerable token
+  - _Confusion -_ exhaust an active item carried by that character, it doesn't unexhaust during their next breath step and looses all abilities until then
 
 **Shepard's Crook** (3)
 _You will find that God doesn't reside within people as much as between them_
 
 - _A Friend's Comfort -_ {exs, action, a spell slot of level X}: target character heals X WP. Once per clash, if that character is reprising you gain back the spell slot
+- _Bonded Spirits -_ each allied character in the scene gains an extra basic action called Help with "{X, action}: target character gains X focus until the end of their next turn"
+- _Herd's Song -_ whenever an allied character that isn't you targets another allied character for the first time each clash, the target gains 1 critical chance until end of scene
 
 **Divine Intervention** (3)
 _In times of need, the only need is extra time_
 
 - _Not Now -_ {3, action, rust}: target character takes an extra turn after this one
-- _Not Here -_ When an allied character rolls a critical, you may activate this item as a Interruption. If this item is already active, once per rest, instead you may use _Not Now_ for free, still as an interruption
+- _Not Here -_ when an allied character rolls a critical, you may activate this item as a Interruption. If this item is already active, once per rest, instead you may use _Not Now_ for free, still as an interruption
 
 **Officiant Rings** (3)
 \*An unstoppable, undeniable force that permanently changes you. What can you call love if not eldritch?
@@ -497,7 +542,7 @@ _In times of need, the only need is extra time_
 _Are you here?_
 
 - _Absolve -_ (rapid, when a character would die or suffer a major finale): roll 1d20, then add your critical chance, if the result is 20 or more, the finale doesn't happen or the character doesn't die. Instead you and all your allied character regain all WP. Immediately end the turn.
-- _Judgment -_ (1 use per level) (rapid, when a character dies or suffer a major finale): target that character. You can then create special major finale in which that character is sealed away in some way. This may be a good place, such as endless green pasture with infinite food and water, a hall of heroes to feast and fight with forever, a planet that bends to their will and desires. Or a bad place, such as pits of endless torture, an empty ethereal white room, a constant nightmarish dimension, and so on. State then a Reasonable condition to free the character, such as destroying a specific item, chanting the right incantations, or anything deemed Reasonable by the Director. Show mercy when you can. Show justice when you need
+- _Judgment -_ (1 use per level) (rapid, when a character dies or suffer a major finale): target that character. You can then create special major finale in which that character is sealed away in some way. This may be a good place, such as endless green pasture with endless solace, a hall of heroes to feast and fight with forever, a planet that bends to their will and desires. Or a bad place, such as pits of endless torture, an empty ethereal white room, a constant nightmarish dimension, and so on. State then a Reasonable condition to free the character, such as destroying a specific item, chanting the right incantations, or anything deemed Reasonable by the Director. Show mercy when you can. Show justice when you need
 
 **Solar Interest** (7)
 _At times you will feel as if the world revolves around you. Sometimes, you will be right_
