@@ -3,7 +3,7 @@ name: Deploy Quartz site to GitHub Pages
 on:
   push:
     branches:
-      - v4
+      - main
 
 permissions:
   contents: read
@@ -18,20 +18,41 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout content repo
+        uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetch all history for git info
+          path: content-repo
+          fetch-depth: 0
+
+      - name: Checkout quartz-base engine
+        uses: actions/checkout@v4
+        with:
+          repository: simonelusetti/quartz-base
+          path: quartz-engine
+          fetch-depth: 0
+
+      - name: Overlay content and config onto engine
+        run: |
+          cp -r content-repo/content/. quartz-engine/content/
+          cp content-repo/quartz.config.ts quartz-engine/quartz.config.ts
+          cp content-repo/quartz.layout.ts quartz-engine/quartz.layout.ts
+
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Install Dependencies
+
+      - name: Install dependencies
+        working-directory: quartz-engine
         run: npm ci
+
       - name: Build Quartz
+        working-directory: quartz-engine
         run: npx quartz build
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: public
+          path: quartz-engine/public
 
   deploy:
     needs: build
