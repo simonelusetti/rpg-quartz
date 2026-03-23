@@ -33,6 +33,8 @@ jobs:
 
       - name: Overlay content and config onto engine
         run: |
+          rm -rf quartz-engine/content
+          mkdir -p quartz-engine/content
           cp -r content-repo/content/. quartz-engine/content/
           cp content-repo/quartz.config.ts quartz-engine/quartz.config.ts
           cp content-repo/quartz.layout.ts quartz-engine/quartz.layout.ts
